@@ -4,21 +4,43 @@ import type { Product } from '../../types';
 import productsData from '../../data/products.json';
 
 const products: Product[] = productsData;
+
+// Get unique categories
+const categories = [...new Set(products.map(p => p.category))].sort();
 ---
 
 <Layout title="台灣製造產品 - 台灣支持名錄">
   <h1>台灣製造產品</h1>
-  <p class="intro">優質的 Made in Taiwan 產品，品質保證。</p>
+  <p class="intro">優質的 Made in Taiwan 產品推薦，共 {products.length} 項產品。</p>
+
+  <div class="filter-container">
+    <button class="filter-btn active" data-category="all">全部</button>
+    {categories.map((cat) => (
+      <button class="filter-btn" data-category={cat}>{cat}</button>
+    ))}
+  </div>
 
   {products.length > 0 ? (
     <div class="card-grid">
       {products.map((item) => (
-        <div class="card">
-          <h3>{item.name}</h3>
-          <span class="tag">{item.category}</span>
-          <p><strong>品牌：</strong>{item.brand}</p>
-          <p>{item.description}</p>
-          <p><a href={item.website} target="_blank" rel="noopener noreferrer">官方網站 →</a></p>
+        <div class="card" data-category={item.category}>
+          <h3>{item.brand}</h3>
+          <div class="tags">
+            <span class="tag">{item.category}</span>
+            <span class="tag tag-item">{item.item}</span>
+            {item.is_recommender && <span class="tag tag-recommender">網友推薦</span>}
+          </div>
+          {item.reason && (
+            <p class="reason">{item.reason}</p>
+          )}
+          {item.notes && (
+            <p class="notes">{item.notes}</p>
+          )}
+          {item.website ? (
+            <p><a href={item.website} target="_blank" rel="noopener noreferrer">查看連結 →</a></p>
+          ) : (
+            <p class="no-link">請自行搜尋購買</p>
+          )}
         </div>
       ))}
     </div>
@@ -26,3 +48,104 @@ const products: Product[] = productsData;
     <p class="empty">目前沒有資料，歡迎貢獻！</p>
   )}
 </Layout>
+
+<style>
+  .filter-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .filter-btn {
+    padding: 0.5rem 1rem;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    background: var(--card-bg);
+    cursor: pointer;
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: var(--text-muted);
+    transition: all 0.2s ease;
+  }
+
+  .filter-btn:hover {
+    border-color: var(--primary);
+    color: var(--primary);
+    background: var(--bg-alt);
+  }
+
+  .filter-btn.active {
+    background: var(--primary);
+    color: white;
+    border-color: var(--primary);
+  }
+
+  .tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .tag-item {
+    background: #fff5f5;
+    color: var(--accent);
+    border-color: #fed7d7;
+  }
+
+  .tag-recommender {
+    background: #f0fff4;
+    color: #276749;
+    border-color: #9ae6b4;
+  }
+
+  .reason {
+    font-size: 0.85rem;
+    color: var(--primary-light);
+    margin: 0.25rem 0;
+    font-style: italic;
+  }
+
+  .notes {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    margin: 0.25rem 0;
+  }
+
+  .no-link {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    font-style: italic;
+  }
+
+  .card.hidden {
+    display: none;
+  }
+</style>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const filterBtns = document.querySelectorAll('.filter-btn');
+    const cards = document.querySelectorAll('.card');
+
+    filterBtns.forEach(btn => {
+      btn.addEventListener('click', () => {
+        const category = btn.getAttribute('data-category');
+
+        // Update active button
+        filterBtns.forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+
+        // Filter cards
+        cards.forEach(card => {
+          if (category === 'all' || card.getAttribute('data-category') === category) {
+            card.classList.remove('hidden');
+          } else {
+            card.classList.add('hidden');
+          }
+        });
+      });
+    });
+  });
+</script>

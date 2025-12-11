@@ -1,0 +1,37 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import type { Singer } from '../../types';
+import singersData from '../../data/singers.json';
+
+const singers: Singer[] = singersData;
+---
+
+<Layout title="歌手/樂團 - 台灣支持名錄">
+  <h1>歌手/樂團</h1>
+  <p class="intro">支持台灣的歌手與樂團，共 {singers.length} 位/組。</p>
+
+  {singers.length > 0 ? (
+    <div class="card-grid">
+      {singers.map((item) => (
+        <div class="card">
+          <h3>{item.name}</h3>
+          {item.notes && item.notes.startsWith('http') ? (
+            <p><a href={item.notes} target="_blank" rel="noopener noreferrer">相關連結 →</a></p>
+          ) : item.notes && item.notes !== 'Ｘ' && item.notes !== 'X' ? (
+            <p class="notes">{item.notes}</p>
+          ) : null}
+        </div>
+      ))}
+    </div>
+  ) : (
+    <p class="empty">目前沒有資料，歡迎貢獻！</p>
+  )}
+</Layout>
+
+<style>
+  .notes {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    margin: 0.25rem 0;
+  }
+</style>

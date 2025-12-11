@@ -1,30 +1,483 @@
 [
   {
-    "name": "大同電鍋",
-    "brand": "大同",
+    "category": "3C",
+    "item": "行動電源",
+    "brand": "ENABLE",
+    "website": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13527559&Area=search&mdiv=403&oid=1_1&cid=index&kw=ENABLE",
+    "is_recommender": true,
+    "name": "ENABLE 行動電源"
+  },
+  {
+    "category": "3C",
+    "item": "行動電源",
+    "brand": "mycell",
+    "website": "https://mycell.com.tw/product-category/mit/",
+    "name": "mycell 行動電源"
+  },
+  {
+    "category": "3C",
+    "item": "行動電源",
+    "brand": "MIT電霸 PD+USB 18W 鋁合金",
+    "website": "請自己找 PCHome 或 Momo 購物",
+    "name": "MIT電霸 PD+USB 18W 鋁合金 行動電源"
+  },
+  {
+    "category": "3C",
+    "item": "行動電源",
+    "brand": "Innergie (台達電)",
+    "website": "請自己找 PCHome 或 Momo 購物",
+    "name": "Innergie (台達電) 行動電源"
+  },
+  {
     "category": "家電",
-    "description": "台灣經典家電，耐用品質保證",
-    "website": "https://www.tatung.com.tw"
+    "item": "電茶壺",
+    "brand": "丞漢",
+    "name": "丞漢 電茶壺"
   },
   {
-    "name": "台灣啤酒",
-    "brand": "台灣菸酒",
-    "category": "飲料",
-    "description": "台灣本土品牌啤酒",
-    "website": "https://www.ttl.com.tw"
+    "category": "傢俱寢飾",
+    "item": "寢具",
+    "brand": "德瑞克",
+    "is_recommender": true,
+    "name": "德瑞克 寢具"
   },
   {
-    "name": "捷安特自行車",
-    "brand": "Giant",
-    "category": "運動",
-    "description": "世界知名的台灣自行車品牌",
-    "website": "https://www.giant-bicycles.com"
+    "category": "傢俱寢飾",
+    "item": "寢具",
+    "brand": "Urban Nest",
+    "website": "https://www.urbannest.com.tw",
+    "reason": "台派 https://www.threads.com/@ki2.kun.ting5/post/DNsmYpH4nJR?xmt=AQF0qJjGf_SXmr3cmlDo2wFNIOfZPthXwBj4GZKgn3a9oQ&slof=1",
+    "name": "Urban Nest 寢具"
   },
   {
-    "name": "華碩筆電",
-    "brand": "ASUS",
-    "category": "電腦",
-    "description": "台灣之光，品質與創新兼具",
-    "website": "https://www.asus.com"
+    "category": "傢俱寢飾",
+    "item": "床墊",
+    "brand": "德泰",
+    "website": "https://www.teh-tai.com.tw/index.html?utm_source=google&utm_medium=cpc&utm_campaign=lelekcreative&utm_content=keyword&gad_source=1&gad_campaignid=22031668699&gbraid=0AAAAAq03au3PGJd8K-4OVwq61oSysHl1y&gclid=CjwKCAjwy7HEBhBJEiwA5hQNogIEXFLnM6jOiel47_6cGWCGT7tdwxU3B-F_2q70LG_Z55G6ppVXMhoC7CIQAvD_BwE",
+    "is_recommender": true,
+    "name": "德泰 床墊"
+  },
+  {
+    "category": "傢俱寢飾",
+    "item": "床墊",
+    "brand": "眠豆腐",
+    "is_recommender": true,
+    "name": "眠豆腐 床墊"
+  },
+  {
+    "category": "傢俱寢飾",
+    "item": "木製品",
+    "brand": "木鳴木翠",
+    "name": "木鳴木翠 木製品"
+  },
+  {
+    "category": "傢俱寢飾",
+    "item": "枕頭",
+    "brand": "忘憂枕",
+    "website": "https://shop.add.one/campaign/product/11746177?shop=c490db8df20d9078a789f5ec3e321318",
+    "is_recommender": true,
+    "name": "忘憂枕 枕頭"
+  },
+  {
+    "category": "傢俱寢飾",
+    "item": "竹蓆",
+    "brand": "鹿港",
+    "name": "鹿港 竹蓆"
+  },
+  {
+    "category": "寵物",
+    "item": "貓砂",
+    "brand": "挖貓砂",
+    "website": "https://www.threads.com/@steventxai?igshid=NTc4MTIwNjQ2YQ==",
+    "is_recommender": true,
+    "name": "挖貓砂 貓砂"
+  },
+  {
+    "category": "寵物",
+    "item": "貓鏟",
+    "brand": "防禦工事",
+    "website": "https://www.t-fence.com.tw/products/hururu-wa-sai-cat-litter-scoop",
+    "is_recommender": true,
+    "name": "防禦工事 貓鏟"
+  },
+  {
+    "category": "文具/手作",
+    "item": "剪刀",
+    "brand": "ARSENAL",
+    "website": "https://www.arsenaltoolinc.com/product.php?lang=tw&tb=1&cid=28",
+    "name": "ARSENAL 剪刀"
+  },
+  {
+    "category": "文具/手作",
+    "item": "手工布作品牌",
+    "brand": "瀏海樹BANGSTREE",
+    "website": "https://www.bangstree.com/?fbclid=PAQ0xDSwL5nT5leHRuA2FlbQIxMQABp82juhv0tWp4L0Z6M5xlJhpEIzFT-iPFaMuhcrWXCXNtbwlW67FOlTYUxgA2_aem_UB3XKfV20U2B5jKKpc1ZMg",
+    "reason": "品牌脆發文挺罷免",
+    "is_recommender": true,
+    "name": "瀏海樹BANGSTREE 手工布作品牌"
+  },
+  {
+    "category": "文具/手作",
+    "item": "放大鏡",
+    "brand": "俞泰",
+    "website": "https://share.google/kSPyy7ptbpEBPekeY",
+    "reason": "全台灣製",
+    "is_recommender": true,
+    "name": "俞泰 放大鏡"
+  },
+  {
+    "category": "文具/手作",
+    "item": "服裝材料",
+    "brand": "麗福服裝材料鈕線行",
+    "website": "https://g.co/kgs/3UMfevU",
+    "reason": "推薦文>>https://www.threads.com/@tokotoko_yarn/post/DMzhnnbxtvl?xmt=AQF0LM8DUsi4QFh97rGbDdQil0bb4U8mfoR4IUXeBPpXKQ",
+    "is_recommender": true,
+    "name": "麗福服裝材料鈕線行 服裝材料"
+  },
+  {
+    "category": "文具/手作",
+    "item": "木製玩具",
+    "brand": "玩偶的家",
+    "website": "https://share.google/dCGEKIwIH3QJXujCW",
+    "reason": "台灣製 台灣精品得獎廠商",
+    "is_recommender": true,
+    "name": "玩偶的家 木製玩具"
+  },
+  {
+    "category": "文具/手作",
+    "item": "膠帶",
+    "brand": "四維鹿頭牌膠帶",
+    "website": "https://share.google/hDLXF1kvmAh36upns",
+    "reason": "台灣製 台灣精品得獎廠商",
+    "is_recommender": true,
+    "name": "四維鹿頭牌膠帶 膠帶"
+  },
+  {
+    "category": "文具/手作",
+    "item": "釘槍 裁紙機",
+    "brand": "KW-TRIO 堡勝",
+    "website": "https://zh-tw.kw-trio.com/",
+    "reason": "彰化工廠 台灣精品得獎廠商",
+    "is_recommender": true,
+    "name": "KW-TRIO 堡勝 釘槍 裁紙機"
+  },
+  {
+    "category": "服飾時尚",
+    "item": "內衣",
+    "brand": "巧宿",
+    "name": "巧宿 內衣"
+  },
+  {
+    "category": "服飾時尚",
+    "item": "內褲",
+    "brand": "好感未來",
+    "website": "https://www.melike.tw/?srsltid=AfmBOopmcWbUVjHbPKkV4CAWiEmF59Z_0VB-WqbtjGUdXn5ZdjjbIcOY",
+    "is_recommender": true,
+    "name": "好感未來 內褲"
+  },
+  {
+    "category": "服飾時尚",
+    "item": "內褲🩲",
+    "brand": "瑪榭",
+    "website": "https://marcella.com.tw/collections/discount_id-12",
+    "is_recommender": true,
+    "name": "瑪榭 內褲🩲"
+  },
+  {
+    "category": "服飾時尚",
+    "item": "內褲襪子",
+    "brand": "aPure",
+    "name": "aPure 內褲襪子"
+  },
+  {
+    "category": "服飾時尚",
+    "item": "包包",
+    "brand": "CLM-Taiwan",
+    "website": "https://www.threads.com/@clm_taiwan/post/DQHJCv2j7XX?xmt=AQF02k6yCJeBKB1z0ZdvtyADUvbm_ZRce5jYbkrJIsVuSg&slof=1",
+    "name": "CLM-Taiwan 包包"
+  },
+  {
+    "category": "服飾時尚",
+    "item": "包袋",
+    "brand": "Entadar",
+    "name": "Entadar 包袋"
+  },
+  {
+    "category": "服飾時尚",
+    "item": "壓力褲",
+    "brand": "Nuconcept",
+    "name": "Nuconcept 壓力褲"
+  },
+  {
+    "category": "服飾時尚",
+    "item": "戰術背包",
+    "brand": "Magforce",
+    "name": "Magforce 戰術背包"
+  },
+  {
+    "category": "服飾時尚",
+    "item": "涼感T",
+    "brand": "好感未來",
+    "website": "https://www.melike.tw/?srsltid=AfmBOopmcWbUVjHbPKkV4CAWiEmF59Z_0VB-WqbtjGUdXn5ZdjjbIcOY",
+    "is_recommender": true,
+    "name": "好感未來 涼感T"
+  },
+  {
+    "category": "服飾時尚",
+    "item": "涼感巾 發熱衣",
+    "brand": "ShineBeam 上比",
+    "website": "https://www.shine-beam.com/",
+    "reason": "台灣製 台灣精品得獎廠商",
+    "is_recommender": true,
+    "name": "ShineBeam 上比 涼感巾 發熱衣"
+  },
+  {
+    "category": "服飾時尚",
+    "item": "真皮手工女鞋",
+    "brand": "SNN",
+    "website": "https://www.threads.com/@snnshoes?igshid=NTc4MTIwNjQ2YQ==",
+    "name": "SNN 真皮手工女鞋"
+  },
+  {
+    "category": "服飾時尚",
+    "item": "背包",
+    "brand": "Bagcom",
+    "name": "Bagcom 背包"
+  },
+  {
+    "category": "服飾時尚",
+    "item": "衣服鞋襪",
+    "brand": "UV100",
+    "name": "UV100 衣服鞋襪"
+  },
+  {
+    "category": "服飾時尚",
+    "item": "衣服鞋襪",
+    "brand": "三十革",
+    "name": "三十革 衣服鞋襪"
+  },
+  {
+    "category": "服飾時尚",
+    "item": "衣服鞋襪",
+    "brand": "SoundGood",
+    "name": "SoundGood 衣服鞋襪"
+  },
+  {
+    "category": "服飾時尚",
+    "item": "襪子",
+    "brand": "好感未來",
+    "website": "https://www.melike.tw/?srsltid=AfmBOopmcWbUVjHbPKkV4CAWiEmF59Z_0VB-WqbtjGUdXn5ZdjjbIcOY",
+    "is_recommender": true,
+    "name": "好感未來 襪子"
+  },
+  {
+    "category": "服飾時尚",
+    "item": "運動襪",
+    "brand": "Oh9",
+    "name": "Oh9 運動襪"
+  },
+  {
+    "category": "服飾時尚",
+    "item": "靴子",
+    "brand": "Northwest",
+    "name": "Northwest 靴子"
+  },
+  {
+    "category": "生活日用",
+    "item": "3D立體口罩 可水洗",
+    "brand": "dc克微粒",
+    "website": "https://dctpro.com/tw/",
+    "reason": "台灣製 台灣精品得獎廠商",
+    "is_recommender": true,
+    "name": "dc克微粒 3D立體口罩 可水洗"
+  },
+  {
+    "category": "生活日用",
+    "item": "京揚抹布",
+    "brand": "洗碗海綿, 乾髮帽",
+    "name": "洗碗海綿, 乾髮帽 京揚抹布"
+  },
+  {
+    "category": "生活日用",
+    "item": "口袋濾水器 \n軟水壺",
+    "brand": "膜淨材料",
+    "website": "https://share.google/Zgq33yFyuakhSyoFV",
+    "reason": "黑熊學院合作+台灣精品得獎廠商",
+    "is_recommender": true,
+    "name": "膜淨材料 口袋濾水器 \n軟水壺"
+  },
+  {
+    "category": "生活日用",
+    "item": "延長線",
+    "brand": "極野家",
+    "website": "https://www.886-design.com.tw/products/6%E9%96%8B6%E6%8F%92%E9%81%8E%E8%BC%89%E4%BF%9D%E8%AD%B7%E5%BB%B6%E9%95%B7%E7%B7%9A-18%E7%B1%B3-v2-hps2660ag18-%E8%BB%8D%E7%B6%A0#desc_section_2",
+    "is_recommender": true,
+    "name": "極野家 延長線"
+  },
+  {
+    "category": "生活日用",
+    "item": "手工具",
+    "brand": "King Tony 金統立",
+    "name": "King Tony 金統立 手工具"
+  },
+  {
+    "category": "生活日用",
+    "item": "手工具",
+    "brand": "Alstrong 台灣 a 牌",
+    "name": "Alstrong 台灣 a 牌 手工具"
+  },
+  {
+    "category": "生活日用",
+    "item": "手工具",
+    "brand": "振宇五金 (高比例台製, 也有中國貨)",
+    "name": "振宇五金 (高比例台製, 也有中國貨) 手工具"
+  },
+  {
+    "category": "生活日用",
+    "item": "旅行真空壓縮機\n&收納袋",
+    "brand": "Vago",
+    "website": "https://share.google/xYevffdHlh7HYYiT5",
+    "reason": "台灣製 台灣精品得獎廠商",
+    "is_recommender": true,
+    "name": "Vago 旅行真空壓縮機\n&收納袋"
+  },
+  {
+    "category": "生活日用",
+    "item": "棉花棒",
+    "brand": "辰昱",
+    "website": "https://www.maskmart.co/products/chenyu-pure-cotton-swabs?srsltid=AfmBOorL5uMGxgZndQhN_VjoZZtzV1AmCpvby4QC9apoKIchCb29Q8Qe",
+    "is_recommender": true,
+    "name": "辰昱 棉花棒"
+  },
+  {
+    "category": "生活日用",
+    "item": "毛巾",
+    "brand": "興隆毛巾",
+    "name": "興隆毛巾 毛巾"
+  },
+  {
+    "category": "生活日用",
+    "item": "沖泡茶具 保溫杯",
+    "brand": "飄逸杯",
+    "website": "https://share.google/sY9I1xDJ8TigX9dSO",
+    "reason": "台灣製 台灣精品得獎廠商",
+    "is_recommender": true,
+    "name": "飄逸杯 沖泡茶具 保溫杯"
+  },
+  {
+    "category": "生活日用",
+    "item": "無痕吸盤掛勾",
+    "brand": "FECA非卡",
+    "website": "https://www.fecashop.com/?gad_source=1&gad_campaignid=20948648113&gclid=CjwKCAjwy7HEBhBJEiwA5hQNokbZs9osjYYvWFDYoprZV-hynobQym-lAt1h5mrRU3XSlAifNFLAYhoCSY8QAvD_BwE",
+    "reason": "台灣製 台灣精品得獎廠商",
+    "is_recommender": true,
+    "name": "FECA非卡 無痕吸盤掛勾"
+  },
+  {
+    "category": "生活日用",
+    "item": "牙刷",
+    "brand": "無印良品",
+    "website": "其中一款有",
+    "is_recommender": true,
+    "name": "無印良品 牙刷"
+  },
+  {
+    "category": "美妝個清",
+    "item": "乾髮帽",
+    "brand": "好好棉",
+    "website": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=11933577&srsltid=AfmBOor_g-5NyiWKaQBY8U5SuUk9WhM6ltHswlM5Pz0LREV0Y1MXOhgB",
+    "is_recommender": true,
+    "name": "好好棉 乾髮帽"
+  },
+  {
+    "category": "美妝個清",
+    "item": "免沖洗護髮霜",
+    "brand": "SH-RD 史高師設",
+    "website": "https://share.google/e6OIQUvF0zCo9VqGT",
+    "reason": "台灣製 台灣精品得獎廠商",
+    "is_recommender": true,
+    "name": "SH-RD 史高師設 免沖洗護髮霜"
+  },
+  {
+    "category": "美妝個清",
+    "item": "好好棉",
+    "brand": "乾髮帽",
+    "is_recommender": true,
+    "name": "乾髮帽 好好棉"
+  },
+  {
+    "category": "美妝個清",
+    "item": "面膜",
+    "brand": "安妮絲薇",
+    "website": "https://share.google/lqRXSl3i2VoNzf3uZ",
+    "reason": "台灣製 台灣精品得獎廠商",
+    "is_recommender": true,
+    "name": "安妮絲薇 面膜"
+  },
+  {
+    "category": "衛浴",
+    "item": "水龍頭 衛浴設備",
+    "brand": "人水良品衛浴",
+    "website": "https://share.google/67O9HdbcLMGu3IY0Q",
+    "reason": "台灣製 台灣精品得獎廠商",
+    "is_recommender": true,
+    "name": "人水良品衛浴 水龍頭 衛浴設備"
+  },
+  {
+    "category": "衛浴",
+    "item": "蓮蓬頭",
+    "brand": "LOLAT 羅力",
+    "name": "LOLAT 羅力 蓮蓬頭"
+  },
+  {
+    "category": "運動/戶外",
+    "item": "傘",
+    "brand": "富雨陽傘",
+    "website": "https://www.beo-chion.com",
+    "is_recommender": true,
+    "name": "富雨陽傘 傘"
+  },
+  {
+    "category": "運動/戶外",
+    "item": "拖鞋",
+    "brand": "維諾妮卡",
+    "website": "https://www.momoshop.com.tw/goods/GoodsDetail.jsp?i_code=13218683&Area=search&mdiv=403&oid=1_1&cid=index&kw=維諾妮卡",
+    "is_recommender": true,
+    "name": "維諾妮卡 拖鞋"
+  },
+  {
+    "category": "運動/戶外",
+    "item": "泳鏡",
+    "brand": "SAEKO 泳鏡",
+    "website": "https://www.saekotw.com/?srsltid=AfmBOor1EGK7wGfQrDG9xp8Y83jh3lSWGA4Tw8bG2pH1i_-3mcVIyXo4",
+    "reason": "台灣製 台灣精品得獎廠商",
+    "is_recommender": true,
+    "name": "SAEKO 泳鏡 泳鏡"
+  },
+  {
+    "category": "運動/戶外",
+    "item": "雨傘",
+    "brand": "富洋雨傘",
+    "is_recommender": true,
+    "name": "富洋雨傘 雨傘"
+  },
+  {
+    "category": "食品/保健",
+    "item": "果乾茶",
+    "website": "https://www.threads.com/@happinessegg.taiwan/post/DN5FWpAkUwM?xmt=AQF0X4-bcia-r-lLniwlq1g8AqzXOGYp1lj5GiELy9jOCQ&slof=1",
+    "is_recommender": true,
+    "name": "果乾茶"
+  },
+  {
+    "category": "汽機車",
+    "item": "洗車用品",
+    "brand": "Wakeme",
+    "name": "Wakeme 洗車用品"
+  },
+  {
+    "category": "汽機車",
+    "item": "車",
+    "brand": "X Trail",
+    "name": "X Trail 車"
   }
 ]

@@ -4,7 +4,9 @@ interface Props {
 }
 
 const { title } = Astro.props;
-const baseUrl = import.meta.env.BASE_URL;
+const baseUrl = import.meta.env.BASE_URL.endsWith('/')
+  ? import.meta.env.BASE_URL
+  : `${import.meta.env.BASE_URL}/`;
 ---
 
 <!doctype html>
@@ -29,8 +31,10 @@ const baseUrl = import.meta.env.BASE_URL;
         <ul>
           <li><a href={`${baseUrl}products/`}>台灣製造</a></li>
           <li><a href={`${baseUrl}stores/`}>友善店家</a></li>
-          <li><a href={`${baseUrl}companies/`}>支持企業</a></li>
-          <li><a href={`${baseUrl}youtubers/`}>創作者</a></li>
+          <li><a href={`${baseUrl}singers/`}>歌手/樂團</a></li>
+          <li><a href={`${baseUrl}actors/`}>演員</a></li>
+          <li><a href={`${baseUrl}artists/`}>藝術家</a></li>
+          <li><a href={`${baseUrl}misc/`}>其他創作者</a></li>
         </ul>
       </nav>
     </header>
@@ -45,12 +49,17 @@ const baseUrl = import.meta.env.BASE_URL;
 
 <style is:global>
   :root {
-    --primary: #0066b3;
-    --secondary: #e60012;
-    --bg: #fafafa;
-    --text: #333;
-    --card-bg: #fff;
-    --border: #e0e0e0;
+    --primary: #1a365d;
+    --primary-light: #2c5282;
+    --accent: #c53030;
+    --bg: #f7fafc;
+    --bg-alt: #edf2f7;
+    --text: #1a202c;
+    --text-muted: #4a5568;
+    --card-bg: #ffffff;
+    --border: #e2e8f0;
+    --shadow: 0 1px 3px rgba(0,0,0,0.08), 0 1px 2px rgba(0,0,0,0.06);
+    --shadow-md: 0 4px 6px rgba(0,0,0,0.07), 0 2px 4px rgba(0,0,0,0.06);
   }
 
   * {
@@ -60,10 +69,10 @@ const baseUrl = import.meta.env.BASE_URL;
   }
 
   html {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
     background: var(--bg);
     color: var(--text);
-    line-height: 1.6;
+    line-height: 1.7;
   }
 
   body {
@@ -75,8 +84,11 @@ const baseUrl = import.meta.env.BASE_URL;
   header {
     background: var(--primary);
     color: white;
-    padding: 1rem 2rem;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    padding: 0;
+    box-shadow: var(--shadow-md);
+    position: sticky;
+    top: 0;
+    z-index: 100;
   }
 
   nav {
@@ -87,128 +99,145 @@ const baseUrl = import.meta.env.BASE_URL;
     align-items: center;
     flex-wrap: wrap;
     gap: 1rem;
+    padding: 1rem 2rem;
   }
 
   .logo {
-    font-size: 1.5rem;
-    font-weight: bold;
+    font-size: 1.25rem;
+    font-weight: 600;
     color: white;
     text-decoration: none;
+    letter-spacing: -0.025em;
   }
 
   nav ul {
     display: flex;
     list-style: none;
-    gap: 1.5rem;
+    gap: 0.5rem;
     flex-wrap: wrap;
   }
 
   nav a {
-    color: white;
+    color: rgba(255,255,255,0.9);
     text-decoration: none;
-    padding: 0.5rem;
-    border-radius: 4px;
-    transition: background 0.2s;
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    transition: all 0.2s ease;
+    font-size: 0.95rem;
+    font-weight: 500;
   }
 
-  nav a:hover {
-    background: rgba(255,255,255,0.2);
+  nav ul a:hover {
+    background: rgba(255,255,255,0.15);
+    color: white;
   }
 
   main {
     flex: 1;
     max-width: 1200px;
     margin: 0 auto;
-    padding: 2rem;
+    padding: 2.5rem 2rem;
     width: 100%;
   }
 
   footer {
-    background: #333;
-    color: white;
+    background: var(--primary);
+    color: rgba(255,255,255,0.8);
     text-align: center;
-    padding: 1.5rem;
+    padding: 2rem;
     margin-top: auto;
+    font-size: 0.9rem;
   }
 
   h1 {
-    font-size: 2rem;
-    margin-bottom: 1rem;
-    color: var(--primary);
+    font-size: 1.875rem;
+    margin-bottom: 0.5rem;
+    color: var(--text);
+    font-weight: 700;
+    letter-spacing: -0.025em;
   }
 
   h2 {
-    font-size: 1.5rem;
+    font-size: 1.25rem;
     margin-bottom: 0.5rem;
+    font-weight: 600;
   }
 
   .card-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    gap: 1.5rem;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 1.25rem;
     margin-top: 1.5rem;
   }
 
   .card {
     background: var(--card-bg);
     border: 1px solid var(--border);
-    border-radius: 8px;
+    border-radius: 10px;
     padding: 1.5rem;
-    transition: box-shadow 0.2s, transform 0.2s;
+    transition: all 0.2s ease;
+    box-shadow: var(--shadow);
   }
 
   .card:hover {
-    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+    border-color: #cbd5e0;
   }
 
   .card h3 {
     color: var(--primary);
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.75rem;
+    font-size: 1.1rem;
+    font-weight: 600;
   }
 
   .card p {
-    color: #666;
-    font-size: 0.95rem;
+    color: var(--text-muted);
+    font-size: 0.9rem;
+    line-height: 1.6;
   }
 
   .card a {
-    color: var(--primary);
+    color: var(--primary-light);
     text-decoration: none;
+    font-weight: 500;
   }
 
   .card a:hover {
+    color: var(--primary);
     text-decoration: underline;
   }
 
   .tag {
     display: inline-block;
-    background: #e3f2fd;
+    background: var(--bg-alt);
     color: var(--primary);
     padding: 0.25rem 0.75rem;
-    border-radius: 999px;
-    font-size: 0.85rem;
+    border-radius: 6px;
+    font-size: 0.8rem;
+    font-weight: 500;
     margin: 0.25rem 0.25rem 0.25rem 0;
+    border: 1px solid var(--border);
   }
 
   .intro {
-    font-size: 1.1rem;
-    color: #666;
+    font-size: 1.05rem;
+    color: var(--text-muted);
     margin-bottom: 1.5rem;
   }
 
   .empty {
     text-align: center;
-    color: #999;
+    color: var(--text-muted);
     padding: 3rem;
     background: var(--card-bg);
     border: 1px dashed var(--border);
-    border-radius: 8px;
+    border-radius: 10px;
     margin-top: 1.5rem;
   }
 
   @media (max-width: 600px) {
-    header {
+    nav {
       padding: 1rem;
     }
     nav {
@@ -216,7 +245,10 @@ const baseUrl = import.meta.env.BASE_URL;
       text-align: center;
     }
     main {
-      padding: 1rem;
+      padding: 1.5rem 1rem;
+    }
+    h1 {
+      font-size: 1.5rem;
     }
   }
 </style>

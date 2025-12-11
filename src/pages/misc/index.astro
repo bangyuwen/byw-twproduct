@@ -1,0 +1,44 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import type { MiscCreator } from '../../types';
+import miscData from '../../data/misc.json';
+
+const creators: MiscCreator[] = miscData;
+---
+
+<Layout title="其他創作者 - 台灣支持名錄">
+  <h1>其他創作者</h1>
+  <p class="intro">支持台灣的 YouTuber、Podcaster 與其他內容創作者，共 {creators.length} 位。</p>
+
+  {creators.length > 0 ? (
+    <div class="card-grid">
+      {creators.map((item) => (
+        <div class="card">
+          {item.name && <h3>{item.name}</h3>}
+          {item.website && (
+            <p><a href={item.website} target="_blank" rel="noopener noreferrer">查看頻道/連結 →</a></p>
+          )}
+          {item.notes && (
+            <p class="notes">
+              {item.notes.startsWith('http') ? (
+                <a href={item.notes} target="_blank" rel="noopener noreferrer">更多資訊 →</a>
+              ) : (
+                item.notes
+              )}
+            </p>
+          )}
+        </div>
+      ))}
+    </div>
+  ) : (
+    <p class="empty">目前沒有資料，歡迎貢獻！</p>
+  )}
+</Layout>
+
+<style>
+  .notes {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    margin: 0.25rem 0;
+  }
+</style>

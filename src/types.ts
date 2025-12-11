@@ -1,9 +1,12 @@
 export interface Product {
   name: string;
-  brand: string;
+  brand?: string;
   category: string;
-  description: string;
-  website: string;
+  item: string;
+  website?: string;
+  reason?: string;
+  notes?: string;
+  is_recommender?: boolean;
 }
 
 export interface Store {
@@ -13,16 +16,27 @@ export interface Store {
   website: string;
 }
 
-export interface Company {
+export interface Singer {
   name: string;
-  industry: string;
-  description: string;
-  website: string;
+  notes?: string;
+  is_recommender?: boolean;
 }
 
-export interface YouTuber {
+export interface Actor {
   name: string;
-  category: string;
-  description: string;
-  channel: string;
+  notes?: string;
+  is_recommender?: boolean;
+}
+
+export interface Artist {
+  name: string;
+  notes?: string;
+  is_recommender?: boolean;
+}
+
+export interface MiscCreator {
+  name?: string;
+  website?: string;
+  notes?: string;
+  is_recommender?: boolean;
 }

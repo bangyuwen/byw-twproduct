@@ -66,15 +66,7 @@ function getCategoryImage(category: string): string {
 }
 
 // Helper to get broader category image (for Bento Grid)
-function getGridImage(type: string): string {
-    const map: Record<string, string> = {
-        'Tech': 'https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=2070&auto=format&fit=crop',
-        'Taste': 'https://images.unsplash.com/photo-1594498653385-d517564e0856?q=80&w=2574&auto=format&fit=crop',
-        'Lifestyle': 'https://images.unsplash.com/photo-1610701596007-11502861dcfa?q=80&w=2070&auto=format&fit=crop',
-        'Industry': 'https://images.unsplash.com/photo-1516975080664-ed2fc6a32937?q=80&w=2070&auto=format&fit=crop'
-    };
-    return map[type] || '';
-}
+
 
 // Recommender Avatar Map (Random for now as we don't have real data)
 
@@ -119,44 +111,73 @@ function getGridImage(type: string): string {
         </div>
     </div>
 
-    <!-- Featured Categories (Bento Grid) -->
-    <section id="products" class="py-20 container mx-auto px-6">
-        <div class="text-center mb-16">
-            <h2 class="text-3xl md:text-4xl font-serif font-bold text-brand-dark mb-4">探索類別</h2>
-            <div class="w-16 h-1 bg-brand-green mx-auto"></div>
+    <!-- Featured Categories (Text Only Design) -->
+    <section id="products" class="py-24 container mx-auto px-6">
+        <div class="mb-20">
+            <h2 class="text-4xl md:text-6xl font-serif font-bold text-brand-dark mb-6 leading-none tracking-tight">
+                Category<span class="text-brand-green">.</span>
+            </h2>
+            <p class="text-sm font-mono text-gray-400 uppercase tracking-[0.2em] ml-1">Explore our collections</p>
         </div>
 
-        <div class="grid grid-cols-1 md:grid-cols-4 gap-4 h-auto md:h-[600px]">
-            <!-- Tech (Large Left) -->
-            <div class="group relative md:col-span-2 md:row-span-2 overflow-hidden rounded-sm cursor-pointer">
-                <img src={getGridImage('Tech')} alt="Technology" class="w-full h-full object-cover transition duration-700 group-hover:scale-110">
-                <div class="absolute inset-0 bg-gradient-to-t from-black/80 via-transparent to-transparent flex flex-col justify-end p-8">
-                    <h3 class="text-2xl text-white font-bold mb-1">科技創新 Tech & Innovation</h3>
-                    <p class="text-gray-300 text-sm opacity-0 group-hover:opacity-100 transition translate-y-4 group-hover:translate-y-0 duration-300">半導體、智慧家電、綠能科技</p>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-px bg-gray-200 border border-gray-200">
+            <!-- Tech -->
+            <div class="bg-white p-12 md:p-16 hover:bg-gray-50 transition duration-500 group relative overflow-hidden">
+                <div class="relative z-10">
+                    <span class="text-xs font-mono text-gray-400 mb-4 block">01</span>
+                    <h3 class="text-4xl font-bold text-brand-dark mb-2">Tech & Innovation</h3>
+                    <h4 class="text-xl font-serif text-gray-500 mb-8 italic">科技創新</h4>
+                    
+                    <div class="flex flex-wrap gap-3">
+                        {categoryMap['Tech'].map(item => (
+                            <span class="px-3 py-1 border border-gray-200 rounded-full text-xs text-gray-600 group-hover:border-brand-dark group-hover:text-brand-dark transition">{item}</span>
+                        ))}
+                    </div>
                 </div>
             </div>
 
-            <!-- Taste (Top Right) -->
-            <div class="group relative md:col-span-2 overflow-hidden rounded-sm cursor-pointer">
-                <img src={getGridImage('Taste')} alt="Taste" class="w-full h-full object-cover transition duration-700 group-hover:scale-110">
-                <div class="absolute inset-0 bg-black/20 group-hover:bg-black/40 transition flex items-center justify-center">
-                    <h3 class="text-2xl text-white font-bold tracking-wider border-2 border-white px-6 py-2">風味台灣 TASTE</h3>
+            <!-- Taste -->
+            <div class="bg-white p-12 md:p-16 hover:bg-gray-50 transition duration-500 group relative overflow-hidden">
+                <div class="relative z-10">
+                    <span class="text-xs font-mono text-gray-400 mb-4 block">02</span>
+                    <h3 class="text-4xl font-bold text-brand-dark mb-2">Taste of Taiwan</h3>
+                    <h4 class="text-xl font-serif text-gray-500 mb-8 italic">風味台灣</h4>
+                    
+                    <div class="flex flex-wrap gap-3">
+                        {categoryMap['Taste'].map(item => (
+                            <span class="px-3 py-1 border border-gray-200 rounded-full text-xs text-gray-600 group-hover:border-brand-dark group-hover:text-brand-dark transition">{item}</span>
+                        ))}
+                    </div>
                 </div>
             </div>
 
-            <!-- Lifestyle (Bottom Left) -->
-            <div class="group relative overflow-hidden rounded-sm cursor-pointer">
-                <img src={getGridImage('Lifestyle')} alt="Lifestyle" class="w-full h-full object-cover transition duration-700 group-hover:scale-110">
-                <div class="absolute bottom-0 left-0 w-full p-4 bg-white/90 translate-y-full group-hover:translate-y-0 transition duration-300">
-                    <h3 class="text-brand-dark font-bold">生活美學 Lifestyle</h3>
+            <!-- Lifestyle -->
+            <div class="bg-white p-12 md:p-16 hover:bg-gray-50 transition duration-500 group relative overflow-hidden">
+                <div class="relative z-10">
+                    <span class="text-xs font-mono text-gray-400 mb-4 block">03</span>
+                    <h3 class="text-4xl font-bold text-brand-dark mb-2">Lifestyle Aesthetics</h3>
+                    <h4 class="text-xl font-serif text-gray-500 mb-8 italic">生活美學</h4>
+                    
+                    <div class="flex flex-wrap gap-3">
+                        {categoryMap['Lifestyle'].map(item => (
+                            <span class="px-3 py-1 border border-gray-200 rounded-full text-xs text-gray-600 group-hover:border-brand-dark group-hover:text-brand-dark transition">{item}</span>
+                        ))}
+                    </div>
                 </div>
             </div>
 
-            <!-- Industry (Bottom Right) -->
-            <div class="group relative overflow-hidden rounded-sm cursor-pointer">
-                <img src={getGridImage('Industry')} alt="Industry" class="w-full h-full object-cover transition duration-700 group-hover:scale-110">
-                <div class="absolute bottom-0 left-0 w-full p-4 bg-brand-dark/90 translate-y-full group-hover:translate-y-0 transition duration-300">
-                    <h3 class="text-white font-bold">精密工藝 Industry</h3>
+            <!-- Industry -->
+            <div class="bg-white p-12 md:p-16 hover:bg-gray-50 transition duration-500 group relative overflow-hidden">
+                <div class="relative z-10">
+                    <span class="text-xs font-mono text-gray-400 mb-4 block">04</span>
+                    <h3 class="text-4xl font-bold text-brand-dark mb-2">Industrial Craft</h3>
+                    <h4 class="text-xl font-serif text-gray-500 mb-8 italic">精密工藝</h4>
+                    
+                    <div class="flex flex-wrap gap-3">
+                        {categoryMap['Industry'].map(item => (
+                            <span class="px-3 py-1 border border-gray-200 rounded-full text-xs text-gray-600 group-hover:border-brand-dark group-hover:text-brand-dark transition">{item}</span>
+                        ))}
+                    </div>
                 </div>
             </div>
         </div>

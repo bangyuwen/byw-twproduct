@@ -8,7 +8,7 @@
       "url": "https://www.google.com/maps/place/%E5%8F%88%E4%B8%80%E6%9D%91%E6%B0%B4%E9%A4%83%E2%80%A7%E9%BA%B5%E9%A3%9F%E3%80%82%E9%81%BC%E5%AF%A7%E5%89%B5%E5%A7%8B%E5%BA%97/data=!4m2!3m1!1s0x3442abdea289e461:0x175c17f7a841b89",
       "place_id": "0x3442abdea289e461:0x175c17f7a841b89",
       "image_url": null,
-      "description": null,
+      "description": "傳統北方麵食老店，以手工水餃和各式麵食聞名",
       "lat": 25.0488389,
       "lng": 121.5422626,
       "category": "美食"
@@ -18,7 +18,7 @@
       "url": "https://www.google.com/maps/place/%E9%87%8E%E4%BA%BA%E8%AE%80%E5%86%8A%E5%BA%97/data=!4m2!3m1!1s0x34690f961fa4c921:0x19fc384b22323b4d",
       "place_id": "0x34690f961fa4c921:0x19fc384b22323b4d",
       "image_url": null,
-      "description": null,
+      "description": "獨立書店，閱讀荒野中的一片綠洲",
       "lat": 24.355686499999997,
       "lng": 120.63181429999999,
       "category": "書店"
@@ -28,7 +28,7 @@
       "url": "https://www.google.com/maps/place/Skinny+Cafe+%E7%98%A6%E5%AD%90%E5%92%96%E5%95%A1%C2%B7%E5%BD%B0%E5%8C%96%E5%BA%97%EF%BD%9C%E5%92%96%E5%95%A1%E5%B0%88%E8%B3%A3%E5%BA%97/data=!4m2!3m1!1s0x34693894040648ab:0x2c2b7d0c6851bea",
       "place_id": "0x34693894040648ab:0x2c2b7d0c6851bea",
       "image_url": null,
-      "description": null,
+      "description": "彰化咖啡專賣店，精品咖啡的舒適空間",
       "lat": 24.080447399999997,
       "lng": 120.5398926,
       "category": "咖啡"
@@ -38,7 +38,7 @@
       "url": "https://www.google.com/maps/place/%E4%B8%8D%E5%8E%9D/data=!4m2!3m1!1s0x346939f35b046df1:0x41850b41a1a3edfc",
       "place_id": "0x346939f35b046df1:0x41850b41a1a3edfc",
       "image_url": null,
-      "description": null,
+      "description": "特色空間，不只是厝的創意場域",
       "lat": 24.081108899999997,
       "lng": 120.54137670000001,
       "category": "其他"
@@ -48,7 +48,7 @@
       "url": "https://www.google.com/maps/place/Curryholic%E5%85%8B%E5%92%96%E5%93%A9/data=!4m2!3m1!1s0x3442ab5420e2f0ad:0xfc0b52ec10ba12fa",
       "place_id": "0x3442ab5420e2f0ad:0xfc0b52ec10ba12fa",
       "image_url": null,
-      "description": null,
+      "description": "日式咖哩專賣店，濃郁香醇的咖哩醬汁",
       "lat": 25.0400107,
       "lng": 121.5544757,
       "category": "美食"
@@ -58,7 +58,7 @@
       "url": "https://www.google.com/maps/place/%E5%8D%97%E6%96%B9%E6%9B%B8%E5%BA%97/data=!4m2!3m1!1s0x34693899ff6566df:0x37561b0e56637761",
       "place_id": "0x34693899ff6566df:0x37561b0e56637761",
       "image_url": null,
-      "description": null,
+      "description": "南方風情書店，選書品味獨特",
       "lat": 24.082387499999996,
       "lng": 120.539309,
       "category": "書店"
@@ -68,7 +68,7 @@
       "url": "https://www.google.com/maps/place/WeBBerger/data=!4m2!3m1!1s0x346e95003b0dbf75:0x5c985500cb1fd1a0",
       "place_id": "0x346e95003b0dbf75:0x5c985500cb1fd1a0",
       "image_url": null,
-      "description": null,
+      "description": "手工漢堡專門店，道地美式漢堡",
       "lat": 25.046886349999994,
       "lng": 121.52668159999999,
       "category": "美食"
@@ -78,7 +78,7 @@
       "url": "https://www.google.com/maps/place/%E4%B8%80%E3%80%87%E3%80%87%E3%80%87%E6%9D%B1%E5%A0%82%E8%A3%BD%E4%BD%9C%EF%BD%9C%E6%97%A5%E5%BC%8F%E7%83%A4%E7%B3%B0%E5%AD%90%E5%B0%88%E8%B3%A3%E5%BA%97/data=!4m2!3m1!1s0x34691b0033bee47d:0xcec0282b5d3f59d3",
       "place_id": "0x34691b0033bee47d:0xcec0282b5d3f59d3",
       "image_url": null,
-      "description": null,
+      "description": "日式烤糰子專賣，傳統和菓子的香甜滋味",
       "lat": 24.254155599999997,
       "lng": 120.7231104,
       "category": "甜點"
@@ -88,7 +88,7 @@
       "url": "https://www.google.com/maps/place/%E7%88%90%E9%8D%8B%E5%92%96%E5%95%A1+Luguo+Cafe/data=!4m2!3m1!1s0x3442af72975812c1:0xcc12bd4af94db72",
       "place_id": "0x3442af72975812c1:0xcc12bd4af94db72",
       "image_url": null,
-      "description": null,
+      "description": "自家烘焙咖啡館，以手沖咖啡聞名",
       "lat": 25.124283,
       "lng": 121.46673499999999,
       "category": "咖啡"
@@ -98,7 +98,7 @@
       "url": "https://www.google.com/maps/place/%E6%9D%8E%E5%85%86%E7%84%B6%E5%AE%B6%E9%86%AB%E7%A7%91%E8%A8%BA%E6%89%80/data=!4m2!3m1!1s0x3442aff7ad5b8119:0x144c39eedaee028d",
       "place_id": "0x3442aff7ad5b8119:0x144c39eedaee028d",
       "image_url": null,
-      "description": null,
+      "description": "家庭醫學科診所，全人照護的醫療服務",
       "lat": 25.1680175,
       "lng": 121.4475731,
       "category": "生活"
@@ -108,7 +108,7 @@
       "url": "https://www.google.com/maps/place/%E4%BE%9D%E5%BE%B7%E9%9B%BB%E5%99%A8%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%28%E5%86%B7%E5%87%8D%E7%A9%BA%E8%AA%BF%E5%B0%88%E6%A5%AD%E7%B6%AD%E4%BF%AE%29/data=!4m2!3m1!1s0x3442a5568d2bf32d:0x8b4a1aee95899edb",
       "place_id": "0x3442a5568d2bf32d:0x8b4a1aee95899edb",
       "image_url": null,
-      "description": null,
+      "description": "冷凍空調維修專業，電器維修服務",
       "lat": 25.175881000000004,
       "lng": 121.4422203,
       "category": "生活"
@@ -118,7 +118,7 @@
       "url": "https://www.google.com/maps/place/%E6%99%82%E7%8F%8D%E4%B8%AD%E9%86%AB%E8%A8%BA%E6%89%80/data=!4m2!3m1!1s0x3442a7c05060dd5d:0x17dda2eb4b53d7af",
       "place_id": "0x3442a7c05060dd5d:0x17dda2eb4b53d7af",
       "image_url": null,
-      "description": null,
+      "description": "中醫診所，傳統醫學的現代照護",
       "lat": 25.040019199999996,
       "lng": 121.42498459999997,
       "category": "生活"
@@ -128,7 +128,7 @@
       "url": "https://www.google.com/maps/place/%E6%A1%8C%E9%81%8A%E8%80%81%E7%88%B9%EF%BD%9C%E8%B3%BC%E7%89%A9%EF%BD%9C%E6%B4%BE%E5%B0%8D%EF%BD%9C%E8%B2%A9%E5%94%AE%EF%BD%9C%E6%98%A5%E5%AD%A3%E5%84%AA%E6%83%A0/data=!4m2!3m1!1s0x3442a9a61510bee1:0x8baba908a0c22159",
       "place_id": "0x3442a9a61510bee1:0x8baba908a0c22159",
       "image_url": null,
-      "description": null,
+      "description": "桌遊專賣店，派對場地與桌遊販售",
       "lat": 25.036454099999997,
       "lng": 121.50401079999999,
       "category": "生活"
@@ -138,7 +138,7 @@
       "url": "https://www.google.com/maps/place/Ice+Gyaru+%E9%9C%9C%E6%B7%87%E6%B7%8B%E5%B0%88%E9%96%80%E5%BA%97/data=!4m2!3m1!1s0x3442a99cabc32f79:0x609cfbc0277e1048",
       "place_id": "0x3442a99cabc32f79:0x609cfbc0277e1048",
       "image_url": null,
-      "description": null,
+      "description": "日系霜淇淋專門店，綿密冰涼的夏日甜點",
       "lat": 25.026793899999998,
       "lng": 121.5232557,
       "category": "甜點"
@@ -148,7 +148,7 @@
       "url": "https://www.google.com/maps/place/%E7%9C%9F%E5%92%96%E5%95%A1+ZANcoffee%E2%80%94%E4%BA%BA%E6%B0%A3%E6%8E%A8%E8%96%A6+%E8%99%B9%E5%90%B8%E5%92%96%E5%95%A1%2F+%E6%B2%96%E7%85%AE%E8%AA%B2%E7%A8%8B%2F+%E5%8F%A3%E6%84%9F%E8%A8%93%E7%B7%B4%EF%BC%88%E7%84%A1%E5%B8%82%E8%A9%B1%EF%BC%8C%E8%AB%8B%E7%94%A8%E7%B2%89%E5%B0%88%E7%A7%81%E8%A8%8A%E6%88%96Line@%E8%81%AF%E7%B9%AB%EF%BC%89/data=!4m2!3m1!1s0x34693d914379372d:0x88a947d4af35f787",
       "place_id": "0x34693d914379372d:0x88a947d4af35f787",
       "image_url": null,
-      "description": null,
+      "description": "虹吸咖啡專門店，提供沖煮課程與口感訓練",
       "lat": 24.155074999999997,
       "lng": 120.64960119999999,
       "category": "咖啡"
@@ -158,7 +158,7 @@
       "url": "https://www.google.com/maps/place/%E7%94%9C%E6%8B%BEdessert%EF%BC%88%E7%8F%BE%E5%A0%B4%E5%83%85%E8%B2%A9%E5%94%AE%E5%88%87%E7%89%87%E8%9B%8B%E7%B3%95%EF%BC%8C%E6%95%B4%E9%A1%86%E8%9B%8B%E7%B3%95%E9%BA%BB%E7%85%A9%E6%8F%90%E5%89%8D%E9%A0%90%E8%A8%82%EF%BC%89/data=!4m2!3m1!1s0x3442ab235b01c619:0xf34f77924b3a001c",
       "place_id": "0x3442ab235b01c619:0xf34f77924b3a001c",
       "image_url": null,
-      "description": null,
+      "description": "精緻甜點店，切片蛋糕與整顆蛋糕預訂",
       "lat": 25.0606443,
       "lng": 121.5391366,
       "category": "甜點"
@@ -168,7 +168,7 @@
       "url": "https://www.google.com/maps/place/%E4%B8%8A%E5%84%84%E9%8E%96%E5%8C%99%E5%88%BB%E5%8D%B0%E5%BA%97/data=!4m2!3m1!1s0x34681f4496e9fd11:0x9ef00b1f35f4976b",
       "place_id": "0x34681f4496e9fd11:0x9ef00b1f35f4976b",
       "image_url": null,
-      "description": null,
+      "description": "鎖匙刻印服務，專業開鎖配鑰匙",
       "lat": 24.981503899999996,
       "lng": 121.2757795,
       "category": "生活"
@@ -178,7 +178,7 @@
       "url": "https://www.google.com/maps/place/%E9%81%94%E6%88%90%E9%86%AB%E7%99%82%E5%99%A8%E6%9D%90%E8%A1%8C/data=!4m2!3m1!1s0x34681f5083bbb5d5:0x70ef07fea65ceddc",
       "place_id": "0x34681f5083bbb5d5:0x70ef07fea65ceddc",
       "image_url": null,
-      "description": null,
+      "description": "醫療器材專賣，各式醫療輔具",
       "lat": 24.977831,
       "lng": 121.27001999999999,
       "category": "生活"
@@ -188,7 +188,7 @@
       "url": "https://www.google.com/maps/place/%E6%B2%90%E8%8D%BC%E5%AF%BA%E6%B7%A1%E6%B5%B7%E5%BA%97-%E8%87%BA%E7%81%A3%E7%B2%BE%E5%93%81%E8%8C%B6%E9%A3%B2%E5%B0%88%E9%96%80Mutucha/data=!4m2!3m1!1s0x3442bbebab2dcd2b:0x224850c14ba531f4",
       "place_id": "0x3442bbebab2dcd2b:0x224850c14ba531f4",
       "image_url": null,
-      "description": null,
+      "description": "台灣精品茶飲專賣，淡海店的茶香享受",
       "lat": 25.1960467,
       "lng": 121.438661,
       "category": "咖啡"
@@ -198,7 +198,7 @@
       "url": "https://www.google.com/maps/place/%E7%92%B0%E7%90%83%E7%BE%8E%E5%AD%B8%E7%89%99%E9%86%AB%E8%A8%BA%E6%89%80/data=!4m2!3m1!1s0x346802a381b21701:0x9d03d72bf6bf51d",
       "place_id": "0x346802a381b21701:0x9d03d72bf6bf51d",
       "image_url": null,
-      "description": null,
+      "description": "美學牙醫診所，牙齒美白與矯正",
       "lat": 25.0112126,
       "lng": 121.4669041,
       "category": "生活"
@@ -208,7 +208,7 @@
       "url": "https://www.google.com/maps/place/%E9%A6%A8%E9%A6%99%E8%84%86%E7%9A%AE%E7%83%A4%E9%B4%A8%2F%E5%BD%B0%E5%8C%96%E4%BE%BF%E7%95%B6%E5%A4%96%E9%80%81%2F%E7%83%A4%E9%B4%A8%2F%E5%BD%B0%E5%8C%96%E7%BE%8E%E9%A3%9F%2Frestaurants%2Ftakeout%2F%E9%99%84%E8%BF%91%E7%BE%8E%E9%A3%9F/data=!4m2!3m1!1s0x34694d952b92908f:0xc619da40791af0a6",
       "place_id": "0x34694d952b92908f:0xc619da40791af0a6",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 23.8991671,
       "lng": 120.38079019999998,
       "category": "美食"
@@ -218,7 +218,7 @@
       "url": "https://www.google.com/maps/place/%E8%B2%93%E8%B5%B7%E4%BE%86%E5%90%83%EF%BC%88%E9%80%99%E8%A3%A1%E6%B2%92%E6%9C%89%E8%B2%93%EF%BC%89/data=!4m2!3m1!1s0x34693d31e7a7d9a3:0x1b6f5d30c023b59c",
       "place_id": "0x34693d31e7a7d9a3:0x1b6f5d30c023b59c",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 24.156943700000003,
       "lng": 120.6605154,
       "category": "美食"
@@ -228,7 +228,7 @@
       "url": "https://www.google.com/maps/place/%E5%A4%AB%E5%A6%BB%E8%87%89%E7%94%9C%E9%BB%9E+Dessert+Hyv%C3%A4%EF%BD%9C%E9%BA%B5%E5%8C%85%E6%9E%9C%E9%86%AC%E3%80%81%E5%AF%B5%E7%89%A9%E8%A6%AA%E5%AD%90%E5%8F%8B%E5%96%84%E5%92%96%E5%95%A1/data=!4m2!3m1!1s0x34693dbfeef071ab:0xbc2d406715ec2030",
       "place_id": "0x34693dbfeef071ab:0xbc2d406715ec2030",
       "image_url": null,
-      "description": null,
+      "description": "用心沖煮的咖啡，舒適的品飲空間",
       "lat": 24.149078700000004,
       "lng": 120.6439761,
       "category": "咖啡"
@@ -238,7 +238,7 @@
       "url": "https://www.google.com/maps/place/%E8%83%96%E5%AA%BD%E7%9A%84%E5%BA%97%EF%BC%9A%E6%B0%B4%E9%A4%83%EF%BC%8F%E7%85%8E%E9%A4%83/data=!4m2!3m1!1s0x34693d5c6e4cb51b:0x20355542303a8ffa",
       "place_id": "0x34693d5c6e4cb51b:0x20355542303a8ffa",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 24.166889899999997,
       "lng": 120.6438496,
       "category": "美食"
@@ -248,7 +248,7 @@
       "url": "https://www.google.com/maps/place/%E9%9B%85%E5%B1%B1+%E5%8F%AF%E9%BA%97%E9%9C%B2%E5%B0%88%E8%B3%A3%EF%BC%88%E6%AF%8F%E9%80%B1%E4%B8%8D%E5%AE%9A%E6%9C%9F%E7%87%9F%E6%A5%AD%EF%BC%8C%E8%AB%8B%E7%9C%8BFB%EF%BC%89/data=!4m2!3m1!1s0x34693de634d7e7c3:0x50ae5ca43511072",
       "place_id": "0x34693de634d7e7c3:0x50ae5ca43511072",
       "image_url": null,
-      "description": null,
+      "description": "精心製作的甜點，療癒味蕾好去處",
       "lat": 24.1506239,
       "lng": 120.63628440000001,
       "category": "甜點"
@@ -258,7 +258,7 @@
       "url": "https://www.google.com/maps/place/%E6%AF%9B%E6%AF%9B%E5%8B%95%E7%89%A9%E8%A8%BA%E6%89%80/data=!4m2!3m1!1s0x34693c1bb7bd5b59:0xaa49b1c1a8dd9218",
       "place_id": "0x34693c1bb7bd5b59:0xaa49b1c1a8dd9218",
       "image_url": null,
-      "description": null,
+      "description": "專業醫療服務，守護您的健康",
       "lat": 24.1040487,
       "lng": 120.6280443,
       "category": "生活"
@@ -268,7 +268,7 @@
       "url": "https://www.google.com/maps/place/Dolf+Ru+Cucina+%7C+%E7%BE%A9%E5%BC%8F%E7%A7%81%E5%BB%9A+%7C+%E5%8D%88%E6%99%9A%E9%A4%90+%7C+%E9%9D%9C%E5%AE%9C%E8%B6%85%E4%BA%BA%E6%B0%A3%E7%BE%8E%E9%A3%9F%7CLINE+%E9%A0%90%E8%A8%82%E7%94%A8%E9%A4%90%7C/data=!4m2!3m1!1s0x346914ffd709a675:0xc38a31e1a9ce511e",
       "place_id": "0x346914ffd709a675:0xc38a31e1a9ce511e",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 24.230545199999998,
       "lng": 120.57159010000001,
       "category": "美食"
@@ -278,7 +278,7 @@
       "url": "https://www.google.com/maps/place/%E7%AC%99%E8%8F%AF%E4%B8%AD%E9%86%AB%E8%A8%BA%E6%89%80/data=!4m2!3m1!1s0x346915068134ef1b:0xc086f76eefa09035",
       "place_id": "0x346915068134ef1b:0xc086f76eefa09035",
       "image_url": null,
-      "description": null,
+      "description": "專業醫療服務，守護您的健康",
       "lat": 24.223060300000004,
       "lng": 120.56855879999999,
       "category": "生活"
@@ -288,7 +288,7 @@
       "url": "https://www.google.com/maps/place/%E5%A4%A7%E6%9D%B1%E6%B5%B7%E5%9C%98%E8%B3%BC/data=!4m2!3m1!1s0x34693f5933e851bf:0x8b241bbd27ce34b6",
       "place_id": "0x34693f5933e851bf:0x8b241bbd27ce34b6",
       "image_url": null,
-      "description": null,
+      "description": "獨特的存在，值得親自探索的特色空間",
       "lat": 24.181308799999996,
       "lng": 120.58608570000001,
       "category": "其他"
@@ -298,7 +298,7 @@
       "url": "https://www.google.com/maps/place/%E6%A1%86%E6%A1%86%E8%83%8C%E5%8C%85%E5%AE%A2%E6%A3%A7%28%E5%B9%BE%E4%BD%95%E4%BD%8F%E5%AE%BF1%E9%A4%A8%29+%7C+Kuang+Kuang+Hostel+%7C+%E5%8F%AF%E5%8C%85%E6%A3%9F+%7C+%E5%8F%AF%E5%A0%B1%E5%B8%B3+%E5%90%88%E6%B3%95%E6%B0%91%E5%AE%BF094%E8%99%9F/data=!4m2!3m1!1s0x34693e27503aeffb:0xeddc8c20a9e51e4b",
       "place_id": "0x34693e27503aeffb:0xeddc8c20a9e51e4b",
       "image_url": null,
-      "description": null,
+      "description": "舒適住宿空間，旅途中的溫馨歸處",
       "lat": 24.182539,
       "lng": 120.59062899999999,
       "category": "生活"
@@ -308,7 +308,7 @@
       "url": "https://www.google.com/maps/place/%E5%84%AA%E6%A4%8D%E7%89%99%E9%86%AB%E8%A8%BA%E6%89%80/data=!4m2!3m1!1s0x34693e27caffc9ad:0x7fa3ad744285589e",
       "place_id": "0x34693e27caffc9ad:0x7fa3ad744285589e",
       "image_url": null,
-      "description": null,
+      "description": "專業醫療服務，守護您的健康",
       "lat": 24.181621,
       "lng": 120.58673499999999,
       "category": "生活"
@@ -318,7 +318,7 @@
       "url": "https://www.google.com/maps/place/%E5%81%A5%E5%AE%B9%E7%89%99%E9%86%AB%E8%A8%BA%E6%89%80/data=!4m2!3m1!1s0x34693d812608e18f:0xe76a9bbd4a031b58",
       "place_id": "0x34693d812608e18f:0xe76a9bbd4a031b58",
       "image_url": null,
-      "description": null,
+      "description": "專業醫療服務，守護您的健康",
       "lat": 24.1646071,
       "lng": 120.66104740000002,
       "category": "生活"
@@ -328,7 +328,7 @@
       "url": "https://www.google.com/maps/place/%E4%B8%B9%E5%B0%BC%E5%85%88%E7%94%9F%E8%87%AA%E5%B7%B1%E5%96%9D%E8%8C%B6%E9%A3%B2/data=!4m2!3m1!1s0x3468d97c6d8b4e17:0x7fdf566662c73fd6",
       "place_id": "0x3468d97c6d8b4e17:0x7fdf566662c73fd6",
       "image_url": null,
-      "description": null,
+      "description": "精選茶飲專賣，品味台灣好茶的香醇",
       "lat": 24.1851582,
       "lng": 120.60784799999999,
       "category": "咖啡"
@@ -338,7 +338,7 @@
       "url": "https://www.google.com/maps/place/%E6%B0%91%E4%B8%BB%E8%B1%86%E8%8A%B1+Bean+Tsu+Tau+Hue/data=!4m2!3m1!1s0x34693d0be4507b93:0x449a204da7b3dcde",
       "place_id": "0x34693d0be4507b93:0x449a204da7b3dcde",
       "image_url": null,
-      "description": null,
+      "description": "精心製作的甜點，療癒味蕾好去處",
       "lat": 24.161018799999997,
       "lng": 120.68428809999997,
       "category": "甜點"
@@ -348,7 +348,7 @@
       "url": "https://www.google.com/maps/place/%E4%B8%89%E5%B0%BC%E7%BE%8E%E5%AD%B8+SunnyLife+%2F+%E5%A4%9A%E8%82%89%E6%A4%8D%E7%89%A9+%2F+%E8%B3%AA%E6%84%9F%E6%89%8B%E4%BD%9C%E6%B3%A5%E7%9B%86+%2F+%E6%B3%A5%E8%A3%BD%E5%AE%B6%E9%A3%BE%E5%93%81/data=!4m2!3m1!1s0x34693d5ea83c0f65:0x47ace3983e432e0a",
       "place_id": "0x34693d5ea83c0f65:0x47ace3983e432e0a",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 24.1560684,
       "lng": 120.68900020000001,
       "category": "美食"
@@ -358,7 +358,7 @@
       "url": "https://www.google.com/maps/place/%E7%B4%AB%E7%AB%B9%E5%AE%AE/data=!4m2!3m1!1s0x34693d36950a691f:0x61acde447730f0aa",
       "place_id": "0x34693d36950a691f:0x61acde447730f0aa",
       "image_url": null,
-      "description": null,
+      "description": "生活中的好幫手，提供便利服務",
       "lat": 24.1324519,
       "lng": 120.70542789999999,
       "category": "生活"
@@ -368,7 +368,7 @@
       "url": "https://www.google.com/maps/place/%E6%A2%93%E6%9B%B8%E6%88%BF/data=!4m2!3m1!1s0x34693d859bd3e0e9:0x846c404a75b84279",
       "place_id": "0x34693d859bd3e0e9:0x846c404a75b84279",
       "image_url": null,
-      "description": null,
+      "description": "獨特選書品味的空間，愛書人的秘密基地",
       "lat": 24.142762899999997,
       "lng": 120.6592598,
       "category": "書店"
@@ -378,7 +378,7 @@
       "url": "https://www.google.com/maps/place/%E6%96%B0%E8%A3%9D%E8%A3%8F%E7%99%BE%E8%B2%A8%E8%A1%8C/data=!4m2!3m1!1s0x346e76890e8cd0f9:0x8964965dbcf4710e",
       "place_id": "0x346e76890e8cd0f9:0x8964965dbcf4710e",
       "image_url": null,
-      "description": null,
+      "description": "生活中的好幫手，提供便利服務",
       "lat": 22.9932996,
       "lng": 120.20837259999999,
       "category": "生活"
@@ -388,7 +388,7 @@
       "url": "https://www.google.com/maps/place/%E8%A0%8D%E5%BA%A7+~Scorpio~%EF%BC%88%5C%E9%80%B1%E4%BA%94%E6%94%BE%E7%89%87%E6%8E%A1%E9%A0%90%E7%B4%84%E5%88%B6%2F%EF%BC%89/data=!4m2!3m1!1s0x346e770067509ba7:0x5af892ba1bed198f",
       "place_id": "0x346e770067509ba7:0x5af892ba1bed198f",
       "image_url": null,
-      "description": null,
+      "description": "獨特的存在，值得親自探索的特色空間",
       "lat": 23.004210300000004,
       "lng": 120.21654319999999,
       "category": "其他"
@@ -398,7 +398,7 @@
       "url": "https://www.google.com/maps/place/Suns%27+Great+%2F+%E5%90%91%E5%85%89%E6%97%85%E8%A1%8C/data=!4m2!3m1!1s0x346e761c8503b951:0x2dbb62684adc7c4a",
       "place_id": "0x346e761c8503b951:0x2dbb62684adc7c4a",
       "image_url": null,
-      "description": null,
+      "description": "生活中的好幫手，提供便利服務",
       "lat": 23.001047,
       "lng": 120.16414699999999,
       "category": "生活"
@@ -408,7 +408,7 @@
       "url": "https://www.google.com/maps/place/BELONGINN/data=!4m2!3m1!1s0x346e7707aafdcf3b:0xb4354b7b5e589005",
       "place_id": "0x346e7707aafdcf3b:0xb4354b7b5e589005",
       "image_url": null,
-      "description": null,
+      "description": "舒適住宿空間，旅途中的溫馨歸處",
       "lat": 22.9975303,
       "lng": 120.196541,
       "category": "生活"
@@ -418,7 +418,7 @@
       "url": "https://www.google.com/maps/place/%E7%99%BD%E9%9B%AA%E7%8F%88%E7%90%B2%E5%BA%97+Shira+Yuki/data=!4m2!3m1!1s0x346e758fab55f6f9:0xf0b3b1c32891d059",
       "place_id": "0x346e758fab55f6f9:0xf0b3b1c32891d059",
       "image_url": null,
-      "description": null,
+      "description": "用心沖煮的咖啡，舒適的品飲空間",
       "lat": 22.9677064,
       "lng": 120.1880522,
       "category": "咖啡"
@@ -428,7 +428,7 @@
       "url": "https://www.google.com/maps/place/%E5%8F%A2%E5%AE%A4convergence/data=!4m2!3m1!1s0x346e7683b4d0ed4b:0x1eb559a7c4244595",
       "place_id": "0x346e7683b4d0ed4b:0x1eb559a7c4244595",
       "image_url": null,
-      "description": null,
+      "description": "獨特的存在，值得親自探索的特色空間",
       "lat": 22.981182,
       "lng": 120.1970993,
       "category": "其他"
@@ -438,7 +438,7 @@
       "url": "https://www.google.com/maps/place/182artspace/data=!4m2!3m1!1s0x346e76616c553bf1:0xe23a8d3179b938a7",
       "place_id": "0x346e76616c553bf1:0xe23a8d3179b938a7",
       "image_url": null,
-      "description": null,
+      "description": "獨特選書品味的空間，愛書人的秘密基地",
       "lat": 22.9976186,
       "lng": 120.2014173,
       "category": "書店"
@@ -448,7 +448,7 @@
       "url": "https://www.google.com/maps/place/%E9%BE%8D%E4%BA%AD/data=!4m2!3m1!1s0x346e770013318d83:0x1154486ae1b3b247",
       "place_id": "0x346e770013318d83:0x1154486ae1b3b247",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 23.000529999999998,
       "lng": 120.19408700000001,
       "category": "美食"
@@ -458,7 +458,7 @@
       "url": "https://www.google.com/maps/place/GIKO%E5%81%B7%E5%96%9D+GikoTaoLin/data=!4m2!3m1!1s0x346e75c5eb82b40b:0xed4f2bd91bfba03b",
       "place_id": "0x346e75c5eb82b40b:0xed4f2bd91bfba03b",
       "image_url": null,
-      "description": null,
+      "description": "獨特的存在，值得親自探索的特色空間",
       "lat": 22.967425799999997,
       "lng": 120.19547319999998,
       "category": "其他"
@@ -468,7 +468,7 @@
       "url": "https://www.google.com/maps/place/%E3%83%88%E3%82%A6%E3%82%AD%E3%83%A7%E3%82%A6%E3%83%87%E3%83%B3%E3%83%91+%E6%9D%B1%E4%BA%AC%E9%9B%BB%E6%B3%A2+%E7%B0%A1%E9%A4%90+x+%E7%8E%A9%E5%85%B7+x+%E9%81%B8%E7%89%A9/data=!4m2!3m1!1s0x346e76fc2d6475d1:0xa5c5d358aa22c3f4",
       "place_id": "0x346e76fc2d6475d1:0xa5c5d358aa22c3f4",
       "image_url": null,
-      "description": null,
+      "description": "生活中的好幫手，提供便利服務",
       "lat": 23.0183322,
       "lng": 120.2114766,
       "category": "生活"
@@ -478,7 +478,7 @@
       "url": "https://www.google.com/maps/place/%E7%94%9F%E5%91%BD%E6%A8%B9%E5%92%96%E5%95%A1%EF%BC%88%E6%8C%BA%E7%BD%B7%E5%85%8D%E5%BA%97%E5%AE%B6%EF%BC%89/data=!4m2!3m1!1s0x346e7695eb0b55bb:0xc8c6e0ecfde50fbd",
       "place_id": "0x346e7695eb0b55bb:0xc8c6e0ecfde50fbd",
       "image_url": null,
-      "description": null,
+      "description": "用心沖煮的咖啡，舒適的品飲空間",
       "lat": 22.9983808,
       "lng": 120.23341420000001,
       "category": "咖啡"
@@ -488,7 +488,7 @@
       "url": "https://www.google.com/maps/place/182beer+bar/data=!4m2!3m1!1s0x346e77004030d983:0x694abb0a1adcdda7",
       "place_id": "0x346e77004030d983:0x694abb0a1adcdda7",
       "image_url": null,
-      "description": null,
+      "description": "特色餐酒館，美食與美酒的饗宴",
       "lat": 22.9976408,
       "lng": 120.20138150000001,
       "category": "美食"
@@ -498,7 +498,7 @@
       "url": "https://www.google.com/maps/place/%E5%8F%AA%E4%BB%8A%E5%B1%85%E9%85%92%E5%B1%8B/data=!4m2!3m1!1s0x346e77439c95ce5f:0x1ec465bec594d570",
       "place_id": "0x346e77439c95ce5f:0x1ec465bec594d570",
       "image_url": null,
-      "description": null,
+      "description": "日式居酒屋風格，各式下酒美食",
       "lat": 22.996409699999997,
       "lng": 120.19923659999999,
       "category": "美食"
@@ -508,7 +508,7 @@
       "url": "https://www.google.com/maps/place/%E8%BF%B7%E9%80%94%E8%B2%93%E7%94%9C%E5%92%96/data=!4m2!3m1!1s0x346e765f3463ee57:0x4c53694c479f1254",
       "place_id": "0x346e765f3463ee57:0x4c53694c479f1254",
       "image_url": null,
-      "description": null,
+      "description": "精心製作的甜點，療癒味蕾好去處",
       "lat": 23.006601,
       "lng": 120.20336239999997,
       "category": "甜點"
@@ -518,7 +518,7 @@
       "url": "https://www.google.com/maps/place/Trueway+%E9%BA%B5%E7%B7%9A%E7%A0%94%E7%A9%B6%E6%89%80%26%E7%94%9C%E9%BB%9E%E5%8F%96%E7%89%A9%E6%89%80/data=!4m2!3m1!1s0x3442a9006c874e19:0x63d6a0ddbe003608",
       "place_id": "0x3442a9006c874e19:0x63d6a0ddbe003608",
       "image_url": null,
-      "description": null,
+      "description": "精心製作的甜點，療癒味蕾好去處",
       "lat": 25.030642,
       "lng": 121.52684199999997,
       "category": "甜點"
@@ -528,7 +528,7 @@
       "url": "https://www.google.com/maps/place/Under160+by+_holic+%2F+%E5%B0%BB%E8%95%8A%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/data=!4m2!3m1!1s0x3442a99b9f1ba947:0xe0e1091d49c29c9c",
       "place_id": "0x3442a99b9f1ba947:0xe0e1091d49c29c9c",
       "image_url": null,
-      "description": null,
+      "description": "獨特的存在，值得親自探索的特色空間",
       "lat": 25.053832,
       "lng": 121.509595,
       "category": "其他"
@@ -538,7 +538,7 @@
       "url": "https://www.google.com/maps/place/%E5%B3%B6%E9%A0%82%E3%80%82%E9%A3%9F%E9%BA%B5/data=!4m2!3m1!1s0x346e76bca66dfee1:0x8ab543383c50a1f2",
       "place_id": "0x346e76bca66dfee1:0x8ab543383c50a1f2",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 22.985122999999998,
       "lng": 120.23364869999999,
       "category": "美食"
@@ -548,7 +548,7 @@
       "url": "https://www.google.com/maps/place/%E5%87%9D%E9%9C%93/data=!4m2!3m1!1s0x346e770023496667:0x687382352dbb9732",
       "place_id": "0x346e770023496667:0x687382352dbb9732",
       "image_url": null,
-      "description": null,
+      "description": "獨特的存在，值得親自探索的特色空間",
       "lat": 22.9941698,
       "lng": 120.20427550000001,
       "category": "其他"
@@ -558,7 +558,7 @@
       "url": "https://www.google.com/maps/place/%E6%81%86%E8%A3%95%E8%8C%B6%E8%8E%8A/data=!4m2!3m1!1s0x3469093b526d660f:0xeb25195e2739f0db",
       "place_id": "0x3469093b526d660f:0xeb25195e2739f0db",
       "image_url": null,
-      "description": null,
+      "description": "精選茶飲專賣，品味台灣好茶的香醇",
       "lat": 24.441686999999998,
       "lng": 120.653151,
       "category": "咖啡"
@@ -568,7 +568,7 @@
       "url": "https://www.google.com/maps/place/%E5%B1%B1%E7%B1%B3%E5%92%96%E5%95%A1%E6%89%80/data=!4m2!3m1!1s0x346e77168ddce323:0x2d38f51008beb22",
       "place_id": "0x346e77168ddce323:0x2d38f51008beb22",
       "image_url": null,
-      "description": null,
+      "description": "用心沖煮的咖啡，舒適的品飲空間",
       "lat": 22.993366400000003,
       "lng": 120.222186,
       "category": "咖啡"
@@ -578,7 +578,7 @@
       "url": "https://www.google.com/maps/place/%E6%95%85%E4%BA%8B%E7%95%94/data=!4m2!3m1!1s0x346837fe4d11b4dd:0xe986d618a4656d9f",
       "place_id": "0x346837fe4d11b4dd:0xe986d618a4656d9f",
       "image_url": null,
-      "description": null,
+      "description": "獨特的存在，值得親自探索的特色空間",
       "lat": 24.8260537,
       "lng": 121.0316968,
       "category": "其他"
@@ -588,7 +588,7 @@
       "url": "https://www.google.com/maps/place/Black+7+%E5%96%B0%E8%82%89+%E7%B2%BE%E7%B7%BB%E8%82%89%E5%B1%8B/data=!4m2!3m1!1s0x346836580fe4dc5f:0x7d67135a745d0344",
       "place_id": "0x346836580fe4dc5f:0x7d67135a745d0344",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 24.825190000000003,
       "lng": 121.02924279999999,
       "category": "美食"
@@ -598,7 +598,7 @@
       "url": "https://www.google.com/maps/place/%E5%A4%A0%E5%A5%BD%E9%81%B8%E7%89%A9%EF%BD%9C%E5%AF%B5%E7%89%A9%E7%94%A8%E5%93%81%E5%B0%88%E8%B3%A3/data=!4m2!3m1!1s0x346837fa8cf37449:0x50f8c307795293fb",
       "place_id": "0x346837fa8cf37449:0x50f8c307795293fb",
       "image_url": null,
-      "description": null,
+      "description": "生活中的好幫手，提供便利服務",
       "lat": 24.8306811,
       "lng": 121.0171601,
       "category": "生活"
@@ -608,7 +608,7 @@
       "url": "https://www.google.com/maps/place/%E5%A5%BD%E7%89%A9%E5%B0%8F%E5%BB%9A+%EF%BC%88%E7%88%AC%E8%9F%B2%E6%A4%8D%E7%89%A9%E9%A4%90%E5%BB%B3%EF%BC%89/data=!4m2!3m1!1s0x34683708f2f079b7:0x8c18ee00c330d493",
       "place_id": "0x34683708f2f079b7:0x8c18ee00c330d493",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 24.8249693,
       "lng": 121.03552789999998,
       "category": "美食"
@@ -618,7 +618,7 @@
       "url": "https://www.google.com/maps/place/Fairy/data=!4m2!3m1!1s0x3442abc8a1d111bd:0x471a13f910b8bcc7",
       "place_id": "0x3442abc8a1d111bd:0x471a13f910b8bcc7",
       "image_url": null,
-      "description": null,
+      "description": "獨特的存在，值得親自探索的特色空間",
       "lat": 25.0420261,
       "lng": 121.54541859999998,
       "category": "其他"
@@ -628,7 +628,7 @@
       "url": "https://www.google.com/maps/place/%E5%AE%89%E5%BA%B7%E9%AA%A8%E7%A7%91%E8%A8%BA%E6%89%80/data=!4m2!3m1!1s0x3442a0771c11be97:0x160acd2e7d4ba3f",
       "place_id": "0x3442a0771c11be97:0x160acd2e7d4ba3f",
       "image_url": null,
-      "description": null,
+      "description": "專業醫療服務，守護您的健康",
       "lat": 25.050718699999997,
       "lng": 121.29398900000001,
       "category": "生活"
@@ -638,7 +638,7 @@
       "url": "https://www.google.com/maps/place/%E6%B7%A1%E6%B0%B4%E6%96%87%E5%8C%96%E5%9C%92%E5%8D%80+-+%E6%AE%BC%E7%89%8C%E5%80%89%E5%BA%AB/data=!4m2!3m1!1s0x3442aff60d45a115:0xdbf94cdf24f07afa",
       "place_id": "0x3442aff60d45a115:0xdbf94cdf24f07afa",
       "image_url": null,
-      "description": null,
+      "description": "獨特選書品味的空間，愛書人的秘密基地",
       "lat": 25.1658494,
       "lng": 121.44699109999999,
       "category": "書店"
@@ -648,7 +648,7 @@
       "url": "https://www.google.com/maps/place/%E5%8C%97%E9%96%80%E7%B6%A0%E8%B1%86%E6%B2%99%E7%89%9B%E4%B9%B3%E5%A4%A7%E7%8E%8B+%2F+Beimen+Mung+bean+Milking/data=!4m2!3m1!1s0x3467e67c104533bd:0x234cdc74e8a9584a",
       "place_id": "0x3467e67c104533bd:0x234cdc74e8a9584a",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 24.760343499999998,
       "lng": 121.75341319999998,
       "category": "美食"
@@ -658,7 +658,7 @@
       "url": "https://www.google.com/maps/place/%E8%87%BA%E7%81%A3%E5%9F%BA%E7%9D%A3%E9%95%B7%E8%80%81%E6%95%99%E6%9C%83+%E8%87%BA%E5%8C%97%E7%BE%A9%E5%85%89%E6%95%99%E6%9C%83/data=!4m2!3m1!1s0x3442a97fa429a5ed:0x2d932e5ef0a5b045",
       "place_id": "0x3442a97fa429a5ed:0x2d932e5ef0a5b045",
       "image_url": null,
-      "description": null,
+      "description": "信仰團契的溫馨空間，心靈的歸屬",
       "lat": 25.0350969,
       "lng": 121.534525,
       "category": "生活"
@@ -668,7 +668,7 @@
       "url": "https://www.google.com/maps/place/EV+caf%C3%A9+%E7%AA%A9%E5%92%96%E5%95%A1/data=!4m2!3m1!1s0x346e957af28f3b17:0x2fb17e677f8472d4",
       "place_id": "0x346e957af28f3b17:0x2fb17e677f8472d4",
       "image_url": null,
-      "description": null,
+      "description": "用心沖煮的咖啡，舒適的品飲空間",
       "lat": 23.4758707,
       "lng": 120.46041179999999,
       "category": "咖啡"
@@ -678,7 +678,7 @@
       "url": "https://www.google.com/maps/place/%E8%BE%9C%E5%AF%AC%E6%95%8F%E5%9F%BA%E9%87%91%E6%9C%83/data=!4m2!3m1!1s0x3442a921506c482f:0x3b30715e205fdc4d",
       "place_id": "0x3442a921506c482f:0x3b30715e205fdc4d",
       "image_url": null,
-      "description": null,
+      "description": "獨特選書品味的空間，愛書人的秘密基地",
       "lat": 25.059341999999994,
       "lng": 121.53289670000001,
       "category": "書店"
@@ -688,7 +688,7 @@
       "url": "https://www.google.com/maps/place/%E6%9F%8F%E9%99%BD%E9%87%A3%E5%85%B7/data=!4m2!3m1!1s0x34694d3c78208d5b:0x5d5b843fb26948ae",
       "place_id": "0x34694d3c78208d5b:0x5d5b843fb26948ae",
       "image_url": null,
-      "description": null,
+      "description": "生活中的好幫手，提供便利服務",
       "lat": 23.9039189,
       "lng": 120.37438940000001,
       "category": "生活"
@@ -698,7 +698,7 @@
       "url": "https://www.google.com/maps/place/%E9%BB%91%E9%87%91%E5%95%86%E5%BA%97/data=!4m2!3m1!1s0x346eb509a61d0ddf:0xd438520ad1a4e6c7",
       "place_id": "0x346eb509a61d0ddf:0xd438520ad1a4e6c7",
       "image_url": null,
-      "description": null,
+      "description": "生活中的好幫手，提供便利服務",
       "lat": 23.852164,
       "lng": 120.49360629999998,
       "category": "生活"
@@ -708,7 +708,7 @@
       "url": "https://www.google.com/maps/place/%E5%8C%97%E6%96%B9%E5%A4%A7%E9%99%B8%E9%A4%85%28%E8%A5%BF%E6%B9%96Show%E5%BA%97%29/data=!4m2!3m1!1s0x3442ad55fdc0240f:0xbfce3b601203631f",
       "place_id": "0x3442ad55fdc0240f:0xbfce3b601203631f",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 25.0841197,
       "lng": 121.5670707,
       "category": "美食"
@@ -718,7 +718,7 @@
       "url": "https://www.google.com/maps/place/%E5%AD%9F%E5%85%8B%E7%89%8C%E7%A3%85%E8%9B%8B%E7%B3%95/data=!4m2!3m1!1s0x3468d99a25e71715:0xd9477adfc70c346f",
       "place_id": "0x3468d99a25e71715:0xd9477adfc70c346f",
       "image_url": null,
-      "description": null,
+      "description": "精緻手工蛋糕，甜蜜幸福好滋味",
       "lat": 23.973741000000004,
       "lng": 120.9452752,
       "category": "甜點"
@@ -728,7 +728,7 @@
       "url": "https://www.google.com/maps/place/%E6%B2%92%E6%9C%89%E8%B1%86%E8%8A%B1+%28%E4%BC%91%E6%81%AF%E6%97%A5%E8%AB%8B%E4%BB%A5Facebook%E5%85%AC%E5%91%8A%E7%82%BA%E4%B8%BB%29/data=!4m2!3m1!1s0x3468d9a041047903:0xfb9be169fc1d4cba",
       "place_id": "0x3468d9a041047903:0xfb9be169fc1d4cba",
       "image_url": null,
-      "description": null,
+      "description": "獨特選書品味的空間，愛書人的秘密基地",
       "lat": 23.964300500000004,
       "lng": 120.9646178,
       "category": "書店"
@@ -738,7 +738,7 @@
       "url": "https://www.google.com/maps/place/Lumaq+%E9%9C%B2%E7%91%AA%E6%81%AA%EF%BD%9C%E5%92%96%E5%95%A1%EF%BC%8E%E9%81%B8%E7%89%A9/data=!4m2!3m1!1s0x3442a9025d030d35:0xe395e1ffa831e069",
       "place_id": "0x3442a9025d030d35:0xe395e1ffa831e069",
       "image_url": null,
-      "description": null,
+      "description": "用心沖煮的咖啡，舒適的品飲空間",
       "lat": 25.0468256,
       "lng": 121.5045372,
       "category": "咖啡"
@@ -748,7 +748,7 @@
       "url": "https://www.google.com/maps/place/%E5%9B%9E%E7%94%98Aftertaste+%28%E6%9B%B8%E3%80%81%E8%8C%B6%E3%80%81%E5%92%96%E5%95%A1%E3%80%81%E5%A5%BD%E9%A3%9F%EF%BC%89%EF%BC%8C%E5%85%AC%E4%BC%91%E6%97%A5%E5%8F%8A%E4%BE%9B%E9%A4%90%E6%99%82%E9%96%93%E8%AB%8B%E8%87%B3FB%26IG%E6%9F%A5%E7%9C%8B%E3%80%82/data=!4m2!3m1!1s0x34693d6ad6be77e5:0x3532f4d6c53e7c8b",
       "place_id": "0x34693d6ad6be77e5:0x3532f4d6c53e7c8b",
       "image_url": null,
-      "description": null,
+      "description": "精選茶飲專賣，品味台灣好茶的香醇",
       "lat": 24.1555289,
       "lng": 120.63018079999999,
       "category": "咖啡"
@@ -758,7 +758,7 @@
       "url": "https://www.google.com/maps/place/Match+Caf%C3%A9+%E9%BB%98%E5%A5%91%E5%92%96%E5%95%A1/data=!4m2!3m1!1s0x34693d8f0738abe1:0x9eba32347c1368a5",
       "place_id": "0x34693d8f0738abe1:0x9eba32347c1368a5",
       "image_url": null,
-      "description": null,
+      "description": "用心沖煮的咖啡，舒適的品飲空間",
       "lat": 24.161639,
       "lng": 120.65206440000001,
       "category": "咖啡"
@@ -768,7 +768,7 @@
       "url": "https://www.google.com/maps/place/%E6%96%87%E5%BF%A0%E8%91%AC%E5%84%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/data=!4m2!3m1!1s0x346915074a48392f:0xd5de80f98dcf2064",
       "place_id": "0x346915074a48392f:0xd5de80f98dcf2064",
       "image_url": null,
-      "description": null,
+      "description": "生活中的好幫手，提供便利服務",
       "lat": 24.183911500000004,
       "lng": 120.60251079999999,
       "category": "生活"
@@ -778,7 +778,7 @@
       "url": "https://www.google.com/maps/place/%E4%BA%BA%E5%AE%B6%E6%98%AF%E5%A5%B3%E7%94%9F/data=!4m2!3m1!1s0x34693d6ffb38a6f1:0x968604a5962a72b7",
       "place_id": "0x34693d6ffb38a6f1:0x968604a5962a72b7",
       "image_url": null,
-      "description": null,
+      "description": "獨特的存在，值得親自探索的特色空間",
       "lat": 24.171311199999998,
       "lng": 120.6414859,
       "category": "其他"
@@ -788,7 +788,7 @@
       "url": "https://www.google.com/maps/place/Coffee+Melbourne+%E5%A2%A8%E7%88%BE%E6%9C%AC%E5%92%96%E5%95%A1/data=!4m2!3m1!1s0x346917d89cff1879:0xf72acbf678aa2ba7",
       "place_id": "0x346917d89cff1879:0xf72acbf678aa2ba7",
       "image_url": null,
-      "description": null,
+      "description": "用心沖煮的咖啡，舒適的品飲空間",
       "lat": 24.1632932,
       "lng": 120.68126509999999,
       "category": "咖啡"
@@ -798,7 +798,7 @@
       "url": "https://www.google.com/maps/place/%E7%A4%BE%E5%9C%98%E6%B3%95%E4%BA%BA%E5%8F%B0%E7%81%A3%E5%9F%BA%E5%9C%B0%E5%8D%94%E6%9C%83/data=!4m2!3m1!1s0x34693d67b1cb3ea3:0x198d35e2f37fa80",
       "place_id": "0x34693d67b1cb3ea3:0x198d35e2f37fa80",
       "image_url": null,
-      "description": null,
+      "description": "生活中的好幫手，提供便利服務",
       "lat": 24.158658399999997,
       "lng": 120.6914256,
       "category": "生活"
@@ -808,7 +808,7 @@
       "url": "https://www.google.com/maps/place/%E6%98%8E%E8%B3%A2%E8%A1%8C/data=!4m2!3m1!1s0x34693d6e915bebdb:0xc2a9aee47ca59369",
       "place_id": "0x34693d6e915bebdb:0xc2a9aee47ca59369",
       "image_url": null,
-      "description": null,
+      "description": "獨特的存在，值得親自探索的特色空間",
       "lat": 24.148008999999995,
       "lng": 120.68141580000001,
       "category": "其他"
@@ -818,7 +818,7 @@
       "url": "https://www.google.com/maps/place/%E8%B1%86%E5%90%89%E5%B0%8F%E8%88%96%E8%B1%86%E6%BC%BF%E6%97%A9%E5%8D%88%E9%A4%90%E5%B0%88%E8%B3%A3%E5%BA%97/data=!4m2!3m1!1s0x34693d7791e313cf:0xf627455bf41fad1a",
       "place_id": "0x34693d7791e313cf:0xf627455bf41fad1a",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 24.154699,
       "lng": 120.66785399999999,
       "category": "美食"
@@ -828,7 +828,7 @@
       "url": "https://www.google.com/maps/place/%E9%9D%92%E5%B3%B6%E7%89%A9%E8%AA%9E%28%E5%88%88%E5%8C%85%E5%92%96%E5%95%A1%E5%BA%97%E3%80%81%E9%A3%B2%E6%96%99%E3%80%81%E7%B0%A1%E9%A4%90%E3%80%81%E7%94%9C%E9%BB%9E%E3%80%81%E5%A0%B4%E5%9C%B0%E7%A7%9F%E5%80%9F%E3%80%81%E5%A4%96%E7%87%B4%E9%A4%90%E7%9B%92%E3%80%81%E7%A7%81%E5%BB%9A%E6%96%99%E7%90%86%29/data=!4m2!3m1!1s0x346917392c666d8f:0xdb77a1e6ff4dbdd",
       "place_id": "0x346917392c666d8f:0xdb77a1e6ff4dbdd",
       "image_url": null,
-      "description": null,
+      "description": "用心沖煮的咖啡，舒適的品飲空間",
       "lat": 24.171754999999997,
       "lng": 120.674466,
       "category": "咖啡"
@@ -838,7 +838,7 @@
       "url": "https://www.google.com/maps/place/KICKBONE+COFFEE+%28+%E2%80%A2_%E2%80%A2+%29+%E5%B0%8F%E5%BA%97%E7%84%A1%E8%A8%82%E4%BD%8D/data=!4m2!3m1!1s0x34693df0636a4159:0xd85b20102b347ab5",
       "place_id": "0x34693df0636a4159:0xd85b20102b347ab5",
       "image_url": null,
-      "description": null,
+      "description": "用心沖煮的咖啡，舒適的品飲空間",
       "lat": 24.161816599999995,
       "lng": 120.6677657,
       "category": "咖啡"
@@ -848,7 +848,7 @@
       "url": "https://www.google.com/maps/place/%E9%80%B2%E5%AE%89%E5%95%86%E8%99%9F/data=!4m2!3m1!1s0x34693d1a9c29e053:0xd552773960d2f77f",
       "place_id": "0x34693d1a9c29e053:0xd552773960d2f77f",
       "image_url": null,
-      "description": null,
+      "description": "獨特的存在，值得親自探索的特色空間",
       "lat": 24.131277399999995,
       "lng": 120.67928549999999,
       "category": "其他"
@@ -858,7 +858,7 @@
       "url": "https://www.google.com/maps/place/%E7%A6%BE%E6%84%8F%E5%9C%B0%E6%94%BF%E5%A3%AB%E4%BA%8B%E5%8B%99%E6%89%80/data=!4m2!3m1!1s0x34693d0eabe4b737:0xe2453516b37dda8b",
       "place_id": "0x34693d0eabe4b737:0xe2453516b37dda8b",
       "image_url": null,
-      "description": null,
+      "description": "生活中的好幫手，提供便利服務",
       "lat": 24.1429974,
       "lng": 120.7055652,
       "category": "生活"
@@ -868,7 +868,7 @@
       "url": "https://www.google.com/maps/place/%E7%B9%BE%E7%B6%A3+CHUAN+Flowers+%28%E4%B8%8D%E5%AE%9A%E4%BC%91%E2%80%A2%E9%A0%90%E7%B4%84%E5%88%B6%E6%9C%8D%E5%8B%99%29+%E2%80%A2+%E4%B9%BE%E7%87%A5%E8%8A%B1%E3%80%81%E8%8A%B1%E8%97%9D%E8%AA%B2%E7%A8%8B%E3%80%81%E5%A9%9A%E7%A6%AE%E4%BD%88%E7%BD%AE/data=!4m2!3m1!1s0x34693dbb9a844c8f:0xbbb192531e7289dd",
       "place_id": "0x34693dbb9a844c8f:0xbbb192531e7289dd",
       "image_url": null,
-      "description": null,
+      "description": "生活中的好幫手，提供便利服務",
       "lat": 24.139105,
       "lng": 120.66129919999999,
       "category": "生活"
@@ -878,7 +878,7 @@
       "url": "https://www.google.com/maps/place/PhysiomotionLab+%E5%8B%95%E4%BD%9C%E5%AF%A6%E9%A9%97%E5%AE%A4/data=!4m2!3m1!1s0x34693d23d531d557:0x57814b4646497757",
       "place_id": "0x34693d23d531d557:0x57814b4646497757",
       "image_url": null,
-      "description": null,
+      "description": "獨特的存在，值得親自探索的特色空間",
       "lat": 24.1479859,
       "lng": 120.6545739,
       "category": "其他"
@@ -888,7 +888,7 @@
       "url": "https://www.google.com/maps/place/%E9%81%8A%E7%A9%BA-%E7%8E%A9%E6%A8%82%E7%A0%94%E7%A9%B6%E6%89%80/data=!4m2!3m1!1s0x34693daa0f2ac569:0xb0bb8d3088716026",
       "place_id": "0x34693daa0f2ac569:0xb0bb8d3088716026",
       "image_url": null,
-      "description": null,
+      "description": "獨特的存在，值得親自探索的特色空間",
       "lat": 24.130989,
       "lng": 120.66255570000001,
       "category": "其他"
@@ -898,7 +898,7 @@
       "url": "https://www.google.com/maps/place/%E9%83%AD%E5%86%B0-%E5%82%B3%E7%B5%B1%E5%8F%A4%E6%97%A9%E5%91%B3%E5%86%B0%E5%93%81/data=!4m2!3m1!1s0x34693d9c0a8e86eb:0x371cf86690e59071",
       "place_id": "0x34693d9c0a8e86eb:0x371cf86690e59071",
       "image_url": null,
-      "description": null,
+      "description": "清涼消暑的冰品甜點，夏日必訪",
       "lat": 24.152881500000003,
       "lng": 120.66037600000001,
       "category": "甜點"
@@ -908,7 +908,7 @@
       "url": "https://www.google.com/maps/place/%E7%BE%8E%E8%BB%8D%E8%B1%86%E4%B9%B3%E5%86%B0/data=!4m2!3m1!1s0x34693da1bdfa86c3:0xa09d14c3f724439a",
       "place_id": "0x34693da1bdfa86c3:0xa09d14c3f724439a",
       "image_url": null,
-      "description": null,
+      "description": "清涼消暑的冰品甜點，夏日必訪",
       "lat": 24.1445032,
       "lng": 120.6614304,
       "category": "甜點"
@@ -918,7 +918,7 @@
       "url": "https://www.google.com/maps/place/%E6%9C%89%E7%AD%86x%E9%8B%BC%E7%AD%86%E5%B7%A5%E4%BD%9C%E5%AE%A4+%28%E7%B6%B2%E8%B3%BC%E8%AB%8B%E7%9C%8Big+%2F+fb%E7%B2%89%E7%B5%B2%E5%B0%88%E9%A0%81%29/data=!4m2!3m1!1s0x34693d2d304439eb:0x9413d624230d8105",
       "place_id": "0x34693d2d304439eb:0x9413d624230d8105",
       "image_url": null,
-      "description": null,
+      "description": "獨特選書品味的空間，愛書人的秘密基地",
       "lat": 24.154142399999994,
       "lng": 120.66114080000001,
       "category": "書店"
@@ -928,7 +928,7 @@
       "url": "https://www.google.com/maps/place/%E4%B8%AD%E4%B8%80%E4%B8%AD%E8%97%A5%E8%A1%8C/data=!4m2!3m1!1s0x34693d9f52c3e4eb:0xf8897d59acfea768",
       "place_id": "0x34693d9f52c3e4eb:0xf8897d59acfea768",
       "image_url": null,
-      "description": null,
+      "description": "獨特的存在，值得親自探索的特色空間",
       "lat": 24.146873,
       "lng": 120.6603485,
       "category": "其他"
@@ -938,7 +938,7 @@
       "url": "https://www.google.com/maps/place/Folk+Gathering/data=!4m2!3m1!1s0x34693de6e31a052f:0x4c3f6c94a1ac678b",
       "place_id": "0x34693de6e31a052f:0x4c3f6c94a1ac678b",
       "image_url": null,
-      "description": null,
+      "description": "獨特的存在，值得親自探索的特色空間",
       "lat": 24.136257,
       "lng": 120.65847799999999,
       "category": "其他"
@@ -948,7 +948,7 @@
       "url": "https://www.google.com/maps/place/Flora+Caff%C3%A8/data=!4m2!3m1!1s0x34693d0c4a932135:0x6dfa27660c842e37",
       "place_id": "0x34693d0c4a932135:0x6dfa27660c842e37",
       "image_url": null,
-      "description": null,
+      "description": "獨特的存在，值得親自探索的特色空間",
       "lat": 24.1391694,
       "lng": 120.6746235,
       "category": "其他"
@@ -958,7 +958,7 @@
       "url": "https://www.google.com/maps/place/%E5%96%AB%E8%8C%B6%E6%9C%88%E6%BB%BF%E3%83%BB%E6%9C%88%E6%BB%BF%E5%B0%8F%E6%9B%B8%E5%BA%97/data=!4m2!3m1!1s0x34693d14a976dc1d:0x5395ac74f232fd36",
       "place_id": "0x34693d14a976dc1d:0x5395ac74f232fd36",
       "image_url": null,
-      "description": null,
+      "description": "精選茶飲專賣，品味台灣好茶的香醇",
       "lat": 24.1397987,
       "lng": 120.6806619,
       "category": "咖啡"
@@ -968,7 +968,7 @@
       "url": "https://www.google.com/maps/place/%E8%8A%B3%E6%B3%89%E9%9D%92%E8%8D%89%E8%A1%8C/data=!4m2!3m1!1s0x34693d0065866c57:0x4163d2f60d97d86d",
       "place_id": "0x34693d0065866c57:0x4163d2f60d97d86d",
       "image_url": null,
-      "description": null,
+      "description": "獨特的存在，值得親自探索的特色空間",
       "lat": 24.140472,
       "lng": 120.6846282,
       "category": "其他"
@@ -978,7 +978,7 @@
       "url": "https://www.google.com/maps/place/%E6%97%A9%E6%97%A5%E6%97%A9%E9%BB%9EZali+Breakfast+2%2F13%E5%BA%97%E4%BC%91%E4%B8%80%E5%A4%A9/data=!4m2!3m1!1s0x34691a0651367501:0xa430d3982f13f343",
       "place_id": "0x34691a0651367501:0xa430d3982f13f343",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 24.249435400000003,
       "lng": 120.71531409999999,
       "category": "美食"
@@ -988,7 +988,7 @@
       "url": "https://www.google.com/maps/place/%E8%B1%90%E6%BA%90%E9%A3%AF%E5%BA%97/data=!4m2!3m1!1s0x34691a0f3b6c91af:0xc78d3cacb539395c",
       "place_id": "0x34691a0f3b6c91af:0xc78d3cacb539395c",
       "image_url": null,
-      "description": null,
+      "description": "生活中的好幫手，提供便利服務",
       "lat": 24.251230499999995,
       "lng": 120.71874910000001,
       "category": "生活"
@@ -998,7 +998,7 @@
       "url": "https://www.google.com/maps/place/%E9%B9%BF%E9%87%8E%E7%B5%90%E7%B1%B3%E5%AE%B6%EF%BC%88%E4%B8%8A%E4%B8%8B%E8%88%96%E5%96%AE%E4%BA%BA%E5%BA%8A%E4%BD%8D%2F%E9%9D%92%E5%B9%B4%E6%97%85%E9%A4%A8%2F%E9%A0%90%E7%B4%84%E5%88%B6%E6%89%8B%E4%BD%9C%E6%97%A9%E9%A4%90%EF%BC%89/data=!4m2!3m1!1s0x346fa457ffeef993:0x103a727e2d4c2f62",
       "place_id": "0x346fa457ffeef993:0x103a727e2d4c2f62",
       "image_url": null,
-      "description": null,
+      "description": "生活中的好幫手，提供便利服務",
       "lat": 22.893480999999998,
       "lng": 121.13574039999999,
       "category": "生活"
@@ -1008,7 +1008,7 @@
       "url": "https://www.google.com/maps/place/%E9%83%BD%E8%98%AD%E6%9C%8B%E5%8F%8B%E5%AE%B6+Dulan+Friends+Hostel/data=!4m2!3m1!1s0x346fa3444f76b2d3:0x4a83b27df7d5f25",
       "place_id": "0x346fa3444f76b2d3:0x4a83b27df7d5f25",
       "image_url": null,
-      "description": null,
+      "description": "舒適住宿空間，旅途中的溫馨歸處",
       "lat": 22.874702300000003,
       "lng": 121.2297711,
       "category": "生活"
@@ -1018,7 +1018,7 @@
       "url": "https://www.google.com/maps/place/%E5%A4%A9%E7%89%9B%E6%95%99%E6%8E%88+-+%E5%8E%9F%E5%91%B3%E5%BB%9A%E7%A5%9E+PROFESSOR%27S+KITCHEN+-%E5%8F%B0%E6%9D%B1%E7%95%B6%E5%9C%B0%E6%99%AF%E8%A7%80%E9%A4%90%E5%BB%B3%E3%80%81%E9%9A%B1%E8%97%8F%E7%84%A1%E8%8F%9C%E5%96%AE%E6%96%99%E7%90%86%E3%80%81%E4%BA%BA%E6%B0%A3%E7%89%B9%E8%89%B2%E9%A4%90%E5%BB%B3/data=!4m2!3m1!1s0x346fa386a19090eb:0xb44b937ba9cd8e27",
       "place_id": "0x346fa386a19090eb:0xb44b937ba9cd8e27",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 22.88121,
       "lng": 121.2328156,
       "category": "美食"
@@ -1028,7 +1028,7 @@
       "url": "https://www.google.com/maps/place/%E5%B0%8F%E6%B2%90%E9%86%AC%E5%B0%8F%E6%9C%A8%E5%8C%A0/data=!4m2!3m1!1s0x346fc90017a78ef7:0x9812115023a461d8",
       "place_id": "0x346fc90017a78ef7:0x9812115023a461d8",
       "image_url": null,
-      "description": null,
+      "description": "獨特的存在，值得親自探索的特色空間",
       "lat": 22.706972,
       "lng": 121.0408731,
       "category": "其他"
@@ -1038,7 +1038,7 @@
       "url": "https://www.google.com/maps/place/%E7%9B%AE%E7%9B%AE%E5%92%96%E5%95%A1%E3%80%90%E8%87%AA%E5%AE%B6%E7%83%98%E5%9F%B9%EF%BD%9C%E5%92%96%E5%95%A1%E8%B1%86%E5%B0%88%E8%B3%A3+%7C+%E6%95%B4%E6%A8%A1%E8%9B%8B%E7%B3%95%E9%A0%90%E5%AE%9A+%E3%80%91/data=!4m2!3m1!1s0x346fb96b96d901b9:0x92e95b15ecf76fda",
       "place_id": "0x346fb96b96d901b9:0x92e95b15ecf76fda",
       "image_url": null,
-      "description": null,
+      "description": "用心沖煮的咖啡，舒適的品飲空間",
       "lat": 22.762281700000003,
       "lng": 121.14354200000001,
       "category": "咖啡"
@@ -1048,7 +1048,7 @@
       "url": "https://www.google.com/maps/place/%E6%97%A5%E5%85%89%E5%92%96%E5%95%A1%E9%A4%A8/data=!4m2!3m1!1s0x346fb9128f44674d:0x6d20354f32b79b00",
       "place_id": "0x346fb9128f44674d:0x6d20354f32b79b00",
       "image_url": null,
-      "description": null,
+      "description": "用心沖煮的咖啡，舒適的品飲空間",
       "lat": 22.7578754,
       "lng": 121.1374711,
       "category": "咖啡"
@@ -1058,7 +1058,7 @@
       "url": "https://www.google.com/maps/place/%E5%8F%B0%E5%AE%A2%E5%A4%AB%E5%A6%BB%E4%B8%B2%E7%87%92%E5%BA%97/data=!4m2!3m1!1s0x346fb90ad1f01cfb:0xdbebdad6fb7c29de",
       "place_id": "0x346fb90ad1f01cfb:0xdbebdad6fb7c29de",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 22.7611514,
       "lng": 121.1405281,
       "category": "美食"
@@ -1068,7 +1068,7 @@
       "url": "https://www.google.com/maps/place/%E6%80%AA%E8%B1%86%E5%92%96%E5%95%A1+ODDO+COFFEE/data=!4m2!3m1!1s0x346fb96c3e4e5e7f:0x3275fe1bd59f74a2",
       "place_id": "0x346fb96c3e4e5e7f:0x3275fe1bd59f74a2",
       "image_url": null,
-      "description": null,
+      "description": "用心沖煮的咖啡，舒適的品飲空間",
       "lat": 22.763656899999994,
       "lng": 121.14092070000001,
       "category": "咖啡"
@@ -1078,7 +1078,7 @@
       "url": "https://www.google.com/maps/place/%E6%B5%A9%E4%B8%96%E9%9F%B3%E6%A8%82%E8%A3%BD%E4%BD%9C/data=!4m2!3m1!1s0x3442aa7a45edcf9f:0x75564df815135e9a",
       "place_id": "0x3442aa7a45edcf9f:0x75564df815135e9a",
       "image_url": null,
-      "description": null,
+      "description": "生活中的好幫手，提供便利服務",
       "lat": 24.9888462,
       "lng": 121.57334159999999,
       "category": "生活"
@@ -1088,7 +1088,7 @@
       "url": "https://www.google.com/maps/place/%E9%80%99%E5%92%96%E5%95%A1+This+Caf%C3%A9/data=!4m2!3m1!1s0x346801fa1dbaa21d:0xe839145760f95d80",
       "place_id": "0x346801fa1dbaa21d:0xe839145760f95d80",
       "image_url": null,
-      "description": null,
+      "description": "用心沖煮的咖啡，舒適的品飲空間",
       "lat": 24.979208,
       "lng": 121.542908,
       "category": "咖啡"
@@ -1098,7 +1098,7 @@
       "url": "https://www.google.com/maps/place/%E6%9A%97%E5%9D%91%E6%96%87%E5%8C%96%E5%B7%A5%E4%BD%9C%E5%AE%A4/data=!4m2!3m1!1s0x34680365edebff3f:0x64b3adc87aed8023",
       "place_id": "0x34680365edebff3f:0x64b3adc87aed8023",
       "image_url": null,
-      "description": null,
+      "description": "獨特選書品味的空間，愛書人的秘密基地",
       "lat": 24.9484109,
       "lng": 121.49472209999999,
       "category": "書店"
@@ -1108,7 +1108,7 @@
       "url": "https://www.google.com/maps/place/%E6%B0%B4%E7%89%9B%E6%9B%B8%E5%BA%97+%E5%8F%B0%E5%8C%97%E5%BA%97/data=!4m2!3m1!1s0x3442aa2bcd69c861:0x3997c32886e9ea21",
       "place_id": "0x3442aa2bcd69c861:0x3997c32886e9ea21",
       "image_url": null,
-      "description": null,
+      "description": "獨特選書品味的空間，愛書人的秘密基地",
       "lat": 25.02630745,
       "lng": 121.54384595000002,
       "category": "書店"
@@ -1118,7 +1118,7 @@
       "url": "https://www.google.com/maps/place/%E6%B0%B4%E6%BA%96%E6%9B%B8%E5%B1%80/data=!4m2!3m1!1s0x3442a9857bf462f9:0x8badab936b15d36a",
       "place_id": "0x3442a9857bf462f9:0x8badab936b15d36a",
       "image_url": null,
-      "description": null,
+      "description": "獨特選書品味的空間，愛書人的秘密基地",
       "lat": 25.024647299999998,
       "lng": 121.52805839999999,
       "category": "書店"
@@ -1128,7 +1128,7 @@
       "url": "https://www.google.com/maps/place/%E9%B3%A5%E5%92%96%E5%95%A1%EF%BC%88%E7%84%A1%E8%A8%82%E4%BD%8D%EF%BC%89/data=!4m2!3m1!1s0x3442abc9f38b2f31:0xe90e925c29d9ae72",
       "place_id": "0x3442abc9f38b2f31:0xe90e925c29d9ae72",
       "image_url": null,
-      "description": null,
+      "description": "用心沖煮的咖啡，舒適的品飲空間",
       "lat": 25.0333526,
       "lng": 121.5586728,
       "category": "咖啡"
@@ -1138,7 +1138,7 @@
       "url": "https://www.google.com/maps/place/%E5%90%8D%E5%B1%B1%E7%89%99%E9%86%AB%E8%A8%BA%E6%89%80/data=!4m2!3m1!1s0x3442ab18fe545f79:0xbb734ddd525560db",
       "place_id": "0x3442ab18fe545f79:0xbb734ddd525560db",
       "image_url": null,
-      "description": null,
+      "description": "專業醫療服務，守護您的健康",
       "lat": 25.0341439,
       "lng": 121.543263,
       "category": "生活"
@@ -1148,7 +1148,7 @@
       "url": "https://www.google.com/maps/place/%E5%B1%B1%E5%B3%B8%E4%BA%8C%E6%89%8B%E6%9B%B8%E5%BA%97+Ridgebooks/data=!4m2!3m1!1s0x3442ae5728f99535:0x9af89310ca5f29d5",
       "place_id": "0x3442ae5728f99535:0x9af89310ca5f29d5",
       "image_url": null,
-      "description": null,
+      "description": "獨特選書品味的空間，愛書人的秘密基地",
       "lat": 25.131137000000003,
       "lng": 121.5000675,
       "category": "書店"
@@ -1158,7 +1158,7 @@
       "url": "https://www.google.com/maps/place/%E5%8F%A4%E6%97%A9%E5%BC%84%E7%B3%96/data=!4m2!3m1!1s0x3442a7a37626caf7:0x22742e31e5c6c934",
       "place_id": "0x3442a7a37626caf7:0x22742e31e5c6c934",
       "image_url": null,
-      "description": null,
+      "description": "精心製作的甜點，療癒味蕾好去處",
       "lat": 25.051340000000003,
       "lng": 121.42769,
       "category": "甜點"
@@ -1168,7 +1168,7 @@
       "url": "https://www.google.com/maps/place/%E4%B8%89%E5%8D%94%E6%88%90%E9%A4%85%E8%88%96/data=!4m2!3m1!1s0x3442a5599d0436e9:0xf2da5d7ec8238d72",
       "place_id": "0x3442a5599d0436e9:0xf2da5d7ec8238d72",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 25.1696556,
       "lng": 121.4405912,
       "category": "美食"
@@ -1178,7 +1178,7 @@
       "url": "https://www.google.com/maps/place/%E5%A4%A9%E6%9B%89%E5%BE%97/data=!4m2!3m1!1s0x3442a98f0cf37859:0x93364e29f6c0ad5b",
       "place_id": "0x3442a98f0cf37859:0x93364e29f6c0ad5b",
       "image_url": null,
-      "description": null,
+      "description": "獨特的存在，值得親自探索的特色空間",
       "lat": 25.0226081,
       "lng": 121.52885560000001,
       "category": "其他"
@@ -1188,7 +1188,7 @@
       "url": "https://www.google.com/maps/place/%E5%B0%96%E8%9A%AA/data=!4m2!3m1!1s0x3442a9f485d88465:0xb41311c2177c694c",
       "place_id": "0x3442a9f485d88465:0xb41311c2177c694c",
       "image_url": null,
-      "description": null,
+      "description": "獨特的存在，值得親自探索的特色空間",
       "lat": 25.0104605,
       "lng": 121.5318943,
       "category": "其他"
@@ -1198,7 +1198,7 @@
       "url": "https://www.google.com/maps/place/Legal+Girl%E6%B3%95%E5%BE%8B%E5%A5%B3%E5%AD%A9%E8%8A%B1%E8%97%9D%E4%BA%8B%E5%8B%99%E6%89%80/data=!4m2!3m1!1s0x3442ab388ef23247:0xcf98cc08abba23fc",
       "place_id": "0x3442ab388ef23247:0xcf98cc08abba23fc",
       "image_url": null,
-      "description": null,
+      "description": "生活中的好幫手，提供便利服務",
       "lat": 25.024509099999996,
       "lng": 121.52559970000001,
       "category": "生活"
@@ -1208,7 +1208,7 @@
       "url": "https://www.google.com/maps/place/%E6%B0%B4%E6%9E%9C%E6%94%A4/data=!4m2!3m1!1s0x3442a90042124e0d:0x13bb7bd24710fd62",
       "place_id": "0x3442a90042124e0d:0x13bb7bd24710fd62",
       "image_url": null,
-      "description": null,
+      "description": "精心製作的甜點，療癒味蕾好去處",
       "lat": 25.064503899999995,
       "lng": 121.52578820000001,
       "category": "甜點"
@@ -1218,7 +1218,7 @@
       "url": "https://www.google.com/maps/place/Continue%3F+Gaming+Bar%E9%9B%BB%E7%8E%A9%E9%A4%90%E9%85%92%E5%90%A7/data=!4m2!3m1!1s0x3442a96311bc1f67:0xea160222cd20f407",
       "place_id": "0x3442a96311bc1f67:0xea160222cd20f407",
       "image_url": null,
-      "description": null,
+      "description": "特色餐酒館，美食與美酒的饗宴",
       "lat": 25.046152499999998,
       "lng": 121.5331372,
       "category": "美食"
@@ -1228,7 +1228,7 @@
       "url": "https://www.google.com/maps/place/%E5%82%91%E9%A3%9B%E8%B2%BF%E6%98%93%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/data=!4m2!3m1!1s0x3442a9676860bfe3:0x4d7cc997e0172945",
       "place_id": "0x3442a9676860bfe3:0x4d7cc997e0172945",
       "image_url": null,
-      "description": null,
+      "description": "生活中的好幫手，提供便利服務",
       "lat": 25.0550017,
       "lng": 121.52974069999999,
       "category": "生活"
@@ -1238,7 +1238,7 @@
       "url": "https://www.google.com/maps/place/CUP/data=!4m2!3m1!1s0x3442ab0330c3b7ad:0x24ed0e6697b14b35",
       "place_id": "0x3442ab0330c3b7ad:0x24ed0e6697b14b35",
       "image_url": null,
-      "description": null,
+      "description": "用心沖煮的咖啡，舒適的品飲空間",
       "lat": 25.050964999999994,
       "lng": 121.5658688,
       "category": "咖啡"
@@ -1248,7 +1248,7 @@
       "url": "https://www.google.com/maps/place/Ema%27s+Table/data=!4m2!3m1!1s0x808ff33c0206de87:0x512c11140520013",
       "place_id": "0x808ff33c0206de87:0x512c11140520013",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": null,
       "lng": null,
       "category": "美食"
@@ -1258,7 +1258,7 @@
       "url": "https://www.google.com/maps/place/%E4%B8%89%E6%A9%8B%E8%99%9F/data=!4m2!3m1!1s0x3442abc1fdc94d29:0x24529f7079e61a1b",
       "place_id": "0x3442abc1fdc94d29:0x24529f7079e61a1b",
       "image_url": null,
-      "description": null,
+      "description": "獨特的存在，值得親自探索的特色空間",
       "lat": 25.049702,
       "lng": 121.554581,
       "category": "其他"
@@ -1268,7 +1268,7 @@
       "url": "https://www.google.com/maps/place/%E9%9B%81%E5%9F%9F%E6%96%87%E5%8C%96%E4%B8%AD%E5%BF%83%EF%BC%9A%E5%92%96%E5%95%A1%E8%88%87%E8%8C%B6%EF%BD%9C%E5%B0%8F%E9%BB%9E%E5%BF%83%EF%BD%9C%E5%85%B1%E4%BA%AB%E7%A9%BA%E9%96%93%EF%BD%9C%E9%96%B1%E8%AE%80%EF%BD%9C%E8%8A%B1%E8%97%9D%EF%BD%9C%E5%B1%95%E8%A6%BD%E6%BC%94%E5%87%BA%EF%BD%9C%E8%81%9A%E6%9C%83%E6%B4%BB%E5%8B%95%EF%BD%9C%E5%A0%B4%E5%9C%B0%E7%A7%9F%E5%80%9F%EF%BD%9C%E4%B8%8D%E9%99%90%E6%99%82%E5%92%96%E5%95%A1%E5%BB%B3%EF%BD%9C%E6%85%B6%E7%94%9F%E6%8A%93%E5%91%A8%EF%BD%9C%E5%AF%B6%E5%AF%B6%E6%80%A7%E5%88%A5%E6%B4%BE%E5%B0%8D%EF%BD%9C%E5%A9%9A%E7%A6%AE%E8%8A%B1%E6%9D%9F%EF%BD%9C%E9%80%81%E7%A6%AE%E9%A1%A7%E5%95%8F%EF%BD%9C%E7%AF%80%E6%85%B6%E8%A3%9D%E9%A3%BE%EF%BD%9C%E6%B4%BE%E5%B0%8D%E4%BD%88%E7%BD%AE/data=!4m2!3m1!1s0x3442abec437764cf:0x6d76a0d4022a477c",
       "place_id": "0x3442abec437764cf:0x6d76a0d4022a477c",
       "image_url": null,
-      "description": null,
+      "description": "精選茶飲專賣，品味台灣好茶的香醇",
       "lat": 25.038012199999997,
       "lng": 121.58284680000001,
       "category": "咖啡"
@@ -1278,7 +1278,7 @@
       "url": "https://www.google.com/maps/place/%E7%90%87%E7%90%B3%E5%B0%88%E6%A5%AD%E8%A1%A3%E6%9C%8D%E4%BF%AE%E6%94%B9/data=!4m2!3m1!1s0x3442acbb1750b239:0x55915963654167e5",
       "place_id": "0x3442acbb1750b239:0x55915963654167e5",
       "image_url": null,
-      "description": null,
+      "description": "生活中的好幫手，提供便利服務",
       "lat": 25.069689999999998,
       "lng": 121.61308799999999,
       "category": "生活"
@@ -1288,7 +1288,7 @@
       "url": "https://www.google.com/maps/place/%E5%8F%B0%E7%81%A3%E5%8C%97%E7%A4%BE/data=!4m2!3m1!1s0x3442a994b4d6cd4b:0xfdda3bd98488b339",
       "place_id": "0x3442a994b4d6cd4b:0xfdda3bd98488b339",
       "image_url": null,
-      "description": null,
+      "description": "獨特的存在，值得親自探索的特色空間",
       "lat": 25.0438265,
       "lng": 121.52292860000001,
       "category": "其他"
@@ -1298,7 +1298,7 @@
       "url": "https://www.google.com/maps/place/%E6%9B%B8%E8%88%87%E5%92%96%E5%95%A1%26%E5%96%B5%E7%94%9C%E5%9C%88/data=!4m2!3m1!1s0x3442ab5ab83090d5:0xd58fae2ae9e30212",
       "place_id": "0x3442ab5ab83090d5:0xd58fae2ae9e30212",
       "image_url": null,
-      "description": null,
+      "description": "用心沖煮的咖啡，舒適的品飲空間",
       "lat": 25.046865000000004,
       "lng": 121.615528,
       "category": "咖啡"
@@ -1308,7 +1308,7 @@
       "url": "https://www.google.com/maps/place/%E7%84%A1%E9%99%90%E9%AB%94%E8%82%B2%E6%95%99%E5%AE%A4+Infinity+Physical+Education+Studio/data=!4m2!3m1!1s0x3442ac612d90cd19:0x4501bf56d21a7850",
       "place_id": "0x3442ac612d90cd19:0x4501bf56d21a7850",
       "image_url": null,
-      "description": null,
+      "description": "獨特選書品味的空間，愛書人的秘密基地",
       "lat": 25.0786893,
       "lng": 121.58176519999999,
       "category": "書店"
@@ -1318,7 +1318,7 @@
       "url": "https://www.google.com/maps/place/%E6%BF%80%E9%80%B2%E5%B7%A5%E4%BD%9C%E5%AE%A4/data=!4m2!3m1!1s0x3442abc5356e52f3:0x1208db8d751e8964",
       "place_id": "0x3442abc5356e52f3:0x1208db8d751e8964",
       "image_url": null,
-      "description": null,
+      "description": "獨特選書品味的空間，愛書人的秘密基地",
       "lat": 25.0420776,
       "lng": 121.5485104,
       "category": "書店"
@@ -1328,7 +1328,7 @@
       "url": "https://www.google.com/maps/place/%E5%B7%A6%E8%BD%89%E6%9C%89%E6%9B%B8/data=!4m2!3m1!1s0x3442a97074835251:0x4e993ee9a5b6a1bb",
       "place_id": "0x3442a97074835251:0x4e993ee9a5b6a1bb",
       "image_url": null,
-      "description": null,
+      "description": "獨特選書品味的空間，愛書人的秘密基地",
       "lat": 25.0444475,
       "lng": 121.5216671,
       "category": "書店"
@@ -1338,7 +1338,7 @@
       "url": "https://www.google.com/maps/place/%E8%8B%B1%E8%A8%98%E7%A6%8F%E9%9A%86%E4%BE%BF%E7%95%B6/data=!4m2!3m1!1s0x345d5daadbd5f975:0x760c694b861a95",
       "place_id": "0x345d5daadbd5f975:0x760c694b861a95",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 25.017720399999998,
       "lng": 121.9481543,
       "category": "美食"
@@ -1348,7 +1348,7 @@
       "url": "https://www.google.com/maps/place/%E9%9D%9E%E6%9B%B8%E5%BA%97/data=!4m2!3m1!1s0x345d45335eb1a15f:0x3380ed9f22a87dfc",
       "place_id": "0x345d45335eb1a15f:0x3380ed9f22a87dfc",
       "image_url": null,
-      "description": null,
+      "description": "獨特選書品味的空間，愛書人的秘密基地",
       "lat": 25.119274399999995,
       "lng": 121.86161360000001,
       "category": "書店"
@@ -1358,7 +1358,7 @@
       "url": "https://www.google.com/maps/place/%E5%90%BE%E5%AE%B6%E5%92%96%E5%95%A1%C2%B7%E5%B8%83%E4%B8%81%E5%B0%88%E9%96%80%E5%BA%97%E3%80%8C%E5%85%AC%E4%BC%91%E6%9C%83%E5%9C%A8%E8%87%89%E6%9B%B8%E3%80%81IG%E9%99%90%E5%8B%95%E5%85%AC%E5%91%8A%EF%BC%8C%E5%85%88%E9%BB%9E%E8%AE%9A%E8%BF%BD%E8%B9%A4%E9%81%8E%E4%BE%86%E6%89%8D%E4%B8%8D%E6%9C%83%E6%92%B2%E7%A9%BA%E3%80%8D/data=!4m2!3m1!1s0x345d533c101ca137:0x9139ff43325dd1c4",
       "place_id": "0x345d533c101ca137:0x9139ff43325dd1c4",
       "image_url": null,
-      "description": null,
+      "description": "用心沖煮的咖啡，舒適的品飲空間",
       "lat": 25.0629918,
       "lng": 121.66058530000001,
       "category": "咖啡"
@@ -1368,7 +1368,7 @@
       "url": "https://www.google.com/maps/place/Ho+%26+lin%27s+store/data=!4m2!3m1!1s0x345d536baa2676e7:0x5eae73dc5289c874",
       "place_id": "0x345d536baa2676e7:0x5eae73dc5289c874",
       "image_url": null,
-      "description": null,
+      "description": "獨特的存在，值得親自探索的特色空間",
       "lat": 25.066678399999997,
       "lng": 121.6303514,
       "category": "其他"
@@ -1378,7 +1378,7 @@
       "url": "https://www.google.com/maps/place/%E7%89%87%E5%B1%B1%E8%A5%BF%E9%BB%9E+Mountain+Piece/data=!4m2!3m1!1s0x3442a95e89effbd9:0x4ff060b1f77ac1ee",
       "place_id": "0x3442a95e89effbd9:0x4ff060b1f77ac1ee",
       "image_url": null,
-      "description": null,
+      "description": "精心製作的甜點，療癒味蕾好去處",
       "lat": 25.022949300000004,
       "lng": 121.54997100000001,
       "category": "甜點"
@@ -1388,7 +1388,7 @@
       "url": "https://www.google.com/maps/place/%E5%A5%B3%E5%B7%AB%E5%BA%97/data=!4m2!3m1!1s0x3442a988ff1b685d:0x25aff7ea838136e7",
       "place_id": "0x3442a988ff1b685d:0x25aff7ea838136e7",
       "image_url": null,
-      "description": null,
+      "description": "獨特的存在，值得親自探索的特色空間",
       "lat": 25.0205722,
       "lng": 121.5336417,
       "category": "其他"
@@ -1398,7 +1398,7 @@
       "url": "https://www.google.com/maps/place/%E6%9C%AA%E5%A4%AE%E5%92%96%E5%95%A1%E5%BA%97/data=!4m2!3m1!1s0x3442aa2dec922001:0xf1592a50aa99e9f9",
       "place_id": "0x3442aa2dec922001:0xf1592a50aa99e9f9",
       "image_url": null,
-      "description": null,
+      "description": "用心沖煮的咖啡，舒適的品飲空間",
       "lat": 25.0262375,
       "lng": 121.5474209,
       "category": "咖啡"
@@ -1408,7 +1408,7 @@
       "url": "https://www.google.com/maps/place/%E9%85%8D%E5%80%8B%E5%92%96%E5%95%A1%E5%90%A7/data=!4m2!3m1!1s0x3442aa36a9b3548f:0xefe76b35f82d6aa3",
       "place_id": "0x3442aa36a9b3548f:0xefe76b35f82d6aa3",
       "image_url": null,
-      "description": null,
+      "description": "用心沖煮的咖啡，舒適的品飲空間",
       "lat": 25.023237299999998,
       "lng": 121.55463940000001,
       "category": "咖啡"
@@ -1418,7 +1418,7 @@
       "url": "https://www.google.com/maps/place/%E5%BD%B1%E5%BF%83%E5%BD%B1%E5%83%8F%E5%B7%A5%E4%BD%9C%E5%AE%A4%E3%80%8A%E7%B2%BE%E7%B7%BB%E8%AD%89%E4%BB%B6%E7%85%A7+%E9%9D%9E%E9%9F%93%E5%BC%8F%E8%AD%89%E4%BB%B6%E7%85%A7+%E5%B0%88%E6%A5%AD%E5%BD%A2%E8%B1%A1%E7%85%A7+%E5%AD%B8%E5%A3%AB%E7%85%A7+%E5%85%A8%E5%AE%B6%E7%A6%8F+%E8%A6%AA%E5%AD%90%E7%85%A7+%E5%AF%B5%E7%89%A9%E7%85%A7+%E5%A9%9A%E7%B4%97%E7%85%A7+%E9%96%A8%E8%9C%9C%E7%85%A7+%E6%83%85%E4%BE%B6%E7%85%A7+%E5%90%84%E5%BC%8F%E7%B4%80%E5%BF%B5%E5%AF%AB%E7%9C%9F+%E6%B4%BB%E5%8B%95%E8%A8%98%E9%8C%84+%E5%95%86%E6%A5%AD%E6%8B%8D%E6%94%9D+%0A%E5%95%86%E5%93%81%E6%94%9D%E5%BD%B1+%E6%94%9D%E5%BD%B1%E6%95%99%E5%AD%B8+%E8%80%81%E7%85%A7%E7%89%87%E4%BF%AE%E5%BE%A9+%E7%85%A7%E7%89%87%E6%B2%96%E5%8D%B0+%E7%85%A7%E7%9B%B8%E9%A4%A8%E3%80%8B%E4%BC%91%E6%81%AF%E6%97%A5%E5%8F%A6%E8%A1%8C%E5%85%AC%E5%91%8A%28FB%E7%B2%89%E7%B5%B2%E5%B0%88%E9%A0%81%E5%85%AC%E5%91%8A%29/data=!4m2!3m1!1s0x3442ab99976f1593:0xf3fb743ba33228b1",
       "place_id": "0x3442ab99976f1593:0xf3fb743ba33228b1",
       "image_url": null,
-      "description": null,
+      "description": "獨特選書品味的空間，愛書人的秘密基地",
       "lat": 25.026410499999994,
       "lng": 121.545712,
       "category": "書店"
@@ -1428,7 +1428,7 @@
       "url": "https://www.google.com/maps/place/%E4%BF%A1%E7%BE%A9%E7%89%99%E9%86%AB%E8%A8%BA%E6%89%80/data=!4m2!3m1!1s0x3442a983aaaaaaab:0xb6ea07978bcddf03",
       "place_id": "0x3442a983aaaaaaab:0xb6ea07978bcddf03",
       "image_url": null,
-      "description": null,
+      "description": "專業醫療服務，守護您的健康",
       "lat": 25.0336374,
       "lng": 121.52862669999999,
       "category": "生活"
@@ -1438,7 +1438,7 @@
       "url": "https://www.google.com/maps/place/%E9%99%B3%E6%96%87%E6%88%90%E5%8D%9A%E5%A3%AB%E7%B4%80%E5%BF%B5%E5%9F%BA%E9%87%91%E6%9C%83/data=!4m2!3m1!1s0x3442a987bb26491d:0xa10e338e296b637a",
       "place_id": "0x3442a987bb26491d:0xa10e338e296b637a",
       "image_url": null,
-      "description": null,
+      "description": "獨特選書品味的空間，愛書人的秘密基地",
       "lat": 25.0246233,
       "lng": 121.5350606,
       "category": "書店"
@@ -1448,7 +1448,7 @@
       "url": "https://www.google.com/maps/place/%E9%87%8E%E7%81%AB%E6%B3%95%E5%BE%8B%E4%BA%8B%E5%8B%99%E6%89%80%E6%9A%A8%E5%8F%B0%E7%81%A3%E5%85%AC%E6%B0%91%E4%BA%BA%E6%AC%8A%E8%81%AF%E7%9B%9F/data=!4m2!3m1!1s0x3442ab7c100a48d9:0xf8194a63fc60dc69",
       "place_id": "0x3442ab7c100a48d9:0xf8194a63fc60dc69",
       "image_url": null,
-      "description": null,
+      "description": "生活中的好幫手，提供便利服務",
       "lat": 25.0335914,
       "lng": 121.5454609,
       "category": "生活"
@@ -1458,7 +1458,7 @@
       "url": "https://www.google.com/maps/place/KLG+%E7%82%B8%E9%9B%9E%E6%96%B0%E7%AB%B9%E5%B7%A8%E5%9F%8E%E5%BA%97/data=!4m2!3m1!1s0x346835dae25f6f07:0xac60e7b1a47451c8",
       "place_id": "0x346835dae25f6f07:0xac60e7b1a47451c8",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 24.8089601,
       "lng": 120.9781069,
       "category": "美食"
@@ -1468,7 +1468,7 @@
       "url": "https://www.google.com/maps/place/%E9%A6%99%E6%A3%B2%E6%B2%99%E9%BE%8D+Roost+salon+%2F%E8%8A%B3%E7%99%82%2F%E6%8C%89%E6%91%A9%2F%E5%85%8D%E8%B2%BB%E5%81%9C%E8%BB%8A%2F%E7%BE%8E%E9%A3%9F/data=!4m2!3m1!1s0x3468353cc959bfb3:0xed55301e4ce02d9",
       "place_id": "0x3468353cc959bfb3:0xed55301e4ce02d9",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 24.810108999999997,
       "lng": 120.9681844,
       "category": "美食"
@@ -1478,7 +1478,7 @@
       "url": "https://www.google.com/maps/place/%E5%8D%83%E7%94%B2%E5%95%86%E8%A1%8C/data=!4m2!3m1!1s0x3468367008da52b1:0xaddfbb8e06f784ff",
       "place_id": "0x3468367008da52b1:0xaddfbb8e06f784ff",
       "image_url": null,
-      "description": null,
+      "description": "生活中的好幫手，提供便利服務",
       "lat": 24.806658799999997,
       "lng": 120.9982292,
       "category": "生活"
@@ -1488,7 +1488,7 @@
       "url": "https://www.google.com/maps/place/%E6%96%87%E5%88%A9%E5%95%86%E5%BA%97/data=!4m2!3m1!1s0x34683667a9cd49f3:0xbdd0a65b32c28283",
       "place_id": "0x34683667a9cd49f3:0xbdd0a65b32c28283",
       "image_url": null,
-      "description": null,
+      "description": "生活中的好幫手，提供便利服務",
       "lat": 24.807311000000002,
       "lng": 121.0083107,
       "category": "生活"
@@ -1498,7 +1498,7 @@
       "url": "https://www.google.com/maps/place/%E8%B2%93%E7%95%AB%E5%AE%A4/data=!4m2!3m1!1s0x3468359542a26f9d:0xaafb4cf61e5c566c",
       "place_id": "0x3468359542a26f9d:0xaafb4cf61e5c566c",
       "image_url": null,
-      "description": null,
+      "description": "獨特選書品味的空間，愛書人的秘密基地",
       "lat": 24.803505299999998,
       "lng": 120.96329360000001,
       "category": "書店"
@@ -1508,7 +1508,7 @@
       "url": "https://www.google.com/maps/place/%E6%84%9B%E9%BA%B5%E5%AD%90%E5%AE%A2%E5%AE%B6%E7%BE%8E%E9%A3%9F/data=!4m2!3m1!1s0x346822360e7cc62b:0xc9f8ee5b4c812495",
       "place_id": "0x346822360e7cc62b:0xc9f8ee5b4c812495",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 24.958361299999996,
       "lng": 121.22317749999999,
       "category": "美食"
@@ -1518,7 +1518,7 @@
       "url": "https://www.google.com/maps/place/%E5%8D%97%E5%B4%81%E5%A4%9A%E5%8A%A0%E6%95%99%E6%9C%83+-+%E5%85%85%E6%BB%BF%E6%BA%AB%E6%9A%96%E3%80%81%E6%9C%80%E6%BA%AB%E9%A6%A8%E7%9A%84%E6%95%99%E6%9C%83/data=!4m2!3m1!1s0x34681fdbbccb95fb:0xd16be700db6a32ba",
       "place_id": "0x34681fdbbccb95fb:0xd16be700db6a32ba",
       "image_url": null,
-      "description": null,
+      "description": "信仰團契的溫馨空間，心靈的歸屬",
       "lat": 25.0402427,
       "lng": 121.2928274,
       "category": "生活"
@@ -1528,7 +1528,7 @@
       "url": "https://www.google.com/maps/place/%E4%B8%8A%E9%87%8E%E5%B1%8B%E6%97%A5%E5%BC%8F%E6%96%99%E7%90%86/data=!4m2!3m1!1s0x3442a7345276ab53:0x885dd652dcafcaba",
       "place_id": "0x3442a7345276ab53:0x885dd652dcafcaba",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 25.0573947,
       "lng": 121.3565271,
       "category": "美食"
@@ -1538,7 +1538,7 @@
       "url": "https://www.google.com/maps/place/%E6%A1%83%E5%9C%92%E5%B8%82%E4%BA%9E%E6%B4%B2%E5%A9%9A%E5%A7%BB%E5%8D%94%E6%9C%83/data=!4m2!3m1!1s0x34681e4aa3a481dd:0xa63066a048164007",
       "place_id": "0x34681e4aa3a481dd:0xa63066a048164007",
       "image_url": null,
-      "description": null,
+      "description": "生活中的好幫手，提供便利服務",
       "lat": 25.0218899,
       "lng": 121.30960110000001,
       "category": "生活"
@@ -1548,7 +1548,7 @@
       "url": "https://www.google.com/maps/place/%E2%9D%B0+BUAN+%E2%9D%B1+%E5%B8%83%E6%9C%9B%E5%B0%8F%E9%A4%A8/data=!4m2!3m1!1s0x3468d93a12fcd3b7:0xfd060802c536bfcb",
       "place_id": "0x3468d93a12fcd3b7:0xfd060802c536bfcb",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 23.968946400000004,
       "lng": 120.9736838,
       "category": "美食"
@@ -1558,7 +1558,7 @@
       "url": "https://www.google.com/maps/place/%E9%BB%83%E5%85%86%E4%BE%83%E5%85%A7%E7%A7%91%E5%B0%8F%E5%85%92%E7%A7%91%E8%A8%BA%E6%89%80/data=!4m2!3m1!1s0x3468028729e396fb:0xd42059521dc25004",
       "place_id": "0x3468028729e396fb:0xd42059521dc25004",
       "image_url": null,
-      "description": null,
+      "description": "專業醫療服務，守護您的健康",
       "lat": 24.996087499999998,
       "lng": 121.48845769999998,
       "category": "生活"
@@ -1568,7 +1568,7 @@
       "url": "https://www.google.com/maps/place/%E6%97%85%E5%BE%92%E5%92%96%E5%95%A1%EF%BD%9C%E7%84%A1%E8%A8%82%E4%BD%8D%EF%BD%9C%E6%9C%89%E9%BB%9E%E5%AE%89%E9%9D%9C%EF%BD%9C%E6%89%8B%E6%B2%96%E5%92%96%E5%95%A1%EF%BD%9C%E6%8F%90%E6%8B%89%E7%B1%B3%E8%98%87/data=!4m2!3m1!1s0x3442a9a40ded4d2b:0xa6a5434e4bc125ff",
       "place_id": "0x3442a9a40ded4d2b:0xa6a5434e4bc125ff",
       "image_url": null,
-      "description": null,
+      "description": "用心沖煮的咖啡，舒適的品飲空間",
       "lat": 25.0547169,
       "lng": 121.53171990000001,
       "category": "咖啡"
@@ -1578,7 +1578,7 @@
       "url": "https://www.google.com/maps/place/%E9%BB%91%E9%AF%A8%E5%92%96%E5%95%A1%E9%A4%A8/data=!4m2!3m1!1s0x34689fbe442c9815:0x50339d42ad27181",
       "place_id": "0x34689fbe442c9815:0x50339d42ad27181",
       "image_url": null,
-      "description": null,
+      "description": "用心沖煮的咖啡，舒適的品飲空間",
       "lat": 23.9791326,
       "lng": 121.6017476,
       "category": "咖啡"
@@ -1588,7 +1588,7 @@
       "url": "https://www.google.com/maps/place/%E8%8A%B1%E8%93%AE%E6%9C%A8%E7%93%9C%E7%89%9B%E5%A5%B6/data=!4m2!3m1!1s0x34689fc02afabec5:0x4f8b7c9ebe207838",
       "place_id": "0x34689fc02afabec5:0x4f8b7c9ebe207838",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 23.975895800000004,
       "lng": 121.60813350000001,
       "category": "美食"
@@ -1598,7 +1598,7 @@
       "url": "https://www.google.com/maps/place/%E5%8C%97%E9%9D%9ENorth+Africa+-+%E5%92%96%E5%95%A1%2F%E6%B3%95%E5%BC%8F%E5%90%90%E5%8F%B8%2F%E9%BB%9E%E5%BF%83%EF%BC%88%E6%AF%8F%E9%80%B1%E5%9B%9B%E5%BA%97%E4%BC%91%EF%BC%89/data=!4m2!3m1!1s0x34689f64e285fb09:0x6a7b613498d688f2",
       "place_id": "0x34689f64e285fb09:0x6a7b613498d688f2",
       "image_url": null,
-      "description": null,
+      "description": "用心沖煮的咖啡，舒適的品飲空間",
       "lat": 23.982761399999998,
       "lng": 121.6040527,
       "category": "咖啡"
@@ -1608,7 +1608,7 @@
       "url": "https://www.google.com/maps/place/%E5%8D%97%E6%97%A5%E5%92%96%E5%95%A1+Namli/data=!4m2!3m1!1s0x34689f00503afdf5:0x9edc9b9a2c36115c",
       "place_id": "0x34689f00503afdf5:0x9edc9b9a2c36115c",
       "image_url": null,
-      "description": null,
+      "description": "用心沖煮的咖啡，舒適的品飲空間",
       "lat": 23.975115,
       "lng": 121.60452319999999,
       "category": "咖啡"
@@ -1618,7 +1618,7 @@
       "url": "https://www.google.com/maps/place/%E6%AD%90%E5%92%96%E6%B3%A2+OLD+COUPLE+COFFEE/data=!4m2!3m1!1s0x34689f41fdedf139:0xa3ffc81962a759e5",
       "place_id": "0x34689f41fdedf139:0xa3ffc81962a759e5",
       "image_url": null,
-      "description": null,
+      "description": "用心沖煮的咖啡，舒適的品飲空間",
       "lat": 23.978503099999994,
       "lng": 121.6004773,
       "category": "咖啡"
@@ -1628,7 +1628,7 @@
       "url": "https://www.google.com/maps/place/%E9%A3%AF%E7%B3%B0%E5%BA%97+Rice+Ball+Store%E5%94%AE%E5%AE%8C%E5%B0%B1%E6%94%B6%E6%94%A4/data=!4m2!3m1!1s0x34689f21f686515d:0x6a10eed7dc67a28d",
       "place_id": "0x34689f21f686515d:0x6a10eed7dc67a28d",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 23.9816979,
       "lng": 121.6091153,
       "category": "美食"
@@ -1638,7 +1638,7 @@
       "url": "https://www.google.com/maps/place/stroll%E6%95%A3%E6%AD%A5%E5%92%96%E5%95%A1/data=!4m2!3m1!1s0x34689fbe0f899549:0x7bb32a4f487247ff",
       "place_id": "0x34689fbe0f899549:0x7bb32a4f487247ff",
       "image_url": null,
-      "description": null,
+      "description": "用心沖煮的咖啡，舒適的品飲空間",
       "lat": 23.9751829,
       "lng": 121.60559439999999,
       "category": "咖啡"
@@ -1648,7 +1648,7 @@
       "url": "https://www.google.com/maps/place/%E5%8D%97%E5%B3%B6%E7%99%BE%E5%90%88+Lily+Of+Island+Eatery%EF%BC%88%E6%90%AC%E9%81%B7%E8%87%B3%E5%8F%B0%E6%9D%B1%E9%B9%BF%E9%87%8E%E9%A0%90%E8%A8%882025%2F7%E6%9C%88%E9%87%8D%E6%96%B0%E9%96%8B%E5%B9%95%EF%BC%89/data=!4m2!3m1!1s0x34689f0e66b1dae1:0xc787db8ffa076edf",
       "place_id": "0x34689f0e66b1dae1:0xc787db8ffa076edf",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 23.9740884,
       "lng": 121.6088941,
       "category": "美食"
@@ -1658,7 +1658,7 @@
       "url": "https://www.google.com/maps/place/%E9%98%BF%E5%A7%91%E7%9A%84%E5%BA%97/data=!4m2!3m1!1s0x34689f71c23c2d3b:0x1b5a3c4ff24f18d2",
       "place_id": "0x34689f71c23c2d3b:0x1b5a3c4ff24f18d2",
       "image_url": null,
-      "description": null,
+      "description": "獨特的存在，值得親自探索的特色空間",
       "lat": 23.977202000000002,
       "lng": 121.5722425,
       "category": "其他"
@@ -1668,7 +1668,7 @@
       "url": "https://www.google.com/maps/place/%E9%9D%9C%E6%A8%B9%E6%B9%96%E6%B0%91%E5%AE%BF/data=!4m2!3m1!1s0x3468a53f56d682a7:0xe23366a1bf61cf",
       "place_id": "0x3468a53f56d682a7:0xe23366a1bf61cf",
       "image_url": null,
-      "description": null,
+      "description": "舒適住宿空間，旅途中的溫馨歸處",
       "lat": 23.8425536,
       "lng": 121.4806761,
       "category": "生活"
@@ -1678,7 +1678,7 @@
       "url": "https://www.google.com/maps/place/%E5%A4%A7%E7%A6%AE%E7%99%BE%E5%90%88%E4%BC%91%E9%96%92%E8%BE%B2%E8%8E%8A%2F%E5%A4%A7%E7%A6%AE%E7%99%BE%E5%90%88%E5%B1%8B%E8%B5%AB%E8%B5%AB%E6%96%AF%E6%B0%91%E5%AE%BF%2F%E5%A4%A7%E7%A6%AE%E7%99%BE%E5%90%88%E5%B1%8B%E6%A8%82%E7%AB%B9%E9%96%A3%E6%B0%91%E5%AE%BF/data=!4m2!3m1!1s0x34662950b4634a4f:0x89256db309758978",
       "place_id": "0x34662950b4634a4f:0x89256db309758978",
       "image_url": null,
-      "description": null,
+      "description": "舒適住宿空間，旅途中的溫馨歸處",
       "lat": 24.168396099999995,
       "lng": 121.62963459999999,
       "category": "生活"
@@ -1688,7 +1688,7 @@
       "url": "https://www.google.com/maps/place/%E5%A4%9A%E7%BE%85%E6%BB%BF%E8%B3%9E%E9%AF%A8%E5%85%AC%E5%8F%B8%2F+%E8%8A%B1%E8%93%AE%E8%B3%9E%E9%AF%A8%2F+%E8%8A%B1%E8%93%AE%E6%B8%AF%2F+%E9%AF%A8%E9%81%8E%E5%A4%9A%E7%BE%85%E6%BB%BF%E5%9C%B0%E6%96%B9%E6%96%87%E5%8C%96%E9%A4%A8+%2F%E5%8F%8B%E5%96%84%E8%B3%9E%E9%AF%A8/data=!4m2!3m1!1s0x34689fd0af3c9463:0x1bdf65b8db83fba4",
       "place_id": "0x34689fd0af3c9463:0x1bdf65b8db83fba4",
       "image_url": null,
-      "description": null,
+      "description": "獨特選書品味的空間，愛書人的秘密基地",
       "lat": 24.0061634,
       "lng": 121.6389742,
       "category": "書店"
@@ -1698,7 +1698,7 @@
       "url": "https://www.google.com/maps/place/K+Show%E9%A3%9F%E5%AE%BF/data=!4m2!3m1!1s0x34689fbfef7048a7:0xf0d86f9b1256614f",
       "place_id": "0x34689fbfef7048a7:0xf0d86f9b1256614f",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 23.9926969,
       "lng": 121.62817030000001,
       "category": "美食"
@@ -1708,7 +1708,7 @@
       "url": "https://www.google.com/maps/place/%E6%99%82%E4%B9%9F+eatime.is%EF%BD%9C+%E8%BC%95%E9%A3%9F%E3%80%82%E5%92%96%E5%95%A1%E3%80%82%E9%9B%AA%E8%8A%B1%E5%86%B0%28%E5%BA%97%E4%BC%91%E8%A9%B3%E8%A6%8B%E8%87%89%E6%9B%B8IG%29/data=!4m2!3m1!1s0x346821d91927caf1:0x9dddeede209751d2",
       "place_id": "0x346821d91927caf1:0x9dddeede209751d2",
       "image_url": null,
-      "description": null,
+      "description": "用心沖煮的咖啡，舒適的品飲空間",
       "lat": 24.9790632,
       "lng": 121.25173849999999,
       "category": "咖啡"
@@ -1718,7 +1718,7 @@
       "url": "https://www.google.com/maps/place/%E5%B0%8F%E7%8D%B8%E6%9B%B8%E5%B1%8B/data=!4m2!3m1!1s0x345d4fe129f42693:0xf884444a4790ce97",
       "place_id": "0x345d4fe129f42693:0xf884444a4790ce97",
       "image_url": null,
-      "description": null,
+      "description": "獨特選書品味的空間，愛書人的秘密基地",
       "lat": 25.1279792,
       "lng": 121.74398729999999,
       "category": "書店"
@@ -1728,7 +1728,7 @@
       "url": "https://www.google.com/maps/place/%E4%BB%A5%E9%A6%AC%E5%85%A7%E5%88%A9%E6%97%A9%E9%A4%90%E5%92%96%E5%95%A1/data=!4m2!3m1!1s0x3468b2b778372ce1:0x1805ad626a127dde",
       "place_id": "0x3468b2b778372ce1:0x1805ad626a127dde",
       "image_url": null,
-      "description": null,
+      "description": "用心沖煮的咖啡，舒適的品飲空間",
       "lat": 23.6657437,
       "lng": 121.42566880000001,
       "category": "咖啡"
@@ -1738,7 +1738,7 @@
       "url": "https://www.google.com/maps/place/SabiSabi+Coffee%26Sweets+%E8%8A%B1%E8%93%AE%E8%80%81%E5%AE%85%E7%A5%9E%E7%B4%9A%E8%82%89%E6%A1%82%E6%8D%B2/data=!4m2!3m1!1s0x34689f93be403ff7:0x9b7db0f64c04ed94",
       "place_id": "0x34689f93be403ff7:0x9b7db0f64c04ed94",
       "image_url": null,
-      "description": null,
+      "description": "用心沖煮的咖啡，舒適的品飲空間",
       "lat": 23.986234,
       "lng": 121.62328980000001,
       "category": "咖啡"
@@ -1748,7 +1748,7 @@
       "url": "https://www.google.com/maps/place/%E6%9C%A8%E5%AE%B9MURON%EF%BD%9C%E4%B8%8B%E5%8D%88%E8%8C%B6%EF%BD%9C%E5%92%96%E5%95%A1%EF%BD%9C%E8%8A%B1%E8%93%AE%E7%BE%8E%E9%A3%9F/data=!4m2!3m1!1s0x34689f747c585949:0xbe9a4971e5e6f381",
       "place_id": "0x34689f747c585949:0xbe9a4971e5e6f381",
       "image_url": null,
-      "description": null,
+      "description": "精選茶飲專賣，品味台灣好茶的香醇",
       "lat": 23.978907600000003,
       "lng": 121.60600360000001,
       "category": "咖啡"
@@ -1758,7 +1758,7 @@
       "url": "https://www.google.com/maps/place/Sapientia+Cafe+%E5%A4%8F%E6%AF%94%E5%AE%89%E5%92%96%E5%95%A1%EF%BC%88%E9%80%B1%E9%96%93%E4%B8%8B%E5%8D%88%E5%8F%AF%E4%BE%86%E9%9B%BB%E9%A0%90%E7%B4%84%EF%BC%89/data=!4m2!3m1!1s0x346f4d559656f78f:0x5890797632946589",
       "place_id": "0x346f4d559656f78f:0x5890797632946589",
       "image_url": null,
-      "description": null,
+      "description": "用心沖煮的咖啡，舒適的品飲空間",
       "lat": 23.634943800000002,
       "lng": 121.42214369999999,
       "category": "咖啡"
@@ -1768,7 +1768,7 @@
       "url": "https://www.google.com/maps/place/Sapientia+Guest+House+%E5%A4%8F%E6%AF%94%E5%AE%89%E6%B0%91%E5%AE%BF/data=!4m2!3m1!1s0x346f4d1b11acbbc5:0x750b373403e8f0f0",
       "place_id": "0x346f4d1b11acbbc5:0x750b373403e8f0f0",
       "image_url": null,
-      "description": null,
+      "description": "舒適住宿空間，旅途中的溫馨歸處",
       "lat": 23.6349134,
       "lng": 121.42213360000001,
       "category": "生活"
@@ -1778,7 +1778,7 @@
       "url": "https://www.google.com/maps/place/%E6%96%AF%E5%9C%9F%E6%9C%89%E6%83%85/data=!4m2!3m1!1s0x3466298b246905f1:0x5415171ce87d938d",
       "place_id": "0x3466298b246905f1:0x5415171ce87d938d",
       "image_url": null,
-      "description": null,
+      "description": "獨特的存在，值得親自探索的特色空間",
       "lat": 24.1260135,
       "lng": 121.6522386,
       "category": "其他"
@@ -1788,7 +1788,7 @@
       "url": "https://www.google.com/maps/place/%E6%96%AF%E5%9C%9F%E6%9C%89%E6%83%85%E6%9F%B4%E7%87%92%E7%AA%AF/data=!4m2!3m1!1s0x34689d5ca39a9c51:0x5b3553d817714656",
       "place_id": "0x34689d5ca39a9c51:0x5b3553d817714656",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 24.105885500000003,
       "lng": 121.61802200000001,
       "category": "美食"
@@ -1798,7 +1798,7 @@
       "url": "https://www.google.com/maps/place/%E5%90%A7%E6%9D%89+BAR+SAN/data=!4m2!3m1!1s0x34689fa5aac8a2e5:0x6baf85b7906b79a",
       "place_id": "0x34689fa5aac8a2e5:0x6baf85b7906b79a",
       "image_url": null,
-      "description": null,
+      "description": "特色餐酒館，美食與美酒的饗宴",
       "lat": 23.9810913,
       "lng": 121.6005586,
       "category": "美食"
@@ -1808,7 +1808,7 @@
       "url": "https://www.google.com/maps/place/%E4%B8%8D%E5%B0%BD%E5%92%96%E5%95%A1%E7%82%99%E7%84%99%E6%89%80+%7C%E9%A0%90%E7%B4%84%E5%88%B6%7C/data=!4m2!3m1!1s0x3468a18be652d04b:0x4ee3b0a8cac0c6",
       "place_id": "0x3468a18be652d04b:0x4ee3b0a8cac0c6",
       "image_url": null,
-      "description": null,
+      "description": "用心沖煮的咖啡，舒適的品飲空間",
       "lat": 23.945897100000003,
       "lng": 121.54536499999999,
       "category": "咖啡"
@@ -1818,7 +1818,7 @@
       "url": "https://www.google.com/maps/place/%E8%82%89%E8%82%89%E9%A4%90%E6%A1%8C/data=!4m2!3m1!1s0x34689f956b3b47d9:0x30e0a235e94ffb2e",
       "place_id": "0x34689f956b3b47d9:0x30e0a235e94ffb2e",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 23.97552,
       "lng": 121.6038429,
       "category": "美食"
@@ -1828,7 +1828,7 @@
       "url": "https://www.google.com/maps/place/Ginsman+Bar+%E7%90%B4%E8%A9%A9%E9%85%92%E5%90%A7/data=!4m2!3m1!1s0x34689fc0908e317d:0xfceb68049a94416c",
       "place_id": "0x34689fc0908e317d:0xfceb68049a94416c",
       "image_url": null,
-      "description": null,
+      "description": "特色餐酒館，美食與美酒的饗宴",
       "lat": 23.9797911,
       "lng": 121.6062597,
       "category": "美食"
@@ -1838,7 +1838,7 @@
       "url": "https://www.google.com/maps/place/%E8%8A%B1%E8%93%AE%E5%BE%8C%E7%AB%99%E6%A9%9F%E8%BB%8A%E5%87%BA%E7%A7%9F%E5%BA%97%E5%85%A8%E9%9D%A2%E7%89%B9%E5%83%B9%E5%9B%89%EF%BC%81/data=!4m2!3m1!1s0x34689fb389f2a0ed:0xb2fbc5ff2957cd48",
       "place_id": "0x34689fb389f2a0ed:0xb2fbc5ff2957cd48",
       "image_url": null,
-      "description": null,
+      "description": "生活中的好幫手，提供便利服務",
       "lat": 23.994628799999997,
       "lng": 121.59915629999998,
       "category": "生活"
@@ -1848,7 +1848,7 @@
       "url": "https://www.google.com/maps/place/%E6%AD%AA%E6%AD%AA%E6%AD%AA%E7%94%9C%E9%BB%9E+%E5%A4%AA%E9%AD%AF%E9%96%A3%E6%96%B0%E5%9F%8E%E5%BA%97-YYY+Dessert+-%E3%82%B3%E3%83%BC%E3%83%92%E2%80%94-%EC%BB%A4%ED%94%BC%EC%88%8D/data=!4m2!3m1!1s0x3466296103a43459:0xd73f4eb4e66e6656",
       "place_id": "0x3466296103a43459:0xd73f4eb4e66e6656",
       "image_url": null,
-      "description": null,
+      "description": "精心製作的甜點，療癒味蕾好去處",
       "lat": 24.116698999999997,
       "lng": 121.63856969999999,
       "category": "甜點"
@@ -1858,7 +1858,7 @@
       "url": "https://www.google.com/maps/place/%E6%AD%AA%E6%AD%AA%E6%AD%AA%E7%94%9C%E9%BB%9E+yyy+dessert+%28%E8%8A%B1%E8%93%AE%E5%9C%B0%E8%A1%A8%E6%9C%80%E5%BC%B7%E8%9B%8B%E9%BB%83%E9%85%A5%E3%80%81%E8%8A%B1%E8%93%AE%E7%BE%8E%E9%A3%9F%E3%80%81%E8%8A%B1%E8%93%AE%E4%B8%8B%E5%8D%88%E8%8C%B6%E3%80%81%E8%8A%B1%E8%93%AE%E5%BF%85%E5%90%83%E3%80%81%E8%8A%B1%E8%93%AE%E7%94%9C%E9%BB%9E%E3%80%81%E8%8A%B1%E8%93%AE%E4%BC%B4%E6%89%8B%E7%A6%AE%EF%BC%89/data=!4m2!3m1!1s0x34689f947707e2ff:0xf86cfecd001ab949",
       "place_id": "0x34689f947707e2ff:0xf86cfecd001ab949",
       "image_url": null,
-      "description": null,
+      "description": "精選茶飲專賣，品味台灣好茶的香醇",
       "lat": 23.9757224,
       "lng": 121.60799779999999,
       "category": "咖啡"
@@ -1868,7 +1868,7 @@
       "url": "https://www.google.com/maps/place/%E9%BE%8D%E5%93%A5%E6%96%AF%E7%89%B9/data=!4m2!3m1!1s0x34689fa6a57022a9:0x3ddc63c13c30cf10",
       "place_id": "0x34689fa6a57022a9:0x3ddc63c13c30cf10",
       "image_url": null,
-      "description": null,
+      "description": "獨特的存在，值得親自探索的特色空間",
       "lat": 23.986476999999997,
       "lng": 121.587786,
       "category": "其他"
@@ -1878,7 +1878,7 @@
       "url": "https://www.google.com/maps/place/%E5%8D%81%E8%99%9F%E9%85%92%E7%AA%96No.10+Wine+Cellar%EF%BC%88%E7%B4%85%E7%99%BD%E8%91%A1%E8%90%84%E9%85%92%E5%B0%88%E7%87%9F%EF%BC%89/data=!4m2!3m1!1s0x3469316a47d2a099:0xf0152e34d55201ad",
       "place_id": "0x3469316a47d2a099:0xf0152e34d55201ad",
       "image_url": null,
-      "description": null,
+      "description": "特色餐酒館，美食與美酒的饗宴",
       "lat": 23.976979999999998,
       "lng": 120.68520910000001,
       "category": "美食"
@@ -1888,7 +1888,7 @@
       "url": "https://www.google.com/maps/place/%E9%9B%B2%E5%BD%A9%E8%BB%92%E4%B8%AD%E5%B1%B1%E5%BA%97+CLOUDHUES/data=!4m2!3m1!1s0x3442a968b9150ecb:0xd31cf74be3a27eb4",
       "place_id": "0x3442a968b9150ecb:0xd31cf74be3a27eb4",
       "image_url": null,
-      "description": null,
+      "description": "獨特的存在，值得親自探索的特色空間",
       "lat": 25.0526108,
       "lng": 121.5243202,
       "category": "其他"
@@ -1898,7 +1898,7 @@
       "url": "https://www.google.com/maps/place/Bar+Genao/data=!4m2!3m1!1s0x3442abcae3cd3de7:0xe6913477c58367f7",
       "place_id": "0x3442abcae3cd3de7:0xe6913477c58367f7",
       "image_url": null,
-      "description": null,
+      "description": "特色餐酒館，美食與美酒的饗宴",
       "lat": 25.0502407,
       "lng": 121.5274862,
       "category": "美食"
@@ -1908,7 +1908,7 @@
       "url": "https://www.google.com/maps/place/%E8%98%AD%E9%84%89%E6%8E%92%E9%AA%A8%E9%A3%AF/data=!4m2!3m1!1s0x3442a90050738a3f:0xc9cee75c4e3169b2",
       "place_id": "0x3442a90050738a3f:0xc9cee75c4e3169b2",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 25.043344400000002,
       "lng": 121.5246753,
       "category": "美食"
@@ -1918,7 +1918,7 @@
       "url": "https://www.google.com/maps/place/%E5%A5%BD%E7%AA%A9%E3%80%8C%E5%A4%A7%E7%A4%BE%E5%89%B5%E5%A7%8B%E5%BA%97%E3%80%8D%2F%E6%A4%92%E9%BA%BB%E9%9B%9E%2F%E6%97%A5%E5%BC%8F%E8%B1%AC%E6%8E%92%2F%E5%A4%A7%E7%A4%BE%E7%BE%8E%E9%A3%9F/data=!4m2!3m1!1s0x346e102e9b82d46f:0xd2ec1acd0eea0cc6",
       "place_id": "0x346e102e9b82d46f:0xd2ec1acd0eea0cc6",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 22.7291126,
       "lng": 120.35146660000001,
       "category": "美食"
@@ -1928,7 +1928,7 @@
       "url": "https://www.google.com/maps/place/%E4%BB%80%E7%89%A9+%2F+Shiwu+Studio+%E6%96%87%E5%85%B7%E6%89%8B%E5%B8%B3%E9%81%B8%E7%89%A9%E5%BA%97+%E5%8F%B0%E5%8D%97%E6%96%87%E5%8C%96%E5%B9%A3/data=!4m2!3m1!1s0x346e766490600adb:0x9b60c8fce2592b91",
       "place_id": "0x346e766490600adb:0x9b60c8fce2592b91",
       "image_url": null,
-      "description": null,
+      "description": "獨特選書品味的空間，愛書人的秘密基地",
       "lat": 22.9845658,
       "lng": 120.19833009999999,
       "category": "書店"
@@ -1938,7 +1938,7 @@
       "url": "https://www.google.com/maps/place/%E9%80%99%E5%B3%B6+%E6%B7%B1%E5%A4%9C%E5%92%96%E5%95%A1%E7%94%9C%E9%BB%9E%E5%BA%97/data=!4m2!3m1!1s0x3442a900387ccaed:0xceb81632aafb2716",
       "place_id": "0x3442a900387ccaed:0xceb81632aafb2716",
       "image_url": null,
-      "description": null,
+      "description": "用心沖煮的咖啡，舒適的品飲空間",
       "lat": 25.0324633,
       "lng": 121.5145266,
       "category": "咖啡"
@@ -1948,7 +1948,7 @@
       "url": "https://www.google.com/maps/place/%E4%B8%89%E8%85%B3%E8%88%87%E7%B1%B3%E5%A8%9C%E9%A3%9F%E6%89%80/data=!4m2!3m1!1s0x345d4fc87e3c9de1:0xb72915533acad00d",
       "place_id": "0x345d4fc87e3c9de1:0xb72915533acad00d",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 25.1295783,
       "lng": 121.73912719999998,
       "category": "美食"
@@ -1958,7 +1958,7 @@
       "url": "https://www.google.com/maps/place/%E6%A8%B9%E6%9C%89%E9%A2%A8/data=!4m2!3m1!1s0x346e76880bb35367:0xf1dc91360d676bef",
       "place_id": "0x346e76880bb35367:0xf1dc91360d676bef",
       "image_url": null,
-      "description": null,
+      "description": "獨特的存在，值得親自探索的特色空間",
       "lat": 22.9899194,
       "lng": 120.19974420000001,
       "category": "其他"
@@ -1968,7 +1968,7 @@
       "url": "https://www.google.com/maps/place/802%E9%AB%98%E9%9B%84%E5%B8%82%E8%8B%93%E9%9B%85%E5%8D%80%E8%88%88%E4%B8%AD%E4%B8%80%E8%B7%AF243%E5%B7%B741%E8%99%9F/data=!4m2!3m1!1s0x346e049cfca79eb9:0x6f37f18ee3372c0e",
       "place_id": "0x346e049cfca79eb9:0x6f37f18ee3372c0e",
       "image_url": null,
-      "description": null,
+      "description": "獨特的存在，值得親自探索的特色空間",
       "lat": 22.616928899999998,
       "lng": 120.31117180000001,
       "category": "其他"
@@ -1978,7 +1978,7 @@
       "url": "https://www.google.com/maps/place/%E4%BD%83%E6%AC%8A%E9%97%9C%E6%9D%B1%E7%85%AE/data=!4m2!3m1!1s0x3442abc605563291:0x26d250d3e7213d92",
       "place_id": "0x3442abc605563291:0x26d250d3e7213d92",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 25.039902299999998,
       "lng": 121.55478,
       "category": "美食"
@@ -1988,7 +1988,7 @@
       "url": "https://www.google.com/maps/place/%E9%A5%8E%E6%9E%9CEnjoy+my+time/data=!4m2!3m1!1s0x3442a97f298ead47:0xdecce0c32cbea104",
       "place_id": "0x3442a97f298ead47:0xdecce0c32cbea104",
       "image_url": null,
-      "description": null,
+      "description": "精心製作的甜點，療癒味蕾好去處",
       "lat": 25.0787028,
       "lng": 121.4748594,
       "category": "甜點"
@@ -1998,7 +1998,7 @@
       "url": "https://www.google.com/maps/place/%E5%BB%A3%E7%9A%AE%E5%92%96%E5%95%A1+cafe+grumpie/data=!4m2!3m1!1s0x3442a775d9a67f0d:0xce964c60dc6fa0de",
       "place_id": "0x3442a775d9a67f0d:0xce964c60dc6fa0de",
       "image_url": null,
-      "description": null,
+      "description": "用心沖煮的咖啡，舒適的品飲空間",
       "lat": 25.086447199999995,
       "lng": 121.4350119,
       "category": "咖啡"
@@ -2008,7 +2008,7 @@
       "url": "https://www.google.com/maps/place/%E9%A6%AC%E5%85%8B%E5%BB%9A%E6%88%BF%E5%8F%A4%E6%97%A9%E5%91%B3%E7%B2%89%E6%BC%BF%E8%9B%8B%E9%A4%85/data=!4m2!3m1!1s0x3442a9d7120b208d:0x5791c0a92202c14d",
       "place_id": "0x3442a9d7120b208d:0x5791c0a92202c14d",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 25.044691399999998,
       "lng": 121.4479367,
       "category": "美食"
@@ -2018,7 +2018,7 @@
       "url": "https://www.google.com/maps/place/%E8%B3%A4%E4%BA%BA%E9%9B%9E%E8%9B%8B%E7%B3%95feat.%E9%AB%98%E9%9B%84%E6%89%93%E7%8B%97%E7%87%92%7C%E5%90%89%E4%BC%8A%E5%8D%A1%E5%93%87%7C%E9%AB%98%E9%9B%84%E4%BC%B4%E6%89%8B%E7%A6%AE%7C%EA%B0%80%EC%98%A4%EC%8A%9D%EA%B8%B0%EB%85%90%ED%92%88/data=!4m2!3m1!1s0x346e77e4048a4195:0xecc89506b075b54c",
       "place_id": "0x346e77e4048a4195:0xecc89506b075b54c",
       "image_url": null,
-      "description": null,
+      "description": "精緻手工蛋糕，甜蜜幸福好滋味",
       "lat": 25.046886349999994,
       "lng": 121.52668159999999,
       "category": "甜點"
@@ -2028,7 +2028,7 @@
       "url": "https://www.google.com/maps/place/%E9%A7%B1%E5%B8%AB%E5%82%85%E6%B3%95%E5%BC%8F%E5%8F%B0%E6%B4%BE%E5%86%B0%E6%B7%87%E6%B7%8B%E4%B9%8B%E5%AE%B6%EF%BC%88%E5%A4%96%E5%B8%B6%E5%BA%97%EF%BC%89%E6%AD%A1%E8%BF%8E%E5%AE%85%E9%85%8D%E8%A8%82%E8%B3%BC/data=!4m2!3m1!1s0x3442abadec7372ad:0x8b7c52a7abd4172f",
       "place_id": "0x3442abadec7372ad:0x8b7c52a7abd4172f",
       "image_url": null,
-      "description": null,
+      "description": "清涼消暑的冰品甜點，夏日必訪",
       "lat": 25.043425599999996,
       "lng": 121.5692561,
       "category": "甜點"
@@ -2038,7 +2038,7 @@
       "url": "https://www.google.com/maps/place/%E5%96%AB%E8%8C%B6%E9%8A%80%E6%B2%B3+Kissa+Ginga+%E5%92%96%E5%95%A1/data=!4m2!3m1!1s0x3442a96d83c99f35:0x323cf8eb5c9d0a68",
       "place_id": "0x3442a96d83c99f35:0x323cf8eb5c9d0a68",
       "image_url": null,
-      "description": null,
+      "description": "精選茶飲專賣，品味台灣好茶的香醇",
       "lat": 25.041904400000004,
       "lng": 121.51096090000001,
       "category": "咖啡"
@@ -2048,7 +2048,7 @@
       "url": "https://www.google.com/maps/place/%E7%A6%BE%E8%B1%90%E7%8F%88%E7%90%B2%E2%80%A2%E6%9C%AC%E5%91%B3%E7%86%AC%E8%A3%BD%E6%89%80%EF%BC%88%E8%8F%9C%E5%96%AE%E8%AB%8B%E7%9C%8BLINE%E3%80%81%E7%84%A1%E9%A0%90%E7%B4%84%EF%BC%89/data=!4m2!3m1!1s0x3442a9e2310d8a1b:0x70f321c23bc145d7",
       "place_id": "0x3442a9e2310d8a1b:0x70f321c23bc145d7",
       "image_url": null,
-      "description": null,
+      "description": "用心沖煮的咖啡，舒適的品飲空間",
       "lat": 25.033958,
       "lng": 121.4472933,
       "category": "咖啡"
@@ -2058,7 +2058,7 @@
       "url": "https://www.google.com/maps/place/%E8%80%83%E5%B1%B1%E8%B7%AF-%E4%BA%BA%E7%94%9F%E5%A5%BD%E8%8B%A6%E4%B9%8B%E6%B3%B0%E5%B1%85%E9%85%92/data=!4m2!3m1!1s0x3442aba7ffa66427:0xa730f1379231669c",
       "place_id": "0x3442aba7ffa66427:0xa730f1379231669c",
       "image_url": null,
-      "description": null,
+      "description": "日式居酒屋風格，各式下酒美食",
       "lat": 25.0505901,
       "lng": 121.56807959999999,
       "category": "美食"
@@ -2068,7 +2068,7 @@
       "url": "https://www.google.com/maps/place/%E4%B8%80%E6%B2%90%E6%97%A5+%E5%90%89%E6%9E%97%E5%8D%97%E4%BA%AC%E5%BA%97/data=!4m2!3m1!1s0x3442a9d9313cef01:0x6daad635a6aa4057",
       "place_id": "0x3442a9d9313cef01:0x6daad635a6aa4057",
       "image_url": null,
-      "description": null,
+      "description": "一沐日茶飲連鎖，質感茶飲選擇",
       "lat": 25.051877299999997,
       "lng": 121.52981450000001,
       "category": "咖啡"
@@ -2078,7 +2078,7 @@
       "url": "https://www.google.com/maps/place/%E4%B8%80%E6%B2%90%E6%97%A5+%E5%8F%B0%E5%8C%97%E6%B0%B8%E5%BA%B7%E5%BA%97/data=!4m2!3m1!1s0x3442a9452d0bae7b:0x4a72d20e92522d59",
       "place_id": "0x3442a9452d0bae7b:0x4a72d20e92522d59",
       "image_url": null,
-      "description": null,
+      "description": "一沐日茶飲連鎖，質感茶飲選擇",
       "lat": 25.0328384,
       "lng": 121.52897660000001,
       "category": "咖啡"
@@ -2088,7 +2088,7 @@
       "url": "https://www.google.com/maps/place/%E4%B8%80%E6%B2%90%E6%97%A5-%E4%B8%89%E9%87%8D%E4%B8%89%E5%92%8C%E5%BA%97/data=!4m2!3m1!1s0x3442a90014f3158f:0x4498bccfd28c34cc",
       "place_id": "0x3442a90014f3158f:0x4498bccfd28c34cc",
       "image_url": null,
-      "description": null,
+      "description": "一沐日茶飲連鎖，質感茶飲選擇",
       "lat": 25.068257,
       "lng": 121.49996900000001,
       "category": "咖啡"
@@ -2098,7 +2098,7 @@
       "url": "https://www.google.com/maps/place/%E4%B8%80%E6%B2%90%E6%97%A5+%E5%8F%B0%E5%8C%97%E5%BB%B6%E5%B9%B3%E5%8D%97%E5%BA%97/data=!4m2!3m1!1s0x3442a9ab64f15833:0x2912d806b18a3bf5",
       "place_id": "0x3442a9ab64f15833:0x2912d806b18a3bf5",
       "image_url": null,
-      "description": null,
+      "description": "一沐日茶飲連鎖，質感茶飲選擇",
       "lat": 25.0341949,
       "lng": 121.50734639999997,
       "category": "咖啡"
@@ -2108,7 +2108,7 @@
       "url": "https://www.google.com/maps/place/%E4%B8%80%E6%B2%90%E6%97%A5+%E8%98%86%E6%B4%B2%E6%B0%91%E6%97%8F%E5%BA%97/data=!4m2!3m1!1s0x3442a981af1ceb5f:0x908126e4016e3eaf",
       "place_id": "0x3442a981af1ceb5f:0x908126e4016e3eaf",
       "image_url": null,
-      "description": null,
+      "description": "一沐日茶飲連鎖，質感茶飲選擇",
       "lat": 25.085257799999997,
       "lng": 121.47860939999998,
       "category": "咖啡"
@@ -2118,7 +2118,7 @@
       "url": "https://www.google.com/maps/place/%E4%B8%80%E6%B2%90%E6%97%A5+%E6%B0%B8%E5%92%8C%E4%B8%AD%E6%AD%A3%E5%BA%97/data=!4m2!3m1!1s0x3442a9906a2f6a8f:0xde6dd1f8e65e371f",
       "place_id": "0x3442a9906a2f6a8f:0xde6dd1f8e65e371f",
       "image_url": null,
-      "description": null,
+      "description": "一沐日茶飲連鎖，質感茶飲選擇",
       "lat": 24.996408199999998,
       "lng": 121.51458880000001,
       "category": "咖啡"
@@ -2128,7 +2128,7 @@
       "url": "https://www.google.com/maps/place/%E4%B8%80%E6%B2%90%E6%97%A5+%E6%B0%B8%E5%92%8C%E6%A8%82%E8%8F%AF%E5%BA%97/data=!4m2!3m1!1s0x3442a99fe5565e4f:0x971bb9593ab870be",
       "place_id": "0x3442a99fe5565e4f:0x971bb9593ab870be",
       "image_url": null,
-      "description": null,
+      "description": "一沐日茶飲連鎖，質感茶飲選擇",
       "lat": 25.0091113,
       "lng": 121.5140516,
       "category": "咖啡"
@@ -2138,7 +2138,7 @@
       "url": "https://www.google.com/maps/place/%E4%B8%80%E6%B2%90%E6%97%A5+%E5%8F%B0%E5%8C%97%E5%AE%89%E5%B1%85%E5%BA%97/data=!4m2!3m1!1s0x3442abe2d09d8959:0xcd6acd64f42f1bdc",
       "place_id": "0x3442abe2d09d8959:0xcd6acd64f42f1bdc",
       "image_url": null,
-      "description": null,
+      "description": "一沐日茶飲連鎖，質感茶飲選擇",
       "lat": 25.020976299999997,
       "lng": 121.5547121,
       "category": "咖啡"
@@ -2148,7 +2148,7 @@
       "url": "https://www.google.com/maps/place/%E4%B8%80%E6%B2%90%E6%97%A5+%E5%85%AC%E9%A4%A8%E7%BE%85%E6%96%AF%E7%A6%8F%E5%BA%97/data=!4m2!3m1!1s0x3442a900557284a7:0x9e2705b1a92fe9a6",
       "place_id": "0x3442a900557284a7:0x9e2705b1a92fe9a6",
       "image_url": null,
-      "description": null,
+      "description": "一沐日茶飲連鎖，質感茶飲選擇",
       "lat": 25.0157601,
       "lng": 121.53299589999999,
       "category": "咖啡"
@@ -2158,7 +2158,7 @@
       "url": "https://www.google.com/maps/place/%E4%B8%80%E6%B2%90%E6%97%A5+%E5%85%A7%E6%B9%96%E6%B1%9F%E5%8D%97%E5%BA%97/data=!4m2!3m1!1s0x3442ad799acd786f:0xf46bf1af73e90276",
       "place_id": "0x3442ad799acd786f:0xf46bf1af73e90276",
       "image_url": null,
-      "description": null,
+      "description": "一沐日茶飲連鎖，質感茶飲選擇",
       "lat": 25.077041700000002,
       "lng": 121.57730899999999,
       "category": "咖啡"
@@ -2168,7 +2168,7 @@
       "url": "https://www.google.com/maps/place/%E4%B8%80%E6%B2%90%E6%97%A5+%E5%8F%B0%E5%8C%97%E5%A4%A7%E5%AE%89%E5%BA%97/data=!4m2!3m1!1s0x3442aba7f12fa529:0xcae3cd1ce315c215",
       "place_id": "0x3442aba7f12fa529:0xcae3cd1ce315c215",
       "image_url": null,
-      "description": null,
+      "description": "一沐日茶飲連鎖，質感茶飲選擇",
       "lat": 25.044548199999998,
       "lng": 121.54613359999999,
       "category": "咖啡"
@@ -2178,7 +2178,7 @@
       "url": "https://www.google.com/maps/place/%E5%A4%A7%E6%98%8E%E7%89%99%E7%A7%91%E8%A8%BA%E6%89%80/data=!4m2!3m1!1s0x3442a94521fa4f49:0xbb9310d31dbe43c2",
       "place_id": "0x3442a94521fa4f49:0xbb9310d31dbe43c2",
       "image_url": null,
-      "description": null,
+      "description": "專業醫療服務，守護您的健康",
       "lat": 25.0632712,
       "lng": 121.52433389999999,
       "category": "生活"
@@ -2188,7 +2188,7 @@
       "url": "https://www.google.com/maps/place/%E7%A7%89%E9%86%87%E7%83%98%E7%84%99%E5%9D%8A+%E6%89%8B%E5%B7%A5%E9%A4%85%E4%B9%BE%E5%B0%88%E8%B3%A3%E5%BA%97/data=!4m2!3m1!1s0x346e771e6ee92cab:0x97135991b9b85ee6",
       "place_id": "0x346e771e6ee92cab:0x97135991b9b85ee6",
       "image_url": null,
-      "description": null,
+      "description": "精心製作的甜點，療癒味蕾好去處",
       "lat": 23.052004699999998,
       "lng": 120.1645172,
       "category": "甜點"
@@ -2198,7 +2198,7 @@
       "url": "https://www.google.com/maps/place/Light+House/data=!4m2!3m1!1s0x3442a97a9dc551b3:0x914f9ccfdf62e85c",
       "place_id": "0x3442a97a9dc551b3:0x914f9ccfdf62e85c",
       "image_url": null,
-      "description": null,
+      "description": "獨特的存在，值得親自探索的特色空間",
       "lat": 25.0616377,
       "lng": 121.53072039999999,
       "category": "其他"
@@ -2208,7 +2208,7 @@
       "url": "https://www.google.com/maps/place/WE%E9%87%8C%E6%89%8B%E5%B7%A5pizza+%E6%97%A5%E6%9C%AC%E6%96%99%E7%90%86+%E4%B8%B2%E7%87%92/data=!4m2!3m1!1s0x3442a95b876cc927:0xa0a899b20a1858f1",
       "place_id": "0x3442a95b876cc927:0xa0a899b20a1858f1",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 25.0612861,
       "lng": 121.5288726,
       "category": "美食"
@@ -2218,7 +2218,7 @@
       "url": "https://www.google.com/maps/place/%E5%A5%BD%E5%9C%9F:+home+to/data=!4m2!3m1!1s0x3442a9b223eb006d:0xcc236743fd283f2e",
       "place_id": "0x3442a9b223eb006d:0xcc236743fd283f2e",
       "image_url": null,
-      "description": null,
+      "description": "獨特的存在，值得親自探索的特色空間",
       "lat": 25.0570048,
       "lng": 121.52151939999999,
       "category": "其他"
@@ -2228,7 +2228,7 @@
       "url": "https://www.google.com/maps/place/COFFEE+FLAIR+%E5%92%96%E5%95%A1%E9%A4%A8+%E6%89%8B%E6%B2%96%E5%92%96%E5%95%A1+%E7%94%9C%E9%BB%9E+%E5%92%96%E5%95%A1%E8%B1%86%E5%B0%88%E8%B3%A3/data=!4m2!3m1!1s0x3442a944bcbcc849:0xd2ef9f0250b404f4",
       "place_id": "0x3442a944bcbcc849:0xd2ef9f0250b404f4",
       "image_url": null,
-      "description": null,
+      "description": "用心沖煮的咖啡，舒適的品飲空間",
       "lat": 25.0641982,
       "lng": 121.5252215,
       "category": "咖啡"
@@ -2238,7 +2238,7 @@
       "url": "https://www.google.com/maps/place/%E5%A5%BD%E4%BA%BA%E5%A5%BD%E5%AE%A4+x+%E4%B8%83%E4%BA%8C%E8%81%9A%E5%A0%B4/data=!4m2!3m1!1s0x3442a9336fed3ecf:0x3861b0b604457cd5",
       "place_id": "0x3442a9336fed3ecf:0x3861b0b604457cd5",
       "image_url": null,
-      "description": null,
+      "description": "獨特的存在，值得親自探索的特色空間",
       "lat": 25.0570013,
       "lng": 121.5215732,
       "category": "其他"
@@ -2248,7 +2248,7 @@
       "url": "https://www.google.com/maps/place/ichijiku+cafe+%26+living+%E7%8F%88%E7%90%B2%E7%84%A1%E8%8A%B1%E6%9E%9C-%EF%BD%9C%E6%89%8B%E6%B2%96%E5%92%96%E5%95%A1%E3%80%81%E7%94%9C%E9%BB%9E%EF%BD%9C%E7%A6%81%E5%B8%B6%E5%A4%96%E9%A3%9F/data=!4m2!3m1!1s0x3442a949434d5cff:0x17b0cc2858b72bb4",
       "place_id": "0x3442a949434d5cff:0x17b0cc2858b72bb4",
       "image_url": null,
-      "description": null,
+      "description": "用心沖煮的咖啡，舒適的品飲空間",
       "lat": 25.059755900000003,
       "lng": 121.510088,
       "category": "咖啡"
@@ -2258,7 +2258,7 @@
       "url": "https://www.google.com/maps/place/Rainma+Caf%C3%A9+Bistro%2F%E4%BF%A1%E7%BE%A9%E8%80%81%E5%AE%85%E9%A4%90%E9%85%92%E9%A4%A8%2F%E5%AF%B5%E7%89%A9%E5%8F%8B%E5%96%84/data=!4m2!3m1!1s0x3442ab7a3842654f:0xf6adbd5f0b60dc36",
       "place_id": "0x3442ab7a3842654f:0xf6adbd5f0b60dc36",
       "image_url": null,
-      "description": null,
+      "description": "生活中的好幫手，提供便利服務",
       "lat": 25.035275700000003,
       "lng": 121.55821379999999,
       "category": "生活"
@@ -2268,7 +2268,7 @@
       "url": "https://www.google.com/maps/place/%E5%B5%90%E7%80%BE%E5%92%96%E5%95%A1LanLan+Coffee/data=!4m2!3m1!1s0x3442a944ae3e16ef:0x3abedcb552c5abde",
       "place_id": "0x3442a944ae3e16ef:0x3abedcb552c5abde",
       "image_url": null,
-      "description": null,
+      "description": "用心沖煮的咖啡，舒適的品飲空間",
       "lat": 25.051849,
       "lng": 121.5148911,
       "category": "咖啡"
@@ -2278,7 +2278,7 @@
       "url": "https://www.google.com/maps/place/%E5%96%AB%E8%8C%B6+%E7%B3%95%E5%B7%A2+Kissa+Kimochiii/data=!4m2!3m1!1s0x346931c286d11b65:0x7eb0e112a10353cd",
       "place_id": "0x346931c286d11b65:0x7eb0e112a10353cd",
       "image_url": null,
-      "description": null,
+      "description": "精選茶飲專賣，品味台灣好茶的香醇",
       "lat": 23.947813,
       "lng": 120.68788829999998,
       "category": "咖啡"
@@ -2288,7 +2288,7 @@
       "url": "https://www.google.com/maps/place/%E9%A5%9E%E9%A3%9F%E5%9D%8A/data=!4m2!3m1!1s0x3442abd36b6ed8a5:0x949c1c8516d02a15",
       "place_id": "0x3442abd36b6ed8a5:0x949c1c8516d02a15",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 25.031561,
       "lng": 121.54453989999999,
       "category": "美食"
@@ -2298,7 +2298,7 @@
       "url": "https://www.google.com/maps/place/%E6%89%B9%E8%96%A9%E8%AC%8E%E5%8B%92+Happy+Buddha+Pizza/data=!4m2!3m1!1s0x3442a9c644433e73:0x4fb65bb57d3ade0b",
       "place_id": "0x3442a9c644433e73:0x4fb65bb57d3ade0b",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 25.065369799999996,
       "lng": 121.52316189999999,
       "category": "美食"
@@ -2308,7 +2308,7 @@
       "url": "https://www.google.com/maps/place/%E9%BA%97%E8%8A%B3%E8%80%81%E6%A8%93/data=!4m2!3m1!1s0x3442a945039a0303:0x583a59ba7fd4f5a",
       "place_id": "0x3442a945039a0303:0x583a59ba7fd4f5a",
       "image_url": null,
-      "description": null,
+      "description": "獨特的存在，值得親自探索的特色空間",
       "lat": 25.065496300000003,
       "lng": 121.5232195,
       "category": "其他"
@@ -2318,7 +2318,7 @@
       "url": "https://www.google.com/maps/place/%E5%AC%89%E7%9A%AE%E9%BA%B5%E5%8C%85/data=!4m2!3m1!1s0x3442a9673090182b:0x788857db3dd345b5",
       "place_id": "0x3442a9673090182b:0x788857db3dd345b5",
       "image_url": null,
-      "description": null,
+      "description": "精心製作的甜點，療癒味蕾好去處",
       "lat": 25.0537458,
       "lng": 121.53062690000002,
       "category": "甜點"
@@ -2328,7 +2328,7 @@
       "url": "https://www.google.com/maps/place/%E8%B1%AC%E8%B7%B3%E8%88%9E%E5%B0%8F%E9%A4%90%E9%A4%A8/data=!4m2!3m1!1s0x3442abc623acff89:0xa46a7068b0d013f3",
       "place_id": "0x3442abc623acff89:0xa46a7068b0d013f3",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 25.039503099999997,
       "lng": 121.55573270000001,
       "category": "美食"
@@ -2338,7 +2338,7 @@
       "url": "https://www.google.com/maps/place/My%E5%98%9F%E8%98%AD%E6%89%8B%E5%B7%A5%E7%B6%A0%E8%B1%86%E6%B2%99%E7%89%9B%E4%B9%B3+%E4%B8%AD%E5%B1%B1%E9%81%BC%E5%AF%A7%E5%BA%97/data=!4m2!3m1!1s0x3442ab33909a2f33:0x9570b96c5f6726be",
       "place_id": "0x3442ab33909a2f33:0x9570b96c5f6726be",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 25.0562619,
       "lng": 121.54201200000001,
       "category": "美食"
@@ -2348,7 +2348,7 @@
       "url": "https://www.google.com/maps/place/%E9%9B%AA%E5%92%96%E5%95%A1+yuki+coffee%2F%E8%B2%93%E5%92%AA%2F%E6%B7%B1%E5%A4%9C%2F%E8%A1%8C%E5%A4%A9%E5%AE%AE%28%E5%81%87%E6%97%A5%E7%84%A1%E8%A8%82%E4%BD%8D,%E8%87%A8%E6%99%82%E5%BA%97%E4%BC%91%E8%AB%8B%E7%9C%8BIG%29%29/data=!4m2!3m1!1s0x3442a9c9fb24c6f1:0xe4b620bebb31e098",
       "place_id": "0x3442a9c9fb24c6f1:0xe4b620bebb31e098",
       "image_url": null,
-      "description": null,
+      "description": "用心沖煮的咖啡，舒適的品飲空間",
       "lat": 25.0576051,
       "lng": 121.53242059999998,
       "category": "咖啡"
@@ -2358,7 +2358,7 @@
       "url": "https://www.google.com/maps/place/%E9%9D%9A%E8%87%B4%E7%B4%A0%E9%A3%9F%E9%A4%A8/data=!4m2!3m1!1s0x3442abe6d9d13a2d:0xf651c33e06ce47",
       "place_id": "0x3442abe6d9d13a2d:0xf651c33e06ce47",
       "image_url": null,
-      "description": null,
+      "description": "健康蔬食料理，美味與健康兼顧",
       "lat": 25.0474179,
       "lng": 121.54204299999998,
       "category": "美食"
@@ -2368,7 +2368,7 @@
       "url": "https://www.google.com/maps/place/%E6%9D%8F%E6%BA%90%E7%8F%88%E7%90%B2Sing+yuan+coffee/data=!4m2!3m1!1s0x346e77addd90ce05:0xc65a604c502e538c",
       "place_id": "0x346e77addd90ce05:0xc65a604c502e538c",
       "image_url": null,
-      "description": null,
+      "description": "用心沖煮的咖啡，舒適的品飲空間",
       "lat": 22.9906567,
       "lng": 120.1984792,
       "category": "咖啡"
@@ -2378,7 +2378,7 @@
       "url": "https://www.google.com/maps/place/%E7%81%AB%E5%B1%B1%E5%8F%A3+Crater+Lounge+%7C+%E8%AA%BF%E9%85%92+%7C+SOE%E5%92%96%E5%95%A1+%7C+%E7%8F%BE%E7%83%A4%E6%8A%AB%E8%96%A9+%7C+%E7%8F%BE%E7%83%A4%E9%AC%86%E9%A4%85+%7C+%E9%85%92%E5%90%A7+%7C+cocktails+bar/data=!4m2!3m1!1s0x3442a9e5eab849ab:0xa8546db6abc30986",
       "place_id": "0x3442a9e5eab849ab:0xa8546db6abc30986",
       "image_url": null,
-      "description": null,
+      "description": "用心沖煮的咖啡，舒適的品飲空間",
       "lat": 25.0395113,
       "lng": 121.50470419999999,
       "category": "咖啡"
@@ -2388,7 +2388,7 @@
       "url": "https://www.google.com/maps/place/Bar+D%C4%81n/data=!4m2!3m1!1s0x34693db9af4c3473:0xc9b40ca58d9c372",
       "place_id": "0x34693db9af4c3473:0xc9b40ca58d9c372",
       "image_url": null,
-      "description": null,
+      "description": "特色餐酒館，美食與美酒的饗宴",
       "lat": 24.154903899999997,
       "lng": 120.6560504,
       "category": "美食"
@@ -2398,7 +2398,7 @@
       "url": "https://www.google.com/maps/place/C.H.+Jewelry+%E5%B0%8B%E5%85%89%EF%BD%9C%E8%BC%95%E7%8F%A0%E5%AF%B6.%E5%A9%9A%E5%B0%8D%E6%88%92%E8%A8%82%E8%A3%BD/data=!4m2!3m1!1s0x3442a917bcdce211:0x6c7d58ddcf11f5b6",
       "place_id": "0x3442a917bcdce211:0x6c7d58ddcf11f5b6",
       "image_url": null,
-      "description": null,
+      "description": "生活中的好幫手，提供便利服務",
       "lat": 25.054379599999997,
       "lng": 121.52184249999999,
       "category": "生活"
@@ -2408,7 +2408,7 @@
       "url": "https://www.google.com/maps/place/%E5%9B%9E%E6%86%B6%E6%A9%AB%E4%B8%81%E5%B1%85%E9%85%92%E5%B1%8B/data=!4m2!3m1!1s0x3442abe15b48f909:0xe5e4102abd7420fb",
       "place_id": "0x3442abe15b48f909:0xe5e4102abd7420fb",
       "image_url": null,
-      "description": null,
+      "description": "日式居酒屋風格，各式下酒美食",
       "lat": 25.0575605,
       "lng": 121.52452779999999,
       "category": "美食"
@@ -2418,7 +2418,7 @@
       "url": "https://www.google.com/maps/place/%E5%A4%A9%E5%85%89+Thinn-Kng+%EF%BD%9C%E6%B7%B1%E5%A4%9C%E5%92%96%E5%95%A1%E5%BB%B3%EF%BD%9C%E5%85%A8%E9%A0%90%E7%B4%84%E5%88%B6/data=!4m2!3m1!1s0x3442a9a0b099fba9:0x5f7170b0524e8a68",
       "place_id": "0x3442a9a0b099fba9:0x5f7170b0524e8a68",
       "image_url": null,
-      "description": null,
+      "description": "用心沖煮的咖啡，舒適的品飲空間",
       "lat": 25.0147634,
       "lng": 121.5266442,
       "category": "咖啡"
@@ -2428,7 +2428,7 @@
       "url": "https://www.google.com/maps/place/%E5%AE%B6%E5%90%B6%E5%AD%90%E5%8F%B0%E5%BC%8F%E5%B1%85%E9%85%92%E5%B1%8B+Ka-la%CC%8Dh-%C3%A1/data=!4m2!3m1!1s0x3442a9b41b18bb0f:0xe850de81a52a2756",
       "place_id": "0x3442a9b41b18bb0f:0xe850de81a52a2756",
       "image_url": null,
-      "description": null,
+      "description": "日式居酒屋風格，各式下酒美食",
       "lat": 25.0256716,
       "lng": 121.4964354,
       "category": "美食"
@@ -2438,7 +2438,7 @@
       "url": "https://www.google.com/maps/place/%E5%96%9C%E9%81%93Start+Tea/data=!4m2!3m1!1s0x34693d4bb57067cf:0x9bfbee38ea32efaf",
       "place_id": "0x34693d4bb57067cf:0x9bfbee38ea32efaf",
       "image_url": null,
-      "description": null,
+      "description": "獨特選書品味的空間，愛書人的秘密基地",
       "lat": 24.1503441,
       "lng": 120.6600539,
       "category": "書店"
@@ -2448,7 +2448,7 @@
       "url": "https://www.google.com/maps/place/%E8%BD%89%E8%A7%92%E5%B0%8F%E9%BA%B5%E5%BA%97/data=!4m2!3m1!1s0x3442adf38b72a2a1:0x9709a83b6cef3f8a",
       "place_id": "0x3442adf38b72a2a1:0x9709a83b6cef3f8a",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 25.082172099999998,
       "lng": 121.5465688,
       "category": "美食"
@@ -2458,7 +2458,7 @@
       "url": "https://www.google.com/maps/place/%E5%B0%B1%E6%98%AF%E8%82%8C%E5%8A%9B%E9%AB%94%E8%83%BD%E8%A8%93%E7%B7%B4%E4%B8%AD%E5%BF%83+-+%E5%A4%A7%E5%AE%89%E5%BA%97/data=!4m2!3m1!1s0x3442ab8482cb10b5:0x80f6c5b021fda5dc",
       "place_id": "0x3442ab8482cb10b5:0x80f6c5b021fda5dc",
       "image_url": null,
-      "description": null,
+      "description": "生活中的好幫手，提供便利服務",
       "lat": 25.028132000000006,
       "lng": 121.5432597,
       "category": "生活"
@@ -2468,7 +2468,7 @@
       "url": "https://www.google.com/maps/place/%E6%9C%A8%E8%A5%BF%E8%A3%BD%E7%94%9C%E6%89%80+Moosi+%E8%B1%86%E8%8A%B1%EF%BD%9C%E7%94%9C%E6%B9%AF%EF%BD%9C%E5%89%89%E5%86%B0/data=!4m2!3m1!1s0x3442ab4c36176895:0x46ac211a3cb8e7e0",
       "place_id": "0x3442ab4c36176895:0x46ac211a3cb8e7e0",
       "image_url": null,
-      "description": null,
+      "description": "清涼消暑的冰品甜點，夏日必訪",
       "lat": 25.0426047,
       "lng": 121.61862680000002,
       "category": "甜點"
@@ -2478,7 +2478,7 @@
       "url": "https://www.google.com/maps/place/%E5%90%BE%E4%BA%BA%E7%9F%A5%E6%9B%89%E8%87%AA%E5%AE%B6%E7%83%98%E7%84%99%E5%92%96%E5%95%A1/data=!4m2!3m1!1s0x34681e4b70368dd5:0xa7dbff740393a003",
       "place_id": "0x34681e4b70368dd5:0xa7dbff740393a003",
       "image_url": null,
-      "description": null,
+      "description": "用心沖煮的咖啡，舒適的品飲空間",
       "lat": 25.0175615,
       "lng": 121.31048670000001,
       "category": "咖啡"
@@ -2488,7 +2488,7 @@
       "url": "https://www.google.com/maps/place/%E6%9C%89%E7%A8%AE+%F0%9D%97%A3%F0%9D%97%9C%F0%9D%97%AD%F0%9D%97%AD%F0%9D%97%94+%F0%9D%97%A6%F0%9D%97%A7%F0%9D%97%94%F0%9D%97%A5%F0%9D%97%A7%F0%9D%97%98%F0%9D%97%A5%E3%80%90%E6%8A%AB%E8%96%A9%E5%94%AE%E5%AE%8C%E5%8D%B3%E6%89%93%E7%83%8A%EF%BC%8C%E4%B8%8D%E7%9C%8B%E8%8F%9C%E5%96%AE%E4%B8%8D%E8%A6%81%E5%90%83%EF%BC%8C%E6%89%80%E6%9C%89%E8%B3%87%E8%A8%8A%E4%BB%A5%F0%9D%97%9C%F0%9D%97%BB%F0%9D%98%80%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%B4%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%BA%E7%82%BA%E4%B8%BB%E3%80%91/data=!4m2!3m1!1s0x34693d1f67bf7c15:0xc90e6f41cfb7dba5",
       "place_id": "0x34693d1f67bf7c15:0xc90e6f41cfb7dba5",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 24.1523856,
       "lng": 120.62980789999999,
       "category": "美食"
@@ -2498,7 +2498,7 @@
       "url": "https://www.google.com/maps/place/%E4%BB%81%E7%BE%8E%E4%B8%AD%E9%86%AB%7C%E5%92%B3%E5%97%BD%E3%80%81%E6%96%B0%E5%86%A0%E3%80%81%E6%84%9F%E5%86%92%E3%80%81%E9%81%8E%E6%95%8F/data=!4m2!3m1!1s0x34693d8865ebebed:0xdb1e449dfebb7f9a",
       "place_id": "0x34693d8865ebebed:0xdb1e449dfebb7f9a",
       "image_url": null,
-      "description": null,
+      "description": "專業醫療服務，守護您的健康",
       "lat": 24.167672,
       "lng": 120.654279,
       "category": "生活"
@@ -2508,7 +2508,7 @@
       "url": "https://www.google.com/maps/place/Jiu+Yue+Dim+Sum+Restaurant/data=!4m2!3m1!1s0x3442a9fcf1c2ad13:0x2f94c755264ac0a1",
       "place_id": "0x3442a9fcf1c2ad13:0x2f94c755264ac0a1",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 25.059801099999998,
       "lng": 121.51844589999999,
       "category": "美食"
@@ -2518,7 +2518,7 @@
       "url": "https://www.google.com/maps/place/%E9%98%BF%E6%B0%B4%E8%B1%86%E6%BC%BF%E8%B1%86%E8%8A%B1/data=!4m2!3m1!1s0x3442ab337d307997:0xe719b899849aae98",
       "place_id": "0x3442ab337d307997:0xe719b899849aae98",
       "image_url": null,
-      "description": null,
+      "description": "精心製作的甜點，療癒味蕾好去處",
       "lat": 25.0630931,
       "lng": 121.54238339999999,
       "category": "甜點"
@@ -2528,7 +2528,7 @@
       "url": "https://www.google.com/maps/place/%E6%B8%A9%E5%92%96%E5%95%A1/data=!4m2!3m1!1s0x3442a9588431ad41:0x4b5811f5082202bb",
       "place_id": "0x3442a9588431ad41:0x4b5811f5082202bb",
       "image_url": null,
-      "description": null,
+      "description": "用心沖煮的咖啡，舒適的品飲空間",
       "lat": 25.0599587,
       "lng": 121.5463317,
       "category": "咖啡"
@@ -2538,7 +2538,7 @@
       "url": "https://www.google.com/maps/place/%E7%B3%98%EF%BD%9C%E5%92%96%E5%95%A1%C2%B7%E5%AE%9A%E9%A3%9F%C2%B7%E6%89%8B%E4%BD%9C%E6%96%99%E7%90%86/data=!4m2!3m1!1s0x3442abf2d2c42169:0x94139a71746b24ac",
       "place_id": "0x3442abf2d2c42169:0x94139a71746b24ac",
       "image_url": null,
-      "description": null,
+      "description": "用心沖煮的咖啡，舒適的品飲空間",
       "lat": 25.056285499999994,
       "lng": 121.5460904,
       "category": "咖啡"
@@ -2548,7 +2548,7 @@
       "url": "https://www.google.com/maps/place/%E6%9E%97%E6%96%87%E5%BF%85%E6%B6%BC%E9%BA%B5/data=!4m2!3m1!1s0x3442ac051082f841:0xf60c0c308bc9820e",
       "place_id": "0x3442ac051082f841:0xf60c0c308bc9820e",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 25.081871000000003,
       "lng": 121.546286,
       "category": "美食"
@@ -2558,7 +2558,7 @@
       "url": "https://www.google.com/maps/place/%E8%B1%90%E5%91%B3%E4%BA%AD%E7%95%B0%E5%9C%8B%E7%B4%A0%E9%A3%9F%E9%A4%90%E5%BB%B3/data=!4m2!3m1!1s0x3442a944bbe73367:0x2756ea67f5596cff",
       "place_id": "0x3442a944bbe73367:0x2756ea67f5596cff",
       "image_url": null,
-      "description": null,
+      "description": "健康蔬食料理，美味與健康兼顧",
       "lat": 25.063268199999996,
       "lng": 121.5245678,
       "category": "美食"
@@ -2568,7 +2568,7 @@
       "url": "https://www.google.com/maps/place/%E6%A4%8D%E5%B6%BC%E5%92%96%E5%95%A1+Native+Gardener+%26Co.+Coffee/data=!4m2!3m1!1s0x346e21efc0d5719b:0x2eb60d111db68c35",
       "place_id": "0x346e21efc0d5719b:0x2eb60d111db68c35",
       "image_url": null,
-      "description": null,
+      "description": "用心沖煮的咖啡，舒適的品飲空間",
       "lat": 22.550952199999998,
       "lng": 120.54458399999999,
       "category": "咖啡"
@@ -2578,7 +2578,7 @@
       "url": "https://www.google.com/maps/place/%E9%A3%9F%E6%BB%8B%E5%91%B3%E9%BA%B5%E9%A3%9F/data=!4m2!3m1!1s0x346e1b004a2e58b7:0x4274b87ce7eceb67",
       "place_id": "0x346e1b004a2e58b7:0x4274b87ce7eceb67",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 22.626352699999998,
       "lng": 120.34936319999998,
       "category": "美食"
@@ -2588,7 +2588,7 @@
       "url": "https://www.google.com/maps/place/%E9%96%8B%E9%A3%AF%E5%B7%9D%E9%A3%9F%E5%A0%82+%E5%B8%82%E5%BA%9C%E5%BA%97/data=!4m2!3m1!1s0x3442abb95faee141:0xc1d5f226fef09fdb",
       "place_id": "0x3442abb95faee141:0xc1d5f226fef09fdb",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 25.0406227,
       "lng": 121.56545860000001,
       "category": "美食"
@@ -2598,7 +2598,7 @@
       "url": "https://www.google.com/maps/place/%E9%9B%AA%E8%A3%8F%E7%B4%85%E7%B4%A0%E9%A3%9F%E9%BB%9E%E5%BF%83/data=!4m2!3m1!1s0x3442ab96a6d62771:0xc79b3ff6f4c377c5",
       "place_id": "0x3442ab96a6d62771:0xc79b3ff6f4c377c5",
       "image_url": null,
-      "description": null,
+      "description": "健康蔬食料理，美味與健康兼顧",
       "lat": 25.051596999999994,
       "lng": 121.565721,
       "category": "美食"
@@ -2608,7 +2608,7 @@
       "url": "https://www.google.com/maps/place/%E5%A4%A7%E6%99%AE%E7%BE%8E%E8%97%9D%E8%A1%93%E8%9B%8B%E7%B3%95%EF%BC%8D%E5%8F%B0%E5%8C%97+%E4%BC%B4%E6%89%8B%E7%A6%AE%E6%8E%A8%E8%96%A6%EF%BD%9C%E5%B9%B4%E7%AF%80%E4%BC%B4%E6%89%8B%E7%A6%AE%EF%BD%9C%E5%AE%B4%E6%9C%83%E9%BB%9E%E5%BF%83%EF%BD%9C%E9%BB%9E%E5%BF%83%E7%83%98%E7%84%99%E6%8E%A8%E8%96%A6%EF%BD%9C%E5%A3%BD%E6%A1%83%E5%A1%94%E6%8E%A8%E8%96%A6%EF%BD%9C%E7%A5%AD%E6%8B%9C%E7%94%A8%E5%93%81%E9%A6%96%E9%81%B8/data=!4m2!3m1!1s0x3442a95eab80584f:0xca6009eb5e53774f",
       "place_id": "0x3442a95eab80584f:0xca6009eb5e53774f",
       "image_url": null,
-      "description": null,
+      "description": "精緻手工蛋糕，甜蜜幸福好滋味",
       "lat": 25.060420300000004,
       "lng": 121.53175509999998,
       "category": "甜點"
@@ -2618,7 +2618,7 @@
       "url": "https://www.google.com/maps/place/%E4%B8%AD%E5%92%8C%E8%8E%8A%E6%95%AC%E8%B7%AF%E9%8D%8B%E8%B2%BC/data=!4m2!3m1!1s0x3442a9e36bca60a5:0x673ef84153e1bca6",
       "place_id": "0x3442a9e36bca60a5:0x673ef84153e1bca6",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 25.005923900000003,
       "lng": 121.50007280000001,
       "category": "美食"
@@ -2628,7 +2628,7 @@
       "url": "https://www.google.com/maps/place/%E4%BD%99%E5%AA%BD%E5%AA%BD%E9%A3%AF%E7%B3%B0/data=!4m2!3m1!1s0x3442ab92ec4ce5a5:0x9dbea365c05fe365",
       "place_id": "0x3442ab92ec4ce5a5:0x9dbea365c05fe365",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 25.0572454,
       "lng": 121.5618009,
       "category": "美食"
@@ -2638,7 +2638,7 @@
       "url": "https://www.google.com/maps/place/Second+Floor+%E8%B2%B3%E6%A8%93%E6%9D%BF%E6%A9%8B%E5%BA%97/data=!4m2!3m1!1s0x3468039be12e4b4d:0xfd6a47e66803d0f0",
       "place_id": "0x3468039be12e4b4d:0xfd6a47e66803d0f0",
       "image_url": null,
-      "description": null,
+      "description": "美式早午餐連鎖店，舒適用餐環境",
       "lat": 25.000081500000004,
       "lng": 121.45514890000001,
       "category": "美食"
@@ -2648,7 +2648,7 @@
       "url": "https://www.google.com/maps/place/Second+Floor+%E8%B2%B3%E6%A8%93%E5%B8%AB%E5%A4%A7%E5%BA%97/data=!4m2!3m1!1s0x3442a985824a024f:0xdb361cbf6534e879",
       "place_id": "0x3442a985824a024f:0xdb361cbf6534e879",
       "image_url": null,
-      "description": null,
+      "description": "美式早午餐連鎖店，舒適用餐環境",
       "lat": 25.025405,
       "lng": 121.5282001,
       "category": "美食"
@@ -2658,7 +2658,7 @@
       "url": "https://www.google.com/maps/place/Second+Floor+%E8%B2%B3%E6%A8%93%E6%95%A6%E5%8D%97%E5%BA%97/data=!4m2!3m1!1s0x3442abcd3ecf962d:0xf7849092e7b31480",
       "place_id": "0x3442abcd3ecf962d:0xf7849092e7b31480",
       "image_url": null,
-      "description": null,
+      "description": "美式早午餐連鎖店，舒適用餐環境",
       "lat": 25.030887099999998,
       "lng": 121.55000899999997,
       "category": "美食"
@@ -2668,7 +2668,7 @@
       "url": "https://www.google.com/maps/place/Second+Floor+%E8%B2%B3%E6%A8%93%E8%A5%BF%E6%B9%96%E5%BA%97/data=!4m2!3m1!1s0x3442ac6f1dae220b:0x255990ee69e0b22d",
       "place_id": "0x3442ac6f1dae220b:0x255990ee69e0b22d",
       "image_url": null,
-      "description": null,
+      "description": "美式早午餐連鎖店，舒適用餐環境",
       "lat": 25.0818802,
       "lng": 121.5687222,
       "category": "美食"
@@ -2678,7 +2678,7 @@
       "url": "https://www.google.com/maps/place/Second+Floor+%E8%B2%B3%E6%A8%93%E4%B8%AD%E5%B1%B1%E5%8D%97%E8%A5%BF%E5%BA%97/data=!4m2!3m1!1s0x3442a9b5c6abdc1d:0xfbb840489d764c55",
       "place_id": "0x3442a9b5c6abdc1d:0xfbb840489d764c55",
       "image_url": null,
-      "description": null,
+      "description": "美式早午餐連鎖店，舒適用餐環境",
       "lat": 25.052991199999997,
       "lng": 121.5210538,
       "category": "美食"
@@ -2688,7 +2688,7 @@
       "url": "https://www.google.com/maps/place/Second+Floor+%E8%B2%B3%E6%A8%93%E5%BE%AE%E9%A2%A8%E5%8F%B0%E5%8C%97%E8%BB%8A%E7%AB%99%E5%BA%97/data=!4m2!3m1!1s0x3442a9729f13e59d:0xc5148d082e81f7f3",
       "place_id": "0x3442a9729f13e59d:0xc5148d082e81f7f3",
       "image_url": null,
-      "description": null,
+      "description": "美式早午餐連鎖店，舒適用餐環境",
       "lat": 25.047749000000003,
       "lng": 121.51704399999998,
       "category": "美食"
@@ -2698,7 +2698,7 @@
       "url": "https://www.google.com/maps/place/Second+Floor+%E8%B2%B3%E6%A8%93%E4%BB%81%E6%84%9B%E5%BA%97/data=!4m2!3m1!1s0x3442a97ebf69e67b:0xf06276ea3de8b70",
       "place_id": "0x3442a97ebf69e67b:0xf06276ea3de8b70",
       "image_url": null,
-      "description": null,
+      "description": "美式早午餐連鎖店，舒適用餐環境",
       "lat": 25.037917300000004,
       "lng": 121.53242110000001,
       "category": "美食"
@@ -2708,7 +2708,7 @@
       "url": "https://www.google.com/maps/place/Second+Floor+%E8%B2%B3%E6%A8%93%E5%85%AC%E9%A4%A8%E5%BA%97/data=!4m2!3m1!1s0x3442a98b9c76b0d1:0xe180d4ebfbf6c540",
       "place_id": "0x3442a98b9c76b0d1:0xe180d4ebfbf6c540",
       "image_url": null,
-      "description": null,
+      "description": "美式早午餐連鎖店，舒適用餐環境",
       "lat": 25.0157152,
       "lng": 121.5315785,
       "category": "美食"
@@ -2718,7 +2718,7 @@
       "url": "https://www.google.com/maps/place/Second+Floor+%E8%B2%B3%E6%A8%93%E5%BE%AE%E9%A2%A8%E5%8D%97%E5%B1%B1%E5%BA%97/data=!4m2!3m1!1s0x3442ab01d2ec068b:0x7fcc75b02c728e1e",
       "place_id": "0x3442ab01d2ec068b:0x7fcc75b02c728e1e",
       "image_url": null,
-      "description": null,
+      "description": "美式早午餐連鎖店，舒適用餐環境",
       "lat": 25.0342834,
       "lng": 121.56598429999998,
       "category": "美食"
@@ -2728,7 +2728,7 @@
       "url": "https://www.google.com/maps/place/%E5%85%AB%E6%9B%9C%E5%92%8C%E8%8C%B6+%E6%96%B0%E5%8C%97%E6%B0%B8%E5%92%8C%E9%96%80%E5%B8%82/data=!4m2!3m1!1s0x3442a90022540115:0xc7ac374599a64c5",
       "place_id": "0x3442a90022540115:0xc7ac374599a64c5",
       "image_url": null,
-      "description": null,
+      "description": "精選茶飲專賣，品味台灣好茶的香醇",
       "lat": 25.009491899999997,
       "lng": 121.51454710000002,
       "category": "咖啡"
@@ -2738,7 +2738,7 @@
       "url": "https://www.google.com/maps/place/%E5%85%AB%E6%9B%9C%E5%92%8C%E8%8C%B6+%E4%B8%89%E9%87%8D%E5%8F%B0%E5%8C%97%E6%A9%8B%E5%BA%97/data=!4m2!3m1!1s0x3442a900798aa499:0x6e38ee8134538e5f",
       "place_id": "0x3442a900798aa499:0x6e38ee8134538e5f",
       "image_url": null,
-      "description": null,
+      "description": "精選茶飲專賣，品味台灣好茶的香醇",
       "lat": 25.063061500000003,
       "lng": 121.5009949,
       "category": "咖啡"
@@ -2748,7 +2748,7 @@
       "url": "https://www.google.com/maps/place/%E5%B1%B1%E7%84%99+SUNBAY+LAB:+BLUE+LINE-+%E5%92%8C%E5%B9%B3%E8%87%A5%E9%BE%8D/data=!4m2!3m1!1s0x3442ab9820be64d7:0xd3dfb4fabd3790f5",
       "place_id": "0x3442ab9820be64d7:0xd3dfb4fabd3790f5",
       "image_url": null,
-      "description": null,
+      "description": "獨特的存在，值得親自探索的特色空間",
       "lat": 25.0249125,
       "lng": 121.54648189999997,
       "category": "其他"
@@ -2758,7 +2758,7 @@
       "url": "https://www.google.com/maps/place/%E5%B1%B1%E7%84%99+SUNBAY+-+%E5%85%A7%E6%B9%96%E7%A7%91%E6%8A%80%EF%BC%BF%E7%83%98%E7%84%99%E8%90%83%E5%8F%96%E8%A3%BD%E8%8C%B6%E6%89%80/data=!4m2!3m1!1s0x3442ad01cc09cd97:0x53b84801e3a24bd8",
       "place_id": "0x3442ad01cc09cd97:0x53b84801e3a24bd8",
       "image_url": null,
-      "description": null,
+      "description": "精選茶飲專賣，品味台灣好茶的香醇",
       "lat": 25.082157199999994,
       "lng": 121.56956239999998,
       "category": "咖啡"
@@ -2768,7 +2768,7 @@
       "url": "https://www.google.com/maps/place/%E5%B1%B1%E7%84%99+SUNBAY+-%E5%BF%A0%E5%AD%9D%E6%95%A6%E5%8C%96%EF%BC%BF%E7%83%98%E7%84%99%E8%90%83%E5%8F%96%E8%A3%BD%E8%8C%B6%E6%89%80/data=!4m2!3m1!1s0x3442abbc900cc42d:0x175b6a126fc26626",
       "place_id": "0x3442abbc900cc42d:0x175b6a126fc26626",
       "image_url": null,
-      "description": null,
+      "description": "精選茶飲專賣，品味台灣好茶的香醇",
       "lat": 25.0405016,
       "lng": 121.54995519999999,
       "category": "咖啡"
@@ -2778,7 +2778,7 @@
       "url": "https://www.google.com/maps/place/%E6%9C%A8%E8%A1%9B%E4%BA%8C+%E4%BC%8A%E9%80%9A%E9%91%84%E8%8C%B6%E6%89%80/data=!4m2!3m1!1s0x3442a9605bc71a3f:0x8530cec7ab3624eb",
       "place_id": "0x3442a9605bc71a3f:0x8530cec7ab3624eb",
       "image_url": null,
-      "description": null,
+      "description": "精選茶飲專賣，品味台灣好茶的香醇",
       "lat": 25.052649199999998,
       "lng": 121.534264,
       "category": "咖啡"
@@ -2788,7 +2788,7 @@
       "url": "https://www.google.com/maps/place/%E6%9C%A8%E8%A1%9B%E4%BA%8C+%E6%B7%A1%E6%B0%B4%E5%BA%97/data=!4m2!3m1!1s0x3442affbe2d56d35:0xb3613e3bf5192d76",
       "place_id": "0x3442affbe2d56d35:0xb3613e3bf5192d76",
       "image_url": null,
-      "description": null,
+      "description": "獨特的存在，值得親自探索的特色空間",
       "lat": 25.1771225,
       "lng": 121.4491042,
       "category": "其他"
@@ -2798,7 +2798,7 @@
       "url": "https://www.google.com/maps/place/%E7%83%8F%E5%BC%84%E5%8E%9F%E7%94%9F%E8%8C%B6%E9%A3%B2+%E6%B0%B8%E5%92%8C%E6%A8%82%E8%8F%AF%E5%BA%97/data=!4m2!3m1!1s0x3442a927236a4779:0x20abe41e624632a7",
       "place_id": "0x3442a927236a4779:0x20abe41e624632a7",
       "image_url": null,
-      "description": null,
+      "description": "精選茶飲專賣，品味台灣好茶的香醇",
       "lat": 25.007633499999997,
       "lng": 121.51239089999999,
       "category": "咖啡"
@@ -2808,7 +2808,7 @@
       "url": "https://www.google.com/maps/place/%E7%83%8F%E5%BC%84%E5%85%A7%E6%B9%96%E6%B8%AF%E5%A2%98%E5%BA%97/data=!4m2!3m1!1s0x3442ad3b4c026c45:0x488e097471a4ee6d",
       "place_id": "0x3442ad3b4c026c45:0x488e097471a4ee6d",
       "image_url": null,
-      "description": null,
+      "description": "獨特的存在，值得親自探索的特色空間",
       "lat": 25.081352300000002,
       "lng": 121.57928070000001,
       "category": "其他"
@@ -2818,7 +2818,7 @@
       "url": "https://www.google.com/maps/place/%E7%83%8F%E5%BC%84%E5%8E%9F%E7%94%9F%E8%8C%B6%E9%A3%B2+%E5%A3%AB%E6%9E%97%E8%8A%9D%E5%B1%B1%E9%96%80%E5%B8%82/data=!4m2!3m1!1s0x3442af1002121147:0x3df71ae24b89d763",
       "place_id": "0x3442af1002121147:0x3df71ae24b89d763",
       "image_url": null,
-      "description": null,
+      "description": "精選茶飲專賣，品味台灣好茶的香醇",
       "lat": 25.104391900000003,
       "lng": 121.52296409999998,
       "category": "咖啡"
@@ -2828,7 +2828,7 @@
       "url": "https://www.google.com/maps/place/%E7%83%8F%E5%BC%84%E5%8E%9F%E7%94%9F%E8%8C%B6%E9%A3%B2%E8%A5%BF%E6%B9%96%E5%BA%97/data=!4m2!3m1!1s0x3442ad25b1480ef5:0x290e474c0b5857ba",
       "place_id": "0x3442ad25b1480ef5:0x290e474c0b5857ba",
       "image_url": null,
-      "description": null,
+      "description": "精選茶飲專賣，品味台灣好茶的香醇",
       "lat": 25.083409399999997,
       "lng": 121.5669961,
       "category": "咖啡"
@@ -2838,7 +2838,7 @@
       "url": "https://www.google.com/maps/place/%E7%83%8F%E5%BC%84%E5%8E%9F%E7%94%9F%E8%8C%B6%E9%A3%B2%28%E5%8F%B0%E5%8C%97%E5%85%AC%E9%A4%A8%E5%BA%97%29/data=!4m2!3m1!1s0x3442a91cafbcd37b:0x6b9f2967361a5d21",
       "place_id": "0x3442a91cafbcd37b:0x6b9f2967361a5d21",
       "image_url": null,
-      "description": null,
+      "description": "精選茶飲專賣，品味台灣好茶的香醇",
       "lat": 25.013848,
       "lng": 121.534696,
       "category": "咖啡"
@@ -2848,7 +2848,7 @@
       "url": "https://www.google.com/maps/place/%E7%83%8F%E5%BC%84%E5%8E%9F%E7%94%9F%E8%8C%B6%E9%A3%B2%28%E5%9C%93%E5%B1%B1%E5%BA%97%29/data=!4m2!3m1!1s0x3442a95d811dae7d:0x5cc543e054fe4aac",
       "place_id": "0x3442a95d811dae7d:0x5cc543e054fe4aac",
       "image_url": null,
-      "description": null,
+      "description": "精選茶飲專賣，品味台灣好茶的香醇",
       "lat": 25.0705958,
       "lng": 121.519362,
       "category": "咖啡"
@@ -2858,7 +2858,7 @@
       "url": "https://www.google.com/maps/place/%E7%83%8F%E5%BC%84%E5%8E%9F%E7%94%9F%E8%8C%B6%E9%A3%B2+%E6%9D%BE%E5%B1%B1%E5%BA%97/data=!4m2!3m1!1s0x3442abf8ae1caf35:0x2e22bf1457ec2c9",
       "place_id": "0x3442abf8ae1caf35:0x2e22bf1457ec2c9",
       "image_url": null,
-      "description": null,
+      "description": "精選茶飲專賣，品味台灣好茶的香醇",
       "lat": 25.0381222,
       "lng": 121.57799689999999,
       "category": "咖啡"
@@ -2868,7 +2868,7 @@
       "url": "https://www.google.com/maps/place/%E7%83%8F%E5%BC%84%E5%8E%9F%E7%94%9F%E8%8C%B6%E9%A3%B2+%E6%99%B4%E5%85%89%E5%BA%97/data=!4m2!3m1!1s0x3442a91796f14b55:0x6a6f871dc6ad793",
       "place_id": "0x3442a91796f14b55:0x6a6f871dc6ad793",
       "image_url": null,
-      "description": null,
+      "description": "精選茶飲專賣，品味台灣好茶的香醇",
       "lat": 25.0644314,
       "lng": 121.52459689999998,
       "category": "咖啡"
@@ -2878,7 +2878,7 @@
       "url": "https://www.google.com/maps/place/%E7%83%8F%E5%BC%84%E5%8E%9F%E7%94%9F%E8%8C%B6%E9%A3%B2+%E4%BF%A1%E7%BE%A9%E5%90%B3%E8%88%88%E5%BA%97/data=!4m2!3m1!1s0x3442abf3fad5b36f:0xb84705748df8d56",
       "place_id": "0x3442abf3fad5b36f:0xb84705748df8d56",
       "image_url": null,
-      "description": null,
+      "description": "精選茶飲專賣，品味台灣好茶的香醇",
       "lat": 25.031415499999998,
       "lng": 121.55994279999997,
       "category": "咖啡"
@@ -2888,7 +2888,7 @@
       "url": "https://www.google.com/maps/place/%E7%83%8F%E5%BC%84%E5%8E%9F%E7%94%9F%E8%8C%B6%E9%A3%B2+%E5%8D%97%E4%BA%AC%E4%B8%89%E6%B0%91%E5%BA%97/data=!4m2!3m1!1s0x3442ab9f313500df:0x284da8ce043fa2f",
       "place_id": "0x3442ab9f313500df:0x284da8ce043fa2f",
       "image_url": null,
-      "description": null,
+      "description": "精選茶飲專賣，品味台灣好茶的香醇",
       "lat": 25.0523816,
       "lng": 121.5607412,
       "category": "咖啡"
@@ -2898,7 +2898,7 @@
       "url": "https://www.google.com/maps/place/%E7%83%8F%E5%BC%84%E5%8E%9F%E7%94%9F%E8%8C%B6%E9%A3%B2+%E9%81%BC%E5%AF%A7%E5%BA%97/data=!4m2!3m1!1s0x3442ab657612dbb5:0xb3580aa36757a522",
       "place_id": "0x3442ab657612dbb5:0xb3580aa36757a522",
       "image_url": null,
-      "description": null,
+      "description": "精選茶飲專賣，品味台灣好茶的香醇",
       "lat": 25.048690999999998,
       "lng": 121.5422744,
       "category": "咖啡"
@@ -2908,7 +2908,7 @@
       "url": "https://www.google.com/maps/place/%E7%83%8F%E5%BC%84%E5%8E%9F%E7%94%9F%E8%8C%B6%E9%A3%B2%28%E5%8F%B0%E5%8C%97%E5%90%88%E6%B1%9F%E5%BA%97%29/data=!4m2!3m1!1s0x3442ab8c2ca318b3:0x71fb3e9d4558c7d7",
       "place_id": "0x3442ab8c2ca318b3:0x71fb3e9d4558c7d7",
       "image_url": null,
-      "description": null,
+      "description": "精選茶飲專賣，品味台灣好茶的香醇",
       "lat": 25.0597493,
       "lng": 121.53929989999997,
       "category": "咖啡"
@@ -2918,7 +2918,7 @@
       "url": "https://www.google.com/maps/place/Sharetea%E6%AD%87%E8%85%B3%E4%BA%AD-%E5%A4%A7%E5%AE%89%E5%BF%A0%E5%AD%9D%E5%BA%97/data=!4m2!3m1!1s0x3442ab77b7490959:0x1ca30275adeeb54c",
       "place_id": "0x3442ab77b7490959:0x1ca30275adeeb54c",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 25.042512900000002,
       "lng": 121.55083839999999,
       "category": "美食"
@@ -2928,7 +2928,7 @@
       "url": "https://www.google.com/maps/place/%E6%B0%B8%E6%A8%82%E9%9B%9E%E6%8D%B2%E5%A4%A7%E7%8E%8B/data=!4m2!3m1!1s0x3442a91487420859:0xf5f19d4970f3b90f",
       "place_id": "0x3442a91487420859:0xf5f19d4970f3b90f",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 25.0585256,
       "lng": 121.5113827,
       "category": "美食"
@@ -2938,7 +2938,7 @@
       "url": "https://www.google.com/maps/place/%E7%99%BB%E6%B3%A2%E5%92%96%E5%95%A1/data=!4m2!3m1!1s0x3442a9959dd0605f:0x84fc2f9bd616f279",
       "place_id": "0x3442a9959dd0605f:0x84fc2f9bd616f279",
       "image_url": null,
-      "description": null,
+      "description": "用心沖煮的咖啡，舒適的品飲空間",
       "lat": 25.055804300000002,
       "lng": 121.52037510000001,
       "category": "咖啡"
@@ -2948,7 +2948,7 @@
       "url": "https://www.google.com/maps/place/%E6%9E%9C%E7%84%B6%E5%8C%AF+%E5%8F%B0%E5%8C%97%E5%A4%A9%E6%AF%8D%E5%BA%97/data=!4m2!3m1!1s0x3442af9f3f8cc3a3:0xf2aaeada47added4",
       "place_id": "0x3442af9f3f8cc3a3:0xf2aaeada47added4",
       "image_url": null,
-      "description": null,
+      "description": "蔬食自助餐廳，健康豐富的饗宴",
       "lat": 25.1118264,
       "lng": 121.5315215,
       "category": "甜點"
@@ -2958,7 +2958,7 @@
       "url": "https://www.google.com/maps/place/%E6%9E%9C%E7%84%B6%E5%8C%AF+%E6%96%B0%E5%8C%97%E6%9D%BF%E6%A9%8B%E5%BA%97/data=!4m2!3m1!1s0x3442a81eec6aaaab:0xf68709da841704c6",
       "place_id": "0x3442a81eec6aaaab:0xf68709da841704c6",
       "image_url": null,
-      "description": null,
+      "description": "蔬食自助餐廳，健康豐富的饗宴",
       "lat": 25.011,
       "lng": 121.4643718,
       "category": "甜點"
@@ -2968,7 +2968,7 @@
       "url": "https://www.google.com/maps/place/%E7%BE%8E%E8%8F%AF%E7%B4%A0%E9%A3%9F%E5%B0%8F%E5%90%83%E5%BA%97%28%E8%A1%8C%E5%A4%A9%E5%AE%AE+%E7%B4%A0%E9%A3%9F%E3%80%81%E7%95%B6%E6%AD%B8%E6%B9%AF%E3%80%81%E7%B4%A0%E9%A3%9F+%E9%A4%90%E5%BB%B3%E3%80%81%E7%B4%A0%E9%A3%9F%E7%B0%A1%E9%A4%90%E3%80%81%E4%B8%AD%E5%B1%B1%E5%9C%8B%E4%B8%AD+%E7%B4%A0%E9%A3%9F%E3%80%81%E4%B8%AD%E5%B1%B1%E5%9C%8B%E5%B0%8F%E3%80%81%E6%A6%AE%E6%98%9F%E8%8A%B1%E5%9C%92+%E7%B4%A0%E9%A3%9F%E3%80%81%E8%94%AC%E9%A3%9F+%E9%A4%90%E5%BB%B3%E3%80%81%E7%B4%A0%E9%A3%9F%E6%BB%B7%E5%91%B3%E3%80%81%E4%B8%AD%E5%B1%B1%E5%8D%80+%E7%B4%A0%E9%A3%9F%29/data=!4m2!3m1!1s0x3442a958460be5fb:0x30e15ecb6fe68cb4",
       "place_id": "0x3442a958460be5fb:0x30e15ecb6fe68cb4",
       "image_url": null,
-      "description": null,
+      "description": "生活中的好幫手，提供便利服務",
       "lat": 25.063587399999996,
       "lng": 121.5350509,
       "category": "生活"
@@ -2978,7 +2978,7 @@
       "url": "https://www.google.com/maps/place/%E4%B8%8A%E5%BC%95%E6%B0%B4%E7%94%A2/data=!4m2!3m1!1s0x3442abfd700a70ff:0x66353fb1b041e11b",
       "place_id": "0x3442abfd700a70ff:0x66353fb1b041e11b",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 25.066707899999997,
       "lng": 121.5370059,
       "category": "美食"
@@ -2988,7 +2988,7 @@
       "url": "https://www.google.com/maps/place/%E9%98%BF%E6%88%90%E9%B5%9D%E8%82%89%E5%B0%88%E8%B3%A3%E5%BA%97/data=!4m2!3m1!1s0x3442ab8dd58700f7:0x97660313e1cea9f",
       "place_id": "0x3442ab8dd58700f7:0x97660313e1cea9f",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 25.0603747,
       "lng": 121.5655448,
       "category": "美食"
@@ -2998,7 +2998,7 @@
       "url": "https://www.google.com/maps/place/%E9%98%BF%E8%8D%89%E8%B5%A4%E8%82%89%E7%BE%B9/data=!4m2!3m1!1s0x3442ab8e77b33671:0x561aa974c3a4036e",
       "place_id": "0x3442ab8e77b33671:0x561aa974c3a4036e",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 25.059851400000003,
       "lng": 121.5657303,
       "category": "美食"
@@ -3008,7 +3008,7 @@
       "url": "https://www.google.com/maps/place/%E5%BD%B0%E5%8C%96%E8%82%89%E5%9C%93%E5%A4%A7%E7%8E%8B/data=!4m2!3m1!1s0x34694b154899c3e5:0x78d50fb6ac5f0359",
       "place_id": "0x34694b154899c3e5:0x78d50fb6ac5f0359",
       "image_url": null,
-      "description": null,
+      "description": "用心烹調的美味料理，值得一訪",
       "lat": 23.8918696,
       "lng": 120.45951219999999,
       "category": "美食"
@@ -3018,7 +3018,7 @@
       "url": "https://www.google.com/maps/place/%E5%8C%97%E9%A2%A8%E7%A4%BE/data=!4m2!3m1!1s0x3442a9e14a3a4c65:0x6d9d559095db19c6",
       "place_id": "0x3442a9e14a3a4c65:0x6d9d559095db19c6",
       "image_url": null,
-      "description": null,
+      "description": "獨特的存在，值得親自探索的特色空間",
       "lat": 25.0552532,
       "lng": 121.52014969999999,
       "category": "其他"
@@ -3028,7 +3028,7 @@
       "url": "https://www.google.com/maps/place/%E3%83%8F%E3%83%8F%E7%8F%88%E7%90%B2%E5%BA%97/data=!4m2!3m1!1s0x3442a94ff5d6918f:0xe0c0a51143c17f2e",
       "place_id": "0x3442a94ff5d6918f:0xe0c0a51143c17f2e",
       "image_url": null,
-      "description": null,
+      "description": "用心沖煮的咖啡，舒適的品飲空間",
       "lat": 25.067719399999994,
       "lng": 121.5244965,
       "category": "咖啡"

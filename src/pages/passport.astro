@@ -158,8 +158,9 @@ import '../styles/global.css';
 
     let allShops = [];
     let visitedShops = JSON.parse(localStorage.getItem('visited_shops')) || [];
+    let favoriteShops = JSON.parse(localStorage.getItem('favorite_shops')) || [];
     let userName = localStorage.getItem('user_name') || '台灣囡仔';
-    let currentFilter = 'all';
+    let currentFilter = 'recommend';
     let map = null;
     let markers = [];
     let leaderboardData = [];
@@ -227,7 +228,7 @@ import '../styles/global.css';
                 label = '🔥 熱門';
             }
 
-            html += `<button class="btn btn-sm ${val === 'all' ? 'btn-primary' : 'btn-ghost'}"
+            html += `<button class="btn btn-sm ${val === currentFilter ? 'btn-primary' : 'btn-ghost'}"
                              onclick="setFilter('${val}', this)">${label}</button>`;
         });
         container.innerHTML = html;
@@ -288,12 +289,15 @@ import '../styles/global.css';
     }
 
     // Item-to-Item CF: find similar shops to what user visited
+    // Returns { scores: Map, similarTo: Map } where similarTo maps shopId -> [{ visitedId, visitedName, similarity }]
     function getItemBasedScores(shopVisitorMap, myShopsSet) {
         const shopScores = new Map();
+        const similarTo = new Map(); // Track which visited shops contributed
 
         // For each shop user visited, find similar unvisited shops
         myShopsSet.forEach(visitedId => {
             const visitedVisitors = shopVisitorMap.get(visitedId) || new Set();
+            const visitedShop = allShops.find(s => s.id === visitedId);
 
             allShops.forEach(shop => {
                 if (myShopsSet.has(shop.id)) return; // Skip already visited
@@ -304,11 +308,26 @@ import '../styles/global.css';
                 if (similarity > 0) {
                     const current = shopScores.get(shop.id) || 0;
                     shopScores.set(shop.id, current + similarity);
+
+                    // Track similar shops
+                    if (!similarTo.has(shop.id)) {
+                        similarTo.set(shop.id, []);
+                    }
+                    similarTo.get(shop.id).push({
+                        visitedId,
+                        visitedName: visitedShop?.name || visitedId,
+                        similarity
+                    });
                 }
             });
         });
 
-        return shopScores;
+        // Sort similarTo by similarity for each shop
+        similarTo.forEach((items) => {
+            items.sort((a, b) => b.similarity - a.similarity);
+        });
+
+        return { scores: shopScores, similarTo };
     }
 
     // Hybrid Collaborative Filtering: combine user-based and item-based
@@ -338,7 +357,7 @@ import '../styles/global.css';
 
         // Get scores from both methods
         const userBasedScores = getUserBasedScores(userShopMap, myShopsSet);
-        const itemBasedScores = getItemBasedScores(shopVisitorMap, myShopsSet);
+        const { scores: itemBasedScores, similarTo } = getItemBasedScores(shopVisitorMap, myShopsSet);
 
         // Combine scores (weighted: 0.5 user-based + 0.5 item-based)
         const combinedScores = new Map();
@@ -356,7 +375,8 @@ import '../styles/global.css';
             .slice(0, 10)
             .map(([shopId, score]) => {
                 const shop = allShops.find(s => s.id === shopId);
-                return { ...shop, cfScore: score };
+                const similar = similarTo.get(shopId) || [];
+                return { ...shop, cfScore: score, similarTo: similar };
             })
             .filter(s => s.id);
 
@@ -408,6 +428,7 @@ import '../styles/global.css';
 
         filtered.forEach(shop => {
             const isVisited = visitedShops.includes(shop.id);
+            const isFavorite = favoriteShops.includes(shop.id);
             const popularity = parseInt(shop.popularity) || 0;
             const isHot = popularity >= 800;
 
@@ -444,6 +465,35 @@ import '../styles/global.css';
                    </div>`
                 : '';
 
+            // Item-to-Item: show which visited shops are similar
+            // Social Counts
+            const visitCount = visitors.length;
+            const collectCount = parseInt(shop.popularity) || 0;
+            
+            const statsHtml = `
+                <div class="flex gap-3 text-xs text-base-content/60 mt-2 mb-1">
+                    <span class="flex items-center gap-1">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-3 w-3" viewBox="0 0 20 20" fill="currentColor">
+                            <path fill-rule="evenodd" d="M3.172 5.172a4 4 0 015.656 0L10 6.343l1.172-1.171a4 4 0 115.656 5.656L10 17.657l-6.828-6.829a4 4 0 010-5.656z" clip-rule="evenodd" />
+                        </svg>
+                        ${collectCount} 人收藏
+                    </span>
+                    <span class="flex items-center gap-1">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-3 w-3" viewBox="0 0 20 20" fill="currentColor">
+                            <path d="M10 12a2 2 0 100-4 2 2 0 000 4z" />
+                            <path fill-rule="evenodd" d="M.458 10C1.732 5.943 5.522 3 10 3s8.268 2.943 9.542 7c-1.274 4.057-5.064 7-9.542 7S1.732 14.057.458 10zM14 10a4 4 0 11-8 0 4 4 0 018 0z" clip-rule="evenodd" />
+                        </svg>
+                        ${visitCount} 人去過
+                    </span>
+                </div>
+            `;
+
+            const similarToHtml = (isRecommend && shop.similarTo && shop.similarTo.length > 0)
+                ? `<div class="text-xs text-primary mt-1">
+                    🔗 因為你去過：${shop.similarTo.slice(0, 2).map(s => s.visitedName).join('、')}
+                   </div>`
+                : '';
+
             const showRecommendBadge = isRecommend && shop.cfScore;
 
             card.innerHTML = `
@@ -462,9 +512,17 @@ import '../styles/global.css';
                     </h3>
                     <div class="badge badge-outline badge-sm">${shop.category}</div>
                     <p class="text-sm text-base-content/70 line-clamp-2">${shop.description || '暫無介紹'}</p>
+                    ${statsHtml}
+                    ${similarToHtml}
                     ${visitorsHtml}
                     <div class="card-actions justify-between items-center mt-auto pt-3 border-t border-base-200">
-                        <a href="${shop.map_url}" target="_blank" class="link link-primary text-sm">📍 地圖</a>
+                        <div class="flex gap-2">
+                            <a href="${shop.map_url}" target="_blank" class="btn btn-sm btn-ghost btn-circle" title="地圖">📍</a>
+                            <button class="btn btn-sm btn-circle ${isFavorite ? 'btn-error text-white' : 'btn-ghost text-error'}"
+                                    onclick="toggleFavorite('${shop.id}', this)" title="收藏">
+                                ${isFavorite ? '❤' : '♡'}
+                            </button>
+                        </div>
                         <button class="btn btn-sm ${isVisited ? 'btn-success' : 'btn-outline'}"
                                 onclick="toggleVisit('${shop.id}')">
                             ${isVisited ? '已攻略' : '攻略'}
@@ -474,6 +532,22 @@ import '../styles/global.css';
             `;
             container.appendChild(card);
         });
+    }
+
+    window.toggleFavorite = function(id, btn) {
+        if (favoriteShops.includes(id)) {
+            favoriteShops = favoriteShops.filter(sid => sid !== id);
+        } else {
+            favoriteShops.push(id);
+        }
+        localStorage.setItem('favorite_shops', JSON.stringify(favoriteShops));
+        
+        // Optimistic UI update instead of full re-render for better UX
+        const isFav = favoriteShops.includes(id);
+        btn.classList.toggle('btn-error', isFav);
+        btn.classList.toggle('text-white', isFav);
+        btn.classList.toggle('btn-ghost', !isFav);
+        btn.innerText = isFav ? '❤' : '♡';
     }
 
     window.toggleVisit = function(id) {

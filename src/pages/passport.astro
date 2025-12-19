@@ -15,18 +15,9 @@ import '../styles/global.css';
             height: 280px;
             z-index: 1;
         }
-        /* Stamp for visited cards */
-        .stamp-mark {
-            display: none;
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%) rotate(-12deg);
-            z-index: 10;
-        }
-        .shop-card.visited .stamp-mark { display: block; }
-        .shop-card.visited { opacity: 0.7; }
-        .shop-card.visited:hover { opacity: 0.9; }
+        /* Visited card styling */
+        .shop-card.visited { opacity: 0.8; }
+        .shop-card.visited:hover { opacity: 1; }
     </style>
 </head>
 <body class="bg-base-200 min-h-screen">
@@ -34,7 +25,7 @@ import '../styles/global.css';
 <!-- Navbar -->
 <div class="navbar bg-base-100 sticky top-0 z-50 shadow-sm">
     <div class="navbar-center flex-1 justify-center">
-        <span class="text-xl font-bold">🇹🇼 台派生活圈・點亮台灣</span>
+        <span class="text-xl font-bold">🍜 美食踩點護照</span>
     </div>
 </div>
 
@@ -155,6 +146,7 @@ import '../styles/global.css';
     const DATA_URL = '/byw-mit/gluttony.json';
 
     let allShops = [];
+    let collectionTitle = ''; // 收藏來源名稱
     let visitedShops = JSON.parse(localStorage.getItem('visited_shops')) || [];
     let favoriteShops = JSON.parse(localStorage.getItem('favorite_shops')) || [];
     let userName = localStorage.getItem('user_name') || '台灣囡仔';
@@ -181,6 +173,9 @@ import '../styles/global.css';
                 document.getElementById('loading').innerHTML = '<div class="alert alert-warning"><span>⚠️ 載入成功但沒有資料</span></div>';
                 return;
             }
+
+            // 儲存收藏來源名稱
+            collectionTitle = data.title || '';
 
             // Map gluttony.json fields to expected shop format
             allShops = data.places.map(place => ({
@@ -487,9 +482,6 @@ import '../styles/global.css';
 
             card.innerHTML = `
                 <div class="card-body p-4 relative">
-                    <div class="stamp-mark">
-                        <div class="badge badge-success badge-lg">✓ COMPLETED</div>
-                    </div>
                     <div class="flex items-start gap-3">
                         <span class="text-2xl">${visualIcon}</span>
                         <div class="flex-1 min-w-0">
@@ -498,7 +490,7 @@ import '../styles/global.css';
                                 ${isHot ? '<span class="text-warning text-sm">🔥</span>' : ''}
                                 ${showRecommendBadge ? '<span class="badge badge-primary badge-xs ml-1">推薦</span>' : ''}
                             </h3>
-                            <span class="text-xs text-base-content/50">${shop.category}</span>
+                            <span class="text-xs text-base-content/50">${shop.category} · ${collectionTitle}</span>
                         </div>
                     </div>
                     <p class="text-sm text-base-content/60 line-clamp-2 mt-2">${shop.description || '暫無介紹'}</p>

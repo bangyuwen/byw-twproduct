@@ -29,17 +29,18 @@ import '../styles/global.css';
 <body class="bg-base-200 min-h-screen">
 
 <!-- Navbar & Tabs -->
-<div id="main-navbar" class="bg-base-100 sticky top-0 z-50 shadow-sm transition-transform duration-300 flex flex-col">
-    <div class="navbar min-h-12">
-        <div class="navbar-center flex-1 justify-center">
+<!-- Navbar & Tabs -->
+<div id="main-navbar" class="bg-base-100 sticky top-0 z-50 shadow-sm transition-transform duration-300">
+    <div class="navbar min-h-12 flex-col sm:flex-row gap-2 px-4">
+        <div class="flex-none">
             <span class="text-xl font-bold">✨ 優質店家護照</span>
         </div>
-    </div>
-    <div class="w-full border-t border-base-200">
-        <div role="tablist" class="tabs tabs-bordered justify-center w-full">
-            <a role="tab" class="tab tab-active h-12" id="tab-passport" onclick="switchTab('passport')">踩點護照</a>
-            <a role="tab" class="tab h-12" id="tab-progress" onclick="switchTab('progress')">踩點進度</a>
-            <a role="tab" class="tab h-12" id="tab-leaderboard" onclick="switchTab('leaderboard')">排行榜</a>
+        <div class="flex-1 w-full sm:w-auto overflow-x-auto">
+            <div role="tablist" class="tabs tabs-bordered justify-start sm:justify-center w-full">
+                <a role="tab" class="tab tab-active h-12 whitespace-nowrap" id="tab-passport" onclick="switchTab('passport')">踩點護照</a>
+                <a role="tab" class="tab h-12 whitespace-nowrap" id="tab-progress" onclick="switchTab('progress')">踩點進度</a>
+                <a role="tab" class="tab h-12 whitespace-nowrap" id="tab-leaderboard" onclick="switchTab('leaderboard')">排行榜</a>
+            </div>
         </div>
     </div>
 </div>

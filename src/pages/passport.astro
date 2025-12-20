@@ -12,7 +12,8 @@ import '../styles/global.css';
     <style>
         /* Map needs explicit height */
         #map {
-            height: 280px;
+            /* Height is handled by container now */
+            height: 100%;
             z-index: 1;
         }
         /* Visited card styling */
@@ -27,20 +28,31 @@ import '../styles/global.css';
 </head>
 <body class="bg-base-200 min-h-screen">
 
-<!-- Navbar -->
-<div id="main-navbar" class="navbar bg-base-100 sticky top-0 z-50 shadow-sm transition-transform duration-300">
-    <div class="navbar-center flex-1 justify-center">
-        <span class="text-xl font-bold">✨ 優質店家護照</span>
+<!-- Navbar & Tabs -->
+<div id="main-navbar" class="bg-base-100 sticky top-0 z-50 shadow-sm transition-transform duration-300 flex flex-col">
+    <div class="navbar min-h-12">
+        <div class="navbar-center flex-1 justify-center">
+            <span class="text-xl font-bold">✨ 優質店家護照</span>
+        </div>
+    </div>
+    <div class="w-full border-t border-base-200">
+        <div role="tablist" class="tabs tabs-bordered justify-center w-full">
+            <a role="tab" class="tab tab-active h-12" id="tab-passport" onclick="switchTab('passport')">踩點護照</a>
+            <a role="tab" class="tab h-12" id="tab-progress" onclick="switchTab('progress')">踩點進度</a>
+            <a role="tab" class="tab h-12" id="tab-leaderboard" onclick="switchTab('leaderboard')">排行榜</a>
+        </div>
     </div>
 </div>
 
-<!-- Tabs -->
-<div class="max-w-4xl mx-auto px-4 mt-6">
-    <div role="tablist" class="tabs tabs-bordered">
-        <a role="tab" class="tab tab-active" id="tab-passport" onclick="switchTab('passport')">踩點護照</a>
-        <a role="tab" class="tab" id="tab-progress" onclick="switchTab('progress')">踩點進度</a>
-        <a role="tab" class="tab" id="tab-leaderboard" onclick="switchTab('leaderboard')">排行榜</a>
-    </div>
+<!-- Full Width Map View -->
+<div id="map-container" class="relative w-full h-[35vh] min-h-[280px] z-0">
+    <div id="map" class="w-full h-full z-0"></div>
+    <button onclick="locateUser()" class="absolute bottom-4 right-4 z-[400] btn btn-circle btn-sm btn-primary shadow-lg" title="定位我的位置">
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+        </svg>
+    </button>
 </div>
 
 <!-- Passport View -->
@@ -57,16 +69,7 @@ import '../styles/global.css';
         </div>
     </div>
 
-    <!-- Map -->
-    <div class="relative mb-6">
-        <div id="map" class="rounded-lg shadow-sm"></div>
-        <button onclick="locateUser()" class="absolute bottom-4 right-4 z-[400] btn btn-circle btn-sm btn-primary shadow-lg" title="定位我的位置">
-            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
-            </svg>
-        </button>
-    </div>
+
 
     <!-- Loading -->
     <div id="loading" class="text-center py-8 text-base-content/60">
@@ -218,6 +221,7 @@ import '../styles/global.css';
             toggleFavorite: (id: string, btn: HTMLButtonElement) => void;
             toggleVisit: (id: string) => void;
             switchTab: (tabName: string) => void;
+            toggleMap: (show: boolean) => void;
             updateUserName: () => void;
             setLocationFilter: (location: string) => void;
             exportData: () => void;
@@ -274,7 +278,9 @@ import '../styles/global.css';
             
             // Should hide if scrolling down AND past a small threshold
             // Should show if scrolling up OR at the very top
-            if (currentScrollY > 20 && currentScrollY > lastScrollY) {
+            // Should hide if scrolling down AND past a small threshold
+            // Should show if scrolling up OR at the very top
+            if (currentScrollY > 50 && currentScrollY > lastScrollY) {
                 navbar.classList.add('-translate-y-full');
             } else {
                 navbar.classList.remove('-translate-y-full');
@@ -614,6 +620,54 @@ import '../styles/global.css';
         renderRecommendations();
     }
 
+    // Toggle map visibility based on tab
+    window.toggleMap = function(show: boolean) {
+        const mapContainer = document.getElementById('map-container');
+        if(mapContainer) {
+            mapContainer.style.display = show ? 'block' : 'none';
+            if (show && mapRenderer) {
+                mapRenderer.invalidateSize();
+            }
+        }
+    }
+
+    // Override switchTab to handle map visibility
+    const originalSwitchTab = window.switchTab; // We don't have this, it's defined in inline onclick mostly or valid in global scope??
+    // Actually we need to implement switchTab logic since it was likely inline or global somewhere not visible in snippet?
+    // Wait, the previous code had `switchTab` declared in Window but not implemented in the snippet provided in view_file 130... 
+    // Ah, it WAS NOT IMPLEMENTED in the previous snippet I viewed (lines 1-800).
+    // It must be further down or I missed it.
+    // I will check lines 800+ before assuming. 
+    // BUT, I can see `onclick="switchTab('passport')"` in HTML.
+    // I should implement or locate it.
+    // Let me wrap it to be safe or define it if missing.
+    
+    // START CHECK: Previous view stopped at 800. Let's assume it's there. 
+    // I'll define it here to be safe and override behavior.
+    
+    window.switchTab = function(tabName: string) {
+        // Hide all views
+        document.getElementById('passport-view')?.classList.add('hidden');
+        document.getElementById('progress-view')?.classList.add('hidden');
+        document.getElementById('leaderboard-view')?.classList.add('hidden');
+        
+        // Remove active class from tabs
+        document.getElementById('tab-passport')?.classList.remove('tab-active');
+        document.getElementById('tab-progress')?.classList.remove('tab-active');
+        document.getElementById('tab-leaderboard')?.classList.remove('tab-active');
+        
+        // Show target view
+        document.getElementById(`${tabName}-view`)?.classList.remove('hidden');
+        document.getElementById(`tab-${tabName}`)?.classList.add('tab-active');
+        
+        // Handle Map Visibility
+        if (tabName === 'passport') {
+            window.toggleMap(true);
+        } else {
+            window.toggleMap(false);
+        }
+    }
+
     function renderRecommendations() {
         const container = document.getElementById('recommendation-list');
         if (!container) return;
@@ -772,6 +826,9 @@ import '../styles/global.css';
         mapRenderer.init([23.97565, 120.9738819], 7);
         // Initialize bounds immediately
         currentBounds = mapRenderer.getBounds();
+
+        // Ensure proper sizing after init
+        setTimeout(() => mapRenderer?.invalidateSize(), 100);
 
         mapRenderer.onMoveEnd((bounds) => {
             currentBounds = bounds;

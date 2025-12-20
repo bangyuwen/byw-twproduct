@@ -70,6 +70,18 @@
       "county": "彰化縣"
     },
     {
+      "name": "東海徐咖啡",
+      "url": "https://www.google.com/maps/search/?api=1&query=苗栗市日新街1號",
+      "place_id": "donghai_xu_coffee_manual",
+      "image_url": null,
+      "description": "隱身苗栗市區老屋街區的低調咖啡館，提供精選單品與手作甜點",
+      "lat": 24.5687,
+      "lng": 120.8187,
+      "category": "咖啡",
+      "city": "苗栗縣",
+      "county": "苗栗縣"
+    },
+    {
       "name": "WeBBerger",
       "url": "https://www.google.com/maps/place/WeBBerger/data=!4m2!3m1!1s0x346e95003b0dbf75:0x5c985500cb1fd1a0",
       "place_id": "0x346e95003b0dbf75:0x5c985500cb1fd1a0",

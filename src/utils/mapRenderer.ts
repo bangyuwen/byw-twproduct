@@ -47,6 +47,9 @@ export class MapRenderer {
         this.elementId = elementId;
     }
 
+    private defaultIcon: any;
+    private visitedIcon: any;
+
     init(center: [number, number], zoom: number): void {
         if (this.map) return;
         
@@ -60,6 +63,26 @@ export class MapRenderer {
             subdomains: 'abcd',
             maxZoom: 20
         }).addTo(this.map);
+
+        // Define icons once
+        const shadowUrl = 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png';
+        const shadowOptions = {
+            shadowUrl: shadowUrl,
+            iconSize: [25, 41],
+            iconAnchor: [12, 41],
+            popupAnchor: [1, -34],
+            shadowSize: [41, 41]
+        };
+
+        this.defaultIcon = new L.Icon({
+            ...shadowOptions,
+            iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-blue.png',
+        });
+
+        this.visitedIcon = new L.Icon({
+            ...shadowOptions,
+            iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-green.png',
+        });
 
         if (this.map) {
             this.map.on('moveend', () => {
@@ -84,34 +107,20 @@ export class MapRenderer {
     }
 
     updateMarkers(shops: any[], visitedShops: string[]): void {
-        if (!this.map) return;
+        if (!this.map || !this.defaultIcon || !this.visitedIcon) return;
         
-        // Define icons
-        const shadowUrl = 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png';
-        const shadowOptions = {
-            shadowUrl: shadowUrl,
-            iconSize: [25, 41],
-            iconAnchor: [12, 41],
-            popupAnchor: [1, -34],
-            shadowSize: [41, 41]
-        };
-
-        const defaultIcon = new L.Icon({
-            ...shadowOptions,
-            iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-blue.png',
-        });
-
-        const visitedIcon = new L.Icon({
-            ...shadowOptions,
-            iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-green.png',
-        });
-        
-        // Clear existing markers
         const mapInstance = this.map;
-        this.markers.forEach(m => mapInstance.removeLayer(m));
-        this.markers.clear();
+        const newShopIds = new Set(shops.map(s => s.id));
 
-        // Add new markers
+        // 1. Remove markers that are no longer in the list (except current-location)
+        for (const [id, marker] of this.markers) {
+            if (id !== 'current-location' && !newShopIds.has(id)) {
+                mapInstance.removeLayer(marker);
+                this.markers.delete(id);
+            }
+        }
+
+        // 2. Add or update markers
         shops.forEach(shop => {
             if (shop.lat && shop.lng) {
                 const isVisited = visitedShops.includes(shop.id);
@@ -119,17 +128,41 @@ export class MapRenderer {
                 const lat = typeof shop.lat === 'number' ? shop.lat : parseFloat(shop.lat);
                 const lng = typeof shop.lng === 'number' ? shop.lng : parseFloat(shop.lng);
 
+                const targetIcon = isVisited ? this.visitedIcon : this.defaultIcon;
+
                 if (!isNaN(lat) && !isNaN(lng)) {
-                    const marker = L.marker([lat, lng], {
-                        icon: isVisited ? visitedIcon : defaultIcon
-                    })
-                        .addTo(mapInstance)
-                        .bindPopup(`
-                            <b>${shop.name}</b><br>
-                            ${shop.category}<br>
-                            ${isVisited ? '✅ 已踩點' : '⬜ 未踩點'}
-                        `);
-                    this.markers.set(shop.id, marker);
+                    if (this.markers.has(shop.id)) {
+                        // Update existing marker
+                        const marker = this.markers.get(shop.id)!;
+                        
+                        // Check if icon needs update (using internal _icon property or just re-setting which is cheap if same ref)
+                        // Leaflet markers have options.icon. Since we use stable references for icons now, strict equality works.
+                        if ((marker as any).options.icon !== targetIcon) {
+                           (marker as any).setIcon(targetIcon);
+                           // Re-bind popup to update text (e.g. visited status text)
+                           // Note: re-binding popup on an open popup might close it or update it. 
+                           // Leaflet's bindPopup usually updates the content without closing if it's open, 
+                           // but to be safe we can use setPopupContent if we had the popup instance.
+                           // Simplest is just bindPopup again.
+                           marker.bindPopup(`
+                                <b>${shop.name}</b><br>
+                                ${shop.category}<br>
+                                ${isVisited ? '✅ 已踩點' : '⬜ 未踩點'}
+                            `);
+                        }
+                    } else {
+                        // Create new marker
+                        const marker = L.marker([lat, lng], {
+                            icon: targetIcon
+                        })
+                            .addTo(mapInstance)
+                            .bindPopup(`
+                                <b>${shop.name}</b><br>
+                                ${shop.category}<br>
+                                ${isVisited ? '✅ 已踩點' : '⬜ 未踩點'}
+                            `);
+                        this.markers.set(shop.id, marker);
+                    }
                 }
             }
         });

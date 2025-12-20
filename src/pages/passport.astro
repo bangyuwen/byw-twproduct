@@ -196,7 +196,7 @@ import '../styles/global.css';
 </footer>
 
 <script>
-    import { fetchGluttonyData } from "../utils/api";
+    import { fetchAllShops } from "../utils/api";
     import { getRecommendations, preprocessPlaces, type ProcessedPlace, type RecommendedPlace, type SimilarShop } from "../utils/recommendations";
     import { MapRenderer, type MapBounds } from "../utils/mapRenderer";
     import {
@@ -240,6 +240,7 @@ import '../styles/global.css';
         popularity: number;
         cfScore?: number;        // Optional for recommended shops
         similarTo?: SimilarShop[];       // Optional for recommended shops
+        source?: string;
     }
 
     interface LeaderboardEntry {
@@ -277,7 +278,7 @@ import '../styles/global.css';
     async function fetchData() {
         try {
             // Fetch data directly
-            const data = await fetchGluttonyData();
+            const data = await fetchAllShops();
 
             if (!data.places || data.places.length === 0) {
                 const loadingEl = document.getElementById('loading');
@@ -292,12 +293,22 @@ import '../styles/global.css';
             const processedPlaces = preprocessPlaces(data.places);
 
             // Map to local shop format while keeping ProcessedPlace properties
-            allShops = processedPlaces.map(place => ({
-                ...place, // Includes place_id, recent_visitors, visitorSet, visitorCount
-                id: place.place_id, // Adapter for local UI use
-                map_url: place.url, // Adapter for local UI use
-                popularity: place.visitorCount // Use pre-calculated count
-            }));
+            allShops = processedPlaces.map(place => {
+                let cat = place.category;
+                // Normalize categories from island.json to match existing gluttony conventions
+                if (cat === '咖啡廳') cat = '咖啡';
+                if (cat === 'Tea' || cat === '飲料店') cat = '飲料';
+                if (cat === 'Bar' || cat === '餐酒館' || cat === '居酒屋') cat = '酒吧';
+
+                return {
+                    ...place, // Includes place_id, recent_visitors, visitorSet, visitorCount
+                    category: cat, // Use normalized category
+                    id: place.place_id, // Adapter for local UI use
+                    map_url: place.url, // Adapter for local UI use
+                    popularity: place.visitorCount, // Use pre-calculated count
+                    source: place.source
+                };
+            });
 
             if (allShops.length === 0) {
                 const loadingEl = document.getElementById('loading');
@@ -512,9 +523,21 @@ import '../styles/global.css';
             let visualIcon = '🇹🇼';
             if (shop.category === '美食') visualIcon = '🍜';
             else if (shop.category === '咖啡') visualIcon = '☕';
+            else if (shop.category === '甜點') visualIcon = '🍰';
+            else if (shop.category === '冰品') visualIcon = '🍧';
+            else if (shop.category === '飲料') visualIcon = '🥤';
+            else if (shop.category === '酒吧') visualIcon = '🍺';
             else if (shop.category === '景點') visualIcon = '⛩️';
             else if (shop.category === '書店') visualIcon = '📚';
+            else if (shop.category === '藝文') visualIcon = '🎨';
             else if (shop.category === '生活') visualIcon = '🏠';
+            else if (shop.category === '住宿') visualIcon = '🏨';
+            else if (shop.category === '寵物') visualIcon = '🐾';
+            else if (shop.category === '美容') visualIcon = '💇';
+            else if (shop.category === '購物') visualIcon = '🛍️';
+            else if (shop.category === '醫療') visualIcon = '🏥';
+            else if (shop.category === '運動') visualIcon = '💪';
+            else if (shop.category === '其他') visualIcon = '✨';
 
             const visitors = shop.visitors || [];
             const visitorsHtml = visitors.length > 0
@@ -567,7 +590,7 @@ import '../styles/global.css';
                                 ${showRecommendBadge ? '<span class="badge badge-primary badge-xs ml-1">推薦</span>' : ''}
                                 ${isClosed ? '<span class="badge badge-neutral badge-xs ml-1">永久歇業</span>' : ''}
                             </h3>
-                            <span class="text-xs text-base-content/50">${shop.category} · ${collectionTitle}</span>
+                            <span class="text-xs text-base-content/50">${shop.category} · ${shop.source || collectionTitle}</span>
                         </div>
                     </div>
                     <p class="text-sm text-base-content/60 line-clamp-2 mt-2">${shop.description || '暫無介紹'}</p>
@@ -738,9 +761,20 @@ import '../styles/global.css';
             let visualIcon = '🇹🇼';
             if (shop.category === '美食') visualIcon = '🍜';
             else if (shop.category === '咖啡') visualIcon = '☕';
+            else if (shop.category === '甜點') visualIcon = '🍰';
+            else if (shop.category === '冰品') visualIcon = '🍧';
+            else if (shop.category === '飲料') visualIcon = '🥤';
+            else if (shop.category === '酒吧') visualIcon = '🍺';
             else if (shop.category === '景點') visualIcon = '⛩️';
             else if (shop.category === '書店') visualIcon = '📚';
+            else if (shop.category === '藝文') visualIcon = '🎨';
             else if (shop.category === '生活') visualIcon = '🏠';
+            else if (shop.category === '住宿') visualIcon = '🏨';
+            else if (shop.category === '寵物') visualIcon = '🐾';
+            else if (shop.category === '美容') visualIcon = '💇';
+            else if (shop.category === '購物') visualIcon = '🛍️';
+            else if (shop.category === '醫療') visualIcon = '🏥';
+            else if (shop.category === '運動') visualIcon = '💪';
 
             const similarToHtml = (shop.similarTo && shop.similarTo.length > 0)
                 ? `<div class="text-xs text-primary mt-1">

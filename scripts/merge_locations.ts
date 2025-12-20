@@ -50,6 +50,21 @@ async function main() {
                     place.county = match.county;
                     changed = true;
                 }
+                // Update category if it's default
+                if ((!place.category || place.category === "島國") && match.category) {
+                    place.category = match.category;
+                    changed = true;
+                }
+                // Update description if empty
+                if ((!place.description || place.description === "") && match.description) {
+                    place.description = match.description;
+                    changed = true;
+                }
+                // Update image if missing
+                if (!place.image_url && match.image_url) {
+                    place.image_url = match.image_url;
+                    changed = true;
+                }
                 // Optional: update description if empty? No, user wanted it removed/regenerated.
                 if (changed) updatedCount++;
             }

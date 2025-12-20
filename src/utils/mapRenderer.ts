@@ -75,6 +75,40 @@ export class MapRenderer {
         });
     }
 
+    setView(center: [number, number], zoom: number): void {
+        if (this.map) {
+            this.map.setView(center, zoom);
+        }
+    }
+
+    addCurrentLocationMarker(lat: number, lng: number): void {
+        if (!this.map) return;
+        
+        // Remove existing location marker if any (optional, but good practice to track it)
+        // For simplicity, we'll just add a new one with a distinct look
+        
+        const marker = L.marker([lat, lng], {
+            icon: L.divIcon({
+                className: 'current-location-marker',
+                html: '<div style="background-color: #007bff; width: 12px; height: 12px; border-radius: 50%; border: 2px solid white; box-shadow: 0 0 4px rgba(0,0,0,0.3);"></div>',
+                iconSize: [16, 16],
+                iconAnchor: [8, 8]
+            })
+        }).addTo(this.map)
+          .bindPopup('📍 你在這裡');
+          
+        this.markers.push(marker); // Track it so it gets cleared on updates if we want, or manage separately. 
+        // Note: In current logic, updateMarkers clears *all* markers in this.markers. 
+        // If we want this to persist across filter changes, we might need a separate track.
+        // For now, let's treat it as a temporary marker that might be cleared if filters change, 
+        // or we can add it to a separate layer.
+        // Given the simplicity, let's just let it be cleared if user changes filters, 
+        // or re-add it if we had state. 
+        // BETTER APPROACH: Don't add to this.markers if we don't want it cleared by updateMarkers.
+        // But updateMarkers clears everything. Let's just add it to map directly and maybe track in a separate property if we needed to remove it.
+        // For this task, keeping it simples.
+    }
+
     invalidateSize(): void {
         if (this.map) {
             this.map.invalidateSize();

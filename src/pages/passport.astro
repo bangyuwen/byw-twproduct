@@ -16,8 +16,13 @@ import '../styles/global.css';
             z-index: 1;
         }
         /* Visited card styling */
-        .shop-card.visited { opacity: 0.8; }
-        .shop-card.visited:hover { opacity: 1; }
+        .shop-card.visited { 
+            border: 1px solid #36d399; /* success color */
+            background-color: rgba(54, 211, 153, 0.05);
+        }
+        .shop-card.visited:hover { 
+            background-color: rgba(54, 211, 153, 0.1);
+        }
     </style>
 </head>
 <body class="bg-base-200 min-h-screen">
@@ -458,6 +463,7 @@ import '../styles/global.css';
             visitedShops = addVisitedShop(id);
         }
         renderShops();
+        updateMapMarkers();
         updateProgress();
     }
 

@@ -86,6 +86,26 @@ export class MapRenderer {
     updateMarkers(shops: any[], visitedShops: string[]): void {
         if (!this.map) return;
         
+        // Define icons
+        const shadowUrl = 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png';
+        const shadowOptions = {
+            shadowUrl: shadowUrl,
+            iconSize: [25, 41],
+            iconAnchor: [12, 41],
+            popupAnchor: [1, -34],
+            shadowSize: [41, 41]
+        };
+
+        const defaultIcon = new L.Icon({
+            ...shadowOptions,
+            iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-blue.png',
+        });
+
+        const visitedIcon = new L.Icon({
+            ...shadowOptions,
+            iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-green.png',
+        });
+        
         // Clear existing markers
         const mapInstance = this.map;
         this.markers.forEach(m => mapInstance.removeLayer(m));
@@ -100,7 +120,9 @@ export class MapRenderer {
                 const lng = typeof shop.lng === 'number' ? shop.lng : parseFloat(shop.lng);
 
                 if (!isNaN(lat) && !isNaN(lng)) {
-                    const marker = L.marker([lat, lng])
+                    const marker = L.marker([lat, lng], {
+                        icon: isVisited ? visitedIcon : defaultIcon
+                    })
                         .addTo(mapInstance)
                         .bindPopup(`
                             <b>${shop.name}</b><br>

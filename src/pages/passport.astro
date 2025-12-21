@@ -38,7 +38,6 @@ import '../styles/global.css';
         <div class="flex-1 w-full sm:w-auto overflow-x-auto">
             <div role="tablist" class="tabs tabs-bordered justify-start sm:justify-center w-full">
                 <a role="tab" class="tab tab-active h-12 whitespace-nowrap" id="tab-passport" onclick="switchTab('passport')">踩點護照</a>
-                <a role="tab" class="tab h-12 whitespace-nowrap" id="tab-progress" onclick="switchTab('progress')">踩點進度</a>
             </div>
         </div>
     </div>
@@ -81,6 +80,7 @@ import '../styles/global.css';
          <div id="filter-categories" class="flex gap-2 flex-1 overflow-x-auto scrollbar-hide items-center">
             <button class="btn btn-sm btn-primary whitespace-nowrap" id="btn-mode-all" onclick="setFilter('all', this)">全部</button>
             <button class="btn btn-sm btn-ghost whitespace-nowrap" id="btn-mode-recommend" onclick="setFilter('recommend', this)">推薦</button>
+            <button class="btn btn-sm btn-ghost whitespace-nowrap" id="btn-mode-visited" onclick="setFilter('visited', this)">去過</button>
             <div class="divider divider-horizontal mx-0"></div>
             <button class="btn btn-sm btn-ghost gap-1 whitespace-nowrap" onclick="openCategoryDialog()">
                 類別篩選
@@ -104,44 +104,7 @@ import '../styles/global.css';
     </div>
 </div>
 
-<!-- Progress View -->
-<div id="progress-view" class="hidden max-w-4xl mx-auto p-4">
-    <div class="card bg-base-100 shadow-sm cursor-pointer hover:shadow-md transition-shadow" onclick="showVisited()" title="點擊查看已去過的店家">
-        <div class="card-body p-4">
-            <div class="flex justify-between items-center text-sm">
-                <span id="progress-text" class="font-medium">踩點進度：0 / 0</span>
-                <span id="level-text" class="badge badge-warning">新手上路</span>
-            </div>
-            <progress id="progress-fill" class="progress progress-success w-full" value="0" max="100"></progress>
-        </div>
-    </div>
-    
-    <div class="mt-6">
-        <h3 class="font-bold text-lg mb-4">✨ 推薦給你</h3>
-        <div id="recommendation-list" class="grid grid-cols-1 sm:grid-cols-2 gap-4">
-            <!-- Recommendations will be rendered here -->
-        </div>
-    </div>
 
-    <div class="mt-8">
-        <h3 class="font-bold text-lg mb-4">🏆 成就系統</h3>
-        <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
-            <!-- Badges placeholders or future content -->
-             <div class="card bg-base-100 shadow-sm">
-                <div class="card-body p-4">
-                    <h4 class="font-bold text-sm">新手上路</h4>
-                    <p class="text-xs text-base-content/60">開始你的第一次踩點</p>
-                </div>
-            </div>
-             <div class="card bg-base-100 shadow-sm opacity-50">
-                <div class="card-body p-4">
-                    <h4 class="font-bold text-sm">Coming Soon...</h4>
-                    <p class="text-xs text-base-content/60">更多成就解鎖中</p>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
 
 
 
@@ -762,7 +725,7 @@ import '../styles/global.css';
             const explainDiv = document.createElement('div');
             explainDiv.className = 'col-span-full mb-4 p-3 bg-primary/10 rounded-lg text-sm text-center';
             explainDiv.innerHTML = visitedShops.length > 0
-                ? '🤝 根據相似玩家 + 相似店家推薦（Hybrid CF）'
+                ? '🤝 根據你的踩點紀錄推薦（Content-Based）'
                 : '🌟 你還沒踩點，先推薦熱門店家給你';
             container.appendChild(explainDiv);
         }
@@ -1140,7 +1103,8 @@ import '../styles/global.css';
 
         // Special handling for Recommendation
         if (filterType === 'recommend') {
-             const places = getRecommendations(shops as ProcessedPlace[], visitedIds);
+             // Use statusMap global variable
+             const places = getRecommendations(shops as ProcessedPlace[], statusMap);
              // Map returns (LocalShop | null)[]
              const mapped: (LocalShop | null)[] = places.map((s): LocalShop | null => {
                   const rec = s as RecommendedPlace;
@@ -1162,6 +1126,12 @@ import '../styles/global.css';
                 return status !== 'dislike';
              });
         } 
+        else if (filterType === 'visited') {
+            result = shops.filter(shop => {
+                const status = statusMap[shop.id];
+                return status === 'visited' || status === 'like' || status === 'dislike';
+            });
+        }
         else {
             // General Filtering
             result = [...shops];

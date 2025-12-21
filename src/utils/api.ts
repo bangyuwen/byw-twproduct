@@ -14,10 +14,10 @@ export class FetchError extends Error {
 export async function fetchAllShops(): Promise<GluttonyData> {
     try {
         const [gluttonyRes, islandRes, supportRes, babyRes] = await Promise.all([
-            fetch('/byw-mit/gluttony.json'),
-            fetch('/byw-mit/island.json'),
-            fetch('/byw-mit/support.json'),
-            fetch('/byw-mit/baby.json')
+            fetch('/byw-mit/lists/gluttony.json'),
+            fetch('/byw-mit/lists/island.json'),
+            fetch('/byw-mit/lists/support.json'),
+            fetch('/byw-mit/lists/baby.json')
         ]);
 
         if (!gluttonyRes.ok) throw new Error(`Failed to fetch gluttony data: ${gluttonyRes.statusText}`);

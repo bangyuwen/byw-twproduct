@@ -9,9 +9,7 @@ import type { Place } from "./api";
 export interface ProcessedPlace extends Place {
     /** Total number of visitors */
     visitorCount: number;
-    /** Array of visitor IDs */
     visitors: string[];
-    popular_product?: string;
 }
 
 /**

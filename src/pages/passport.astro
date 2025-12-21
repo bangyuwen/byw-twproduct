@@ -96,6 +96,20 @@ import '../styles/global.css';
     </div>
 
     <!-- Shop Grid -->
+    
+    <!-- Progress Container (Hidden by default) -->
+    <div id="progress-container" class="hidden mb-6 bg-base-100 p-4 rounded-xl shadow-sm border border-base-200">
+        <div class="flex justify-between items-center mb-2">
+            <div class="flex items-center gap-2">
+                <h3 class="font-bold text-lg">我的踩點成就</h3>
+                <span id="level-text" class="badge badge-primary badge-lg">新手上路</span>
+            </div>
+            <span id="progress-text" class="text-sm font-semibold text-primary">0 / 0</span>
+        </div>
+        <progress id="progress-fill" class="progress progress-primary w-full h-3" value="0" max="100"></progress>
+        <p class="text-xs text-base-content/60 mt-2 text-center">加油！繼續探索更多台灣在地優質店家！</p>
+    </div>
+
     <div id="shop-list" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
     </div>
 </div>
@@ -682,6 +696,16 @@ import '../styles/global.css';
         const container = document.getElementById('shop-list');
         if (!container) return; // Null check
         container.innerHTML = '';
+
+        // Toggle Progress Container visibility
+        const progressContainer = document.getElementById('progress-container');
+        if (progressContainer) {
+            if (currentFilter === 'visited') {
+                progressContainer.classList.remove('hidden');
+            } else {
+                progressContainer.classList.add('hidden');
+            }
+        }
 
         let filtered: LocalShop[] = []; // Explicit type
         let isRecommend = false;

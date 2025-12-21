@@ -11,6 +11,7 @@ export interface ProcessedPlace extends Place {
     visitorCount: number;
     /** Array of visitor IDs */
     visitors: string[];
+    popular_product?: string;
 }
 
 /**

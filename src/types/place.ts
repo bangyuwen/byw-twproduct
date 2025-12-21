@@ -11,6 +11,7 @@ export interface Place {
     city?: string;
     permanently_closed?: boolean;
     source?: string;
+    popular_product?: string;
 }
 
 export interface PlaceData {

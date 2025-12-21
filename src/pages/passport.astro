@@ -310,6 +310,7 @@ import '../styles/global.css';
         cfScore?: number;        // Optional for recommended shops
         similarTo?: SimilarShop[];       // Optional for recommended shops
         source?: string;
+        popular_product?: string;
     }
 
     let allShops: LocalShop[] = [];
@@ -394,7 +395,8 @@ import '../styles/global.css';
                     id: place.place_id, // Adapter for local UI use
                     map_url: place.url, // Adapter for local UI use
                     popularity: place.visitorCount, // Use pre-calculated count
-                    source: place.source
+                    source: place.source,
+                    popular_product: place.popular_product
                 };
             });
 
@@ -843,7 +845,15 @@ import '../styles/global.css';
                             </svg>
                          </a>
                     </div>
-                    <p class="text-sm text-base-content/60 line-clamp-2 mt-2">${shop.description || '暫無介紹'}</p>
+                    ${shop.description ? `<p class="text-sm text-base-content/60 line-clamp-2 mt-2">${shop.description}</p>` : ''}
+
+                    ${shop.popular_product && shop.popular_product !== '沒有' ? `
+                        <div class="flex items-center gap-1.5 mt-2 text-xs text-base-content/60">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-3.5 h-3.5 opacity-70">
+                                <path fill-rule="evenodd" d="M10.868 2.884c-.321-.772-1.415-.772-1.736 0l-1.83 4.401-4.753.381c-.833.067-1.171 1.107-.536 1.651l3.62 3.102-1.106 4.637c-.194.813.691 1.456 1.405 1.02L10 15.591l4.069 2.485c.713.436 1.598-.207 1.404-1.02l-1.106-4.637 3.62-3.102c.635-.544.297-1.584-.536-1.65l-4.752-.382-1.831-4.401z" clip-rule="evenodd" />
+                            </svg>
+                            <span>${shop.popular_product}</span>
+                        </div>` : ''}
 
                     ${similarToHtml}
                     ${visitorsHtml}

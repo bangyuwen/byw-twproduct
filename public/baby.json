@@ -1,0 +1,2257 @@
+{
+  "title": "寶寶",
+  "count": 225,
+  "extracted_at": "2025-12-21T15:17:15.553534",
+  "places": [
+    {
+      "name": "三腳與米娜食所",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.1297015,121.7390949",
+      "place_id": "e984df1e1c79d710cdbccb426a553bc8",
+      "description": "",
+      "lat": 25.1297015,
+      "lng": 121.7390949,
+      "category": "美食",
+      "city": "基隆市"
+    },
+    {
+      "name": "家傳加熱滷味",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.0975112,121.7144598",
+      "place_id": "af6d909eb9ca817f25820adb19c387d3",
+      "description": "",
+      "lat": 25.0975112,
+      "lng": 121.7144598,
+      "category": "美食",
+      "city": "基隆市"
+    },
+    {
+      "name": "明日のお弁当",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.993483,121.542154",
+      "place_id": "61025fcfdd07702a7a6ae0627e137217",
+      "description": "",
+      "lat": 24.993483,
+      "lng": 121.542154,
+      "category": "美食",
+      "city": "臺北市"
+    },
+    {
+      "name": "九月茶餐廳",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.0598011,121.5184459",
+      "place_id": "842bd1a2bbe9a0318ba92d3325c16f33",
+      "description": "",
+      "lat": 25.0598011,
+      "lng": 121.5184459,
+      "category": "美食",
+      "city": "臺北市"
+    },
+    {
+      "name": "Rainma Café Bistro/信義老宅餐酒館/寵物友善",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.0352757,121.5582138",
+      "place_id": "b1e5382dd5c8d3e331fe166d7fb2cc89",
+      "description": "",
+      "lat": 25.0352757,
+      "lng": 121.5582138,
+      "category": "美食",
+      "city": "臺北市"
+    },
+    {
+      "name": "晴天廚房",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.0328509,121.5201389",
+      "place_id": "98ab27731fb0f12a3ea1cb50055e2445",
+      "description": "",
+      "lat": 25.0328509,
+      "lng": 121.5201389,
+      "category": "美食",
+      "city": "臺北市"
+    },
+    {
+      "name": "好味盒餐BonAppétit(信義永春店)-健康餐盒 便當外送",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.0428777,121.5754911",
+      "place_id": "186fa4c3e3393a0f8f4faf0cfa7bf8fa",
+      "description": "",
+      "lat": 25.0428777,
+      "lng": 121.5754911,
+      "category": "美食",
+      "city": "臺北市"
+    },
+    {
+      "name": "養生健康站｜蔬食早餐店",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.071934,121.6625952",
+      "place_id": "fe878f8666cd9e311bc4e674f9c92b53",
+      "description": "",
+      "lat": 25.071934,
+      "lng": 121.6625952,
+      "category": "美食",
+      "city": "新北市"
+    },
+    {
+      "name": "好味盒餐BonAppétit(松山八德店)-健康餐盒 便當外送",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.048425,121.5549897",
+      "place_id": "51c1073287993c3775f0e7586840b90d",
+      "description": "",
+      "lat": 25.048425,
+      "lng": 121.5549897,
+      "category": "美食",
+      "city": "臺北市"
+    },
+    {
+      "name": "骨力牛食堂 艋舺店",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.0306637,121.4957704",
+      "place_id": "0e52fce7bacf39bc76d47815f726197a",
+      "description": "",
+      "lat": 25.0306637,
+      "lng": 121.4957704,
+      "category": "美食",
+      "city": "臺北市"
+    },
+    {
+      "name": "蘭鄉排骨飯",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.0433444,121.5246753",
+      "place_id": "494d87182051c7e17fb50bbb2b8bfb5d",
+      "description": "",
+      "lat": 25.0433444,
+      "lng": 121.5246753,
+      "category": "美食",
+      "city": "臺北市"
+    },
+    {
+      "name": "樂錡食堂",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.1817426,120.6964749",
+      "place_id": "2ce2e138d66aba5c77e8dc18a7fc4680",
+      "description": "",
+      "lat": 24.1817426,
+      "lng": 120.6964749,
+      "category": "美食",
+      "city": "臺中市"
+    },
+    {
+      "name": "優客義大利麵",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.1712477,120.6510582",
+      "place_id": "e2f390472800f8ea873cda9bf7952e04",
+      "description": "",
+      "lat": 24.1712477,
+      "lng": 120.6510582,
+      "category": "美食",
+      "city": "臺中市"
+    },
+    {
+      "name": "好事House157_咖啡鹹食(與11樓之3共用空間）",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.174962,120.6900096",
+      "place_id": "438073f11099552bb6b87f11855713d2",
+      "description": "",
+      "lat": 24.174962,
+      "lng": 120.6900096,
+      "category": "美食",
+      "city": "臺中市"
+    },
+    {
+      "name": "壹野餐桌",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.1513991,120.61271",
+      "place_id": "3e0b28c1edb74cee70f9524a59061ae8",
+      "description": "",
+      "lat": 24.1513991,
+      "lng": 120.61271,
+      "category": "美食",
+      "city": "臺中市"
+    },
+    {
+      "name": "貓尾巴 烤飯糰餐盒第一品牌 鍋邊素蔬食友善 日式炊飯 下午茶 外送預約 會議便當 日式點心餐盒 手毬壽司野餐組合",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.1758825,120.6423742",
+      "place_id": "7000204b18d82b11845c24fe8677765d",
+      "description": "",
+      "lat": 24.1758825,
+      "lng": 120.6423742,
+      "category": "美食",
+      "city": "臺中市"
+    },
+    {
+      "name": "肆柒 預約制料理食堂 | 請透過臉書或IG訂位",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.135617,120.6606",
+      "place_id": "612a6eb3cbd151888cd42be3c2fe6766",
+      "description": "",
+      "lat": 24.135617,
+      "lng": 120.6606,
+      "category": "美食",
+      "city": "臺中市"
+    },
+    {
+      "name": "明賢行",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.148009,120.6814158",
+      "place_id": "10bb590482b0b7289a01cbe4763752a3",
+      "description": "",
+      "lat": 24.148009,
+      "lng": 120.6814158,
+      "category": "美食",
+      "city": "臺中市"
+    },
+    {
+      "name": "鍋全日式火鍋店鍋(豐原店)《隱藏版鍋物》豐原區日式涮涮鍋｜人氣個人鍋｜特色鍋物｜精緻小火鍋｜日式鍋物｜聚餐鍋物｜火鍋包廂",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.2606601,120.7243676",
+      "place_id": "4708b22006e4e5e4b7bb1ec475b0d9c5",
+      "description": "",
+      "lat": 24.2606601,
+      "lng": 120.7243676,
+      "category": "美食",
+      "city": "臺中市"
+    },
+    {
+      "name": "青食光輕食沙拉·三明治/健康早午晚餐",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.1560202,120.6474599",
+      "place_id": "c5545ade24cbbf2783f34d0f3011d39e",
+      "description": "",
+      "lat": 24.1560202,
+      "lng": 120.6474599,
+      "category": "美食",
+      "city": "臺中市"
+    },
+    {
+      "name": "BVKcurry 必咖哩",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.0698902,120.5369511",
+      "place_id": "55033ca6a655ae9fad640a5e6a9373ee",
+      "description": "",
+      "lat": 24.0698902,
+      "lng": 120.5369511,
+      "category": "美食",
+      "city": "彰化縣"
+    },
+    {
+      "name": "貳陸陸杉Space",
+      "url": "https://www.google.com/maps/search/?api=1&query=23.4817667,120.460084",
+      "place_id": "fd945da1b0b12b5c208c14f5e443f9f2",
+      "description": "",
+      "lat": 23.4817667,
+      "lng": 120.460084,
+      "category": "美食",
+      "city": "嘉義市"
+    },
+    {
+      "name": "曾家小館",
+      "url": "https://www.google.com/maps/search/?api=1&query=23.3137667,120.3188747",
+      "place_id": "5e0dfc6b1fd2609f36a4bf6f1156f1d3",
+      "description": "",
+      "lat": 23.3137667,
+      "lng": 120.3188747,
+      "category": "美食",
+      "city": "臺南市"
+    },
+    {
+      "name": "小肉²控 豆乳雞-開心店",
+      "url": "https://www.google.com/maps/search/?api=1&query=23.010123,120.2248369",
+      "place_id": "cb6d093131a950c76a4206560df870a6",
+      "description": "",
+      "lat": 23.010123,
+      "lng": 120.2248369,
+      "category": "美食",
+      "city": "臺南市"
+    },
+    {
+      "name": "小肉² 控 豆乳雞-香香店",
+      "url": "https://www.google.com/maps/search/?api=1&query=23.020821,120.2235976",
+      "place_id": "03b02782af6e9350b5055026dc6e5ab7",
+      "description": "",
+      "lat": 23.020821,
+      "lng": 120.2235976,
+      "category": "美食",
+      "city": "臺南市"
+    },
+    {
+      "name": "鹿耳晚晚早餐",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.9842419,120.2151697",
+      "place_id": "ee8b060fec95d99440fd639c811b2ac4",
+      "description": "",
+      "lat": 22.9842419,
+      "lng": 120.2151697,
+      "category": "美食",
+      "city": "臺南市"
+    },
+    {
+      "name": "文化虱目魚丸",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.7537421,121.1510826",
+      "place_id": "64d0fe7a1a00df4b6fa466dbe74ef8ca",
+      "description": "",
+      "lat": 22.7537421,
+      "lng": 121.1510826,
+      "category": "美食",
+      "city": "臺東縣"
+    },
+    {
+      "name": "原味廚神",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.88121,121.2328156",
+      "place_id": "5361f285a16dc2c6419c36c4a1c83981",
+      "description": "",
+      "lat": 22.88121,
+      "lng": 121.2328156,
+      "category": "美食",
+      "city": "臺東縣"
+    },
+    {
+      "name": "三號麵館 Noodles Bar | 烏龍麵、炸物、串燒 (週六：同安廟口夜市）",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.5967042,121.8362762",
+      "place_id": "80d5fe770d6d395c090851be9e12bc07",
+      "description": "",
+      "lat": 24.5967042,
+      "lng": 121.8362762,
+      "category": "美食",
+      "city": "宜蘭縣"
+    },
+    {
+      "name": "四季花緒",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.7215528,121.7382651",
+      "place_id": "a8de7c80a7bc0e7010637b0fa5842e9c",
+      "description": "",
+      "lat": 24.7215528,
+      "lng": 121.7382651,
+      "category": "美食",
+      "city": "宜蘭縣"
+    },
+    {
+      "name": "好吃雞肉飯＆蝦仁羹",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.0099919,121.4559786",
+      "place_id": "48a1628ce8ef7c107c7945c197e4043a",
+      "description": "",
+      "lat": 25.0099919,
+      "lng": 121.4559786,
+      "category": "美食",
+      "city": "新北市"
+    },
+    {
+      "name": "日于府城人情販賣所「最新公休/營業時間於 IG 公告」消耗E人·友善I人",
+      "url": "https://www.google.com/maps/search/?api=1&query=23.0065259,120.2187669",
+      "place_id": "a0469ec7171003f59a0b938ced6ad718",
+      "description": "",
+      "lat": 23.0065259,
+      "lng": 120.2187669,
+      "category": "美食",
+      "city": "臺南市"
+    },
+    {
+      "name": "Oh Mo貓吃",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.9937593,120.1726907",
+      "place_id": "a5723c33c40fadd5a69901ba386e36ed",
+      "description": "",
+      "lat": 22.9937593,
+      "lng": 120.1726907,
+      "category": "美食",
+      "city": "臺南市"
+    },
+    {
+      "name": "愛尼香豆腐 酵素臭豆腐 素食 六日公休",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.987665,120.211204",
+      "place_id": "967113cf1927d1d50169a3427c697633",
+      "description": "",
+      "lat": 22.987665,
+      "lng": 120.211204,
+      "category": "美食",
+      "city": "臺南市"
+    },
+    {
+      "name": "龍哥斯特｜海鮮餐廳",
+      "url": "https://www.google.com/maps/search/?api=1&query=23.986477,121.587786",
+      "place_id": "7c3b7b1b0b1c471c33273a390dcf6542",
+      "description": "",
+      "lat": 23.986477,
+      "lng": 121.587786,
+      "category": "美食",
+      "city": "花蓮縣"
+    },
+    {
+      "name": "虎緣鐵板燒｜歡迎來電訂位｜附設特約停車場（俥停虎尾文化停車場）",
+      "url": "https://www.google.com/maps/search/?api=1&query=23.705644,120.429244",
+      "place_id": "12f888dc5dd24e80e3ab9e8378d83478",
+      "description": "",
+      "lat": 23.705644,
+      "lng": 120.429244,
+      "category": "美食",
+      "city": "雲林縣"
+    },
+    {
+      "name": "Smoko Salad Bar",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.611531,120.3074993",
+      "place_id": "47bb2f38eeff97dc6da83634b7306a76",
+      "description": "",
+      "lat": 22.611531,
+      "lng": 120.3074993,
+      "category": "美食",
+      "city": "高雄市"
+    },
+    {
+      "name": "貓之家俱樂部",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.6686217,120.2999092",
+      "place_id": "3a54ada71a3e6d674f92c0fc23489c62",
+      "description": "",
+      "lat": 22.6686217,
+      "lng": 120.2999092,
+      "category": "美食",
+      "city": "高雄市"
+    },
+    {
+      "name": "LAICHIAH",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.6380932,120.3925242",
+      "place_id": "968272fba1e3f6ee3d2851f9b15b4232",
+      "description": "",
+      "lat": 22.6380932,
+      "lng": 120.3925242,
+      "category": "美食",
+      "city": "高雄市"
+    },
+    {
+      "name": "Miss Mimi",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.6688902,120.2998159",
+      "place_id": "42dcbfe533ab50274b86fe5559b185c7",
+      "description": "",
+      "lat": 22.6688902,
+      "lng": 120.2998159,
+      "category": "美食",
+      "city": "高雄市"
+    },
+    {
+      "name": "前金肉燥飯",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.6272142,120.2954394",
+      "place_id": "7b1d59d877c0cca2e955346eaecc0a71",
+      "description": "",
+      "lat": 22.6272142,
+      "lng": 120.2954394,
+      "category": "美食",
+      "city": "高雄市"
+    },
+    {
+      "name": "好窩「大社創始店」/椒麻雞/日式豬排/大社美食",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.7291126,120.3514666",
+      "place_id": "9dd6225f4c5f07884ddfcac9411e00ed",
+      "description": "",
+      "lat": 22.7291126,
+      "lng": 120.3514666,
+      "category": "美食",
+      "city": "高雄市"
+    },
+    {
+      "name": "清香園客家美食",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.6649196,120.3040142",
+      "place_id": "52e46c6f94668e1055f85f995f5c1988",
+      "description": "",
+      "lat": 22.6649196,
+      "lng": 120.3040142,
+      "category": "美食",
+      "city": "高雄市"
+    },
+    {
+      "name": "食滋味麵食",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.6263527,120.3493632",
+      "place_id": "9eb3215410341f7149fd90ffc7670653",
+      "description": "",
+      "lat": 22.6263527,
+      "lng": 120.3493632,
+      "category": "美食",
+      "city": "高雄市"
+    },
+    {
+      "name": "揭家眷村滷味牛肉麵",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.7948518,121.003377",
+      "place_id": "1f1a377cfe0f922731e6bd7efbe4f737",
+      "description": "",
+      "lat": 24.7948518,
+      "lng": 121.003377,
+      "category": "美食",
+      "city": "新竹市"
+    },
+    {
+      "name": "燒肚-火烤鯛魚燒",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.8160392,121.0291194",
+      "place_id": "0a163ff2e4891235dd9fbee97a5aed4d",
+      "description": "",
+      "lat": 24.8160392,
+      "lng": 121.0291194,
+      "category": "甜點",
+      "city": "新竹縣"
+    },
+    {
+      "name": "台北｜嬉皮麵包｜純素烘焙店",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.0537458,121.5306269",
+      "place_id": "df3d4b64dd53e04cf1a569b8ba18ffb7",
+      "description": "",
+      "lat": 25.0537458,
+      "lng": 121.5306269,
+      "category": "甜點",
+      "city": "臺北市"
+    },
+    {
+      "name": "一起烘培坊 Companio Bakery ",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.9802904,120.2452599",
+      "place_id": "3586f46309ad1b24bcaa59bb2e21371b",
+      "description": "https://www.instagram.com/companio__bakery/https://www.facebook.com/p/%E4%B8%80%E8%B5%B7-Companio-Bakery-100086184447301/",
+      "lat": 22.9802904,
+      "lng": 120.2452599,
+      "category": "甜點",
+      "city": "臺南市"
+    },
+    {
+      "name": "法果子小串烤 凱龍星店 新興區宵夜/寵物友善/I人獨食首選/塔羅紫微洞悉卡",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.6239149,120.3064132",
+      "place_id": "4a55bae9d2f8c2ac8f4db6f001bb5c68",
+      "description": "",
+      "lat": 22.6239149,
+      "lng": 120.3064132,
+      "category": "甜點",
+      "city": "高雄市"
+    },
+    {
+      "name": "日禾狀元糕-蘆洲店",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.0817651,121.4770798",
+      "place_id": "7918a64f1061f51e3bd00624eb84f85e",
+      "description": "",
+      "lat": 25.0817651,
+      "lng": 121.4770798,
+      "category": "甜點",
+      "city": "新北市"
+    },
+    {
+      "name": "犁田鹹酥雞（新興六合店）",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.6324348,120.3086208",
+      "place_id": "604590344e2a4bc16b0c30b66089275b",
+      "description": "",
+      "lat": 22.6324348,
+      "lng": 120.3086208,
+      "category": "甜點",
+      "city": "高雄市"
+    },
+    {
+      "name": "賤人雞蛋糕",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.6206826,120.2828384",
+      "place_id": "e108568c3aaf1afbf3f632b5728c72fc",
+      "description": "https://www.facebook.com/bltchcake4/https://www.instagram.com/bltchcake/",
+      "lat": 22.6206826,
+      "lng": 120.2828384,
+      "category": "甜點",
+      "city": "高雄市"
+    },
+    {
+      "name": "潘朵拉的盒子手作工坊｜麵包、糕點",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.005775,121.6222917",
+      "place_id": "acefcfdf408fbfe19ae35b0ceee3b27f",
+      "description": "",
+      "lat": 24.005775,
+      "lng": 121.6222917,
+      "category": "甜點",
+      "city": "花蓮縣"
+    },
+    {
+      "name": "萬屯麵包工作室",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.9849219,120.2302488",
+      "place_id": "217e4d59e2e14d8890cd7f9dddbda185",
+      "description": "",
+      "lat": 22.9849219,
+      "lng": 120.2302488,
+      "category": "甜點",
+      "city": "臺南市"
+    },
+    {
+      "name": "Baoma脆皮蔥抓餅(休假日FB公告）",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.980497,121.314479",
+      "place_id": "d02c8ba1ad9ba9c028e29e80ce6f22ff",
+      "description": "",
+      "lat": 24.980497,
+      "lng": 121.314479,
+      "category": "甜點",
+      "city": "桃園市"
+    },
+    {
+      "name": "麵麵雞蛋糕/台中西區美食/必吃/甜點/下午茶/附近美食/takeout",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.1485588,120.6637532",
+      "place_id": "c6c16bf7a14cead7ecfa7d7cd0a7fe08",
+      "description": "",
+      "lat": 24.1485588,
+      "lng": 120.6637532,
+      "category": "甜點",
+      "city": "臺中市"
+    },
+    {
+      "name": "孟克牌磅蛋糕",
+      "url": "https://www.google.com/maps/search/?api=1&query=23.973741,120.9452752",
+      "place_id": "263d13773f46583e01c013ab54113dd3",
+      "description": "",
+      "lat": 23.973741,
+      "lng": 120.9452752,
+      "category": "甜點",
+      "city": "南投縣"
+    },
+    {
+      "name": "民主豆花 Bean Tsu Tau Hue | 日式刨冰販售中",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.1610188,120.6842881",
+      "place_id": "fdca7e12213412ebd38d66a8b9c5b29e",
+      "description": "",
+      "lat": 24.1610188,
+      "lng": 120.6842881,
+      "category": "甜點",
+      "city": "臺中市"
+    },
+    {
+      "name": "美軍豆乳冰",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.1445032,120.6614304",
+      "place_id": "2f8cc9ad9fdf3e01da9fbba7946df34a",
+      "description": "",
+      "lat": 24.1445032,
+      "lng": 120.6614304,
+      "category": "甜點",
+      "city": "臺中市"
+    },
+    {
+      "name": "Lihaosanpo散步冰品（不定休請先來電）/ Lihao豊好鳳梨冰/冰淇淋/勤美向上市場",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.1479714,120.6584375",
+      "place_id": "e04415adc7262464a6b6cc04e1507e03",
+      "description": "",
+      "lat": 24.1479714,
+      "lng": 120.6584375,
+      "category": "甜點",
+      "city": "臺中市"
+    },
+    {
+      "name": "吾家咖啡·布丁專門店",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.0629918,121.6605853",
+      "place_id": "36be529c8f23ac413e43b7245bbb264f",
+      "description": "",
+      "lat": 25.0629918,
+      "lng": 121.6605853,
+      "category": "甜點",
+      "city": "新北市"
+    },
+    {
+      "name": "客客茶雞蛋仔&寶島紅茶冰（竹南龍山店）|桶裝飲料|活動設攤",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.7023704,120.8828249",
+      "place_id": "466a554a51a004e76634414c84341191",
+      "description": "",
+      "lat": 24.7023704,
+      "lng": 120.8828249,
+      "category": "甜點",
+      "city": "苗栗縣"
+    },
+    {
+      "name": "Hope.in Studio｜甜點、手工餅乾、場地租借",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.1437108,120.6588912",
+      "place_id": "339d5c8fc2958a18ab45fef8f74414a6",
+      "description": "",
+      "lat": 24.1437108,
+      "lng": 120.6588912,
+      "category": "甜點",
+      "city": "臺中市"
+    },
+    {
+      "name": "夫妻臉甜點 Dessert Hyvä | 咖啡麵包，獨立繪本，寵物親子友善",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.1490787,120.6439761",
+      "place_id": "ae7e6026ebf5cf9a7fdd133e33b8f98d",
+      "description": "",
+      "lat": 24.1490787,
+      "lng": 120.6439761,
+      "category": "甜點",
+      "city": "臺中市"
+    },
+    {
+      "name": "良緣涼圓",
+      "url": "https://www.google.com/maps/search/?api=1&query=23.4792155,120.4481869",
+      "place_id": "bbcda156640bb6a3661f700ad4477ff0",
+      "description": "",
+      "lat": 23.4792155,
+      "lng": 120.4481869,
+      "category": "甜點",
+      "city": "嘉義市"
+    },
+    {
+      "name": "富品珍貴木材研究室&Kagikaki水文刨冰",
+      "url": "https://www.google.com/maps/search/?api=1&query=23.4639749,120.4326534",
+      "place_id": "6a5697c64b16bebfb17f6911c68016d5",
+      "description": "",
+      "lat": 23.4639749,
+      "lng": 120.4326534,
+      "category": "甜點",
+      "city": "嘉義市"
+    },
+    {
+      "name": "Mao's毛毛的-【專賣】義式帕尼尼、脆殼布朗尼(取貨點）",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.9929148,120.1999234",
+      "place_id": "ee872d5ffae7adec5551c0ef6ace9900",
+      "description": "",
+      "lat": 22.9929148,
+      "lng": 120.1999234,
+      "category": "甜點",
+      "city": "臺南市"
+    },
+    {
+      "name": "蜜嗜甜點工作室/客製化造型蛋糕-採線上預訂制",
+      "url": "https://www.google.com/maps/search/?api=1&query=23.4549838,120.456704",
+      "place_id": "c560b22d145cecb1fa8a2713d9e0f6b8",
+      "description": "",
+      "lat": 23.4549838,
+      "lng": 120.456704,
+      "category": "甜點",
+      "city": "嘉義市"
+    },
+    {
+      "name": "春吉旺來冰，不定休，休假會公布在粉專，歡迎打電話確認，感謝您",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.0795223,120.5390528",
+      "place_id": "ea2cc5445d597d25787e1eff2e1f5936",
+      "description": "",
+      "lat": 24.0795223,
+      "lng": 120.5390528,
+      "category": "甜點",
+      "city": "彰化縣"
+    },
+    {
+      "name": "有格 手作麵包、烘焙、咖啡、輕食｜歐式麵包｜台南永康麵包店",
+      "url": "https://www.google.com/maps/search/?api=1&query=23.0222419,120.2190183",
+      "place_id": "a910e28166bd4b0bac35e9f9bf8d4f22",
+      "description": "",
+      "lat": 23.0222419,
+      "lng": 120.2190183,
+      "category": "甜點",
+      "city": "臺南市"
+    },
+    {
+      "name": "好好做烘焙（營業日依臉書公告",
+      "url": "https://www.google.com/maps/search/?api=1&query=23.4831284,120.4436823",
+      "place_id": "65627dbbc8726c456bf3adc7e6ca9961",
+      "description": "",
+      "lat": 23.4831284,
+      "lng": 120.4436823,
+      "category": "甜點",
+      "city": "嘉義市"
+    },
+    {
+      "name": "NEKKO BAR 貓吧",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.0368971,121.5478709",
+      "place_id": "b87562fe36c9edc2af6143f18faa0a78",
+      "description": "",
+      "lat": 25.0368971,
+      "lng": 121.5478709,
+      "category": "咖啡",
+      "city": "臺北市"
+    },
+    {
+      "name": "啤 咖 酒 ，我們頭城見 ^_^ （預計十月中旬）",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.1286068,121.7400871",
+      "place_id": "895a56d903b876ef161859597be02543",
+      "description": "",
+      "lat": 25.1286068,
+      "lng": 121.7400871,
+      "category": "咖啡",
+      "city": "基隆市"
+    },
+    {
+      "name": "SODA by coffeeflair | 東門 提拉米蘇 手沖咖啡專賣",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.0339165,121.5257659",
+      "place_id": "c8e7c6bd19b712f35572ff198f3297c2",
+      "description": "",
+      "lat": 25.0339165,
+      "lng": 121.5257659,
+      "category": "咖啡",
+      "city": "臺北市"
+    },
+    {
+      "name": "天光 Thinn-Kng ｜深夜咖啡廳｜全預約制",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.0147634,121.5266442",
+      "place_id": "5794938f988d4f83cc93a2e43808b80b",
+      "description": "",
+      "lat": 25.0147634,
+      "lng": 121.5266442,
+      "category": "咖啡",
+      "city": "臺北市"
+    },
+    {
+      "name": "好人好室 x 七二聚場",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.0570013,121.5215732",
+      "place_id": "75dd06066e7a16262eca47e3fb043ff7",
+      "description": "",
+      "lat": 25.0570013,
+      "lng": 121.5215732,
+      "category": "咖啡",
+      "city": "臺北市"
+    },
+    {
+      "name": "嵐瀾咖啡LanLan Coffee",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.051849,121.5148911",
+      "place_id": "08aa3e0b4e5719dfb467236cd667bdb8",
+      "description": "",
+      "lat": 25.051849,
+      "lng": 121.5148911,
+      "category": "咖啡",
+      "city": "臺北市"
+    },
+    {
+      "name": "喵仔間 Niau-á King",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.0555342,121.5096728",
+      "place_id": "00c5094ec51ef3701e8f15748ca93319",
+      "description": "",
+      "lat": 25.0555342,
+      "lng": 121.5096728,
+      "category": "咖啡",
+      "city": "臺北市"
+    },
+    {
+      "name": "Under160 by _holic / 尻蕊有限公司",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.053832,121.509595",
+      "place_id": "615996a153d8a34f91ab0dde861b0c75",
+      "description": "",
+      "lat": 25.053832,
+      "lng": 121.509595,
+      "category": "咖啡",
+      "city": "臺北市"
+    },
+    {
+      "name": "配個咖啡吧！PEG COFFEE",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.0232373,121.5546394",
+      "place_id": "40acc13dfb292d863028161fbfd4bfdc",
+      "description": "",
+      "lat": 25.0232373,
+      "lng": 121.5546394,
+      "category": "咖啡",
+      "city": "臺北市"
+    },
+    {
+      "name": "COFFEE FLAIR 咖啡館 手沖咖啡 甜點 咖啡豆專賣",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.0641982,121.5252215",
+      "place_id": "844927c2d24c68be0faf8b38832ee11e",
+      "description": "",
+      "lat": 25.0641982,
+      "lng": 121.5252215,
+      "category": "咖啡",
+      "city": "臺北市"
+    },
+    {
+      "name": "喫茶銀河 Kissa Ginga 咖啡",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.0419044,121.5109609",
+      "place_id": "6041c7cb48cfbd67a066146f7e58c1b2",
+      "description": "",
+      "lat": 25.0419044,
+      "lng": 121.5109609,
+      "category": "咖啡",
+      "city": "臺北市"
+    },
+    {
+      "name": "CUP",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.050965,121.5658688",
+      "place_id": "8460b6c6ecfe33f972ae3c51500b60b5",
+      "description": "",
+      "lat": 25.050965,
+      "lng": 121.5658688,
+      "category": "咖啡",
+      "city": "臺北市"
+    },
+    {
+      "name": "ichijiku cafe & living 珈琲無花果-｜手沖咖啡、甜點｜禁帶外食",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.0597559,121.510088",
+      "place_id": "8bedca7858887a704346b0d81a5586ac",
+      "description": "",
+      "lat": 25.0597559,
+      "lng": 121.510088,
+      "category": "咖啡",
+      "city": "臺北市"
+    },
+    {
+      "name": "旅徒咖啡",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.0547169,121.5317199",
+      "place_id": "b9eb2b5a9c0a28f7148eb6aa517eba8c",
+      "description": "",
+      "lat": 25.0547169,
+      "lng": 121.5317199,
+      "category": "咖啡",
+      "city": "臺北市"
+    },
+    {
+      "name": "厝邊Tsubicoffee",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.0338802,121.5021714",
+      "place_id": "acb4e4ac592b5518b4b6fc6c4596b892",
+      "description": "",
+      "lat": 25.0338802,
+      "lng": 121.5021714,
+      "category": "咖啡",
+      "city": "臺北市"
+    },
+    {
+      "name": "豆人咖啡製作所 Domain Coffee / 自家烘焙 / 精品咖啡豆 / 下午茶",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.0590532,121.5467383",
+      "place_id": "8dbd8d77bfed96c0c0d713d9660079ad",
+      "description": "",
+      "lat": 25.0590532,
+      "lng": 121.5467383,
+      "category": "咖啡",
+      "city": "臺北市"
+    },
+    {
+      "name": "喫茶 糕巢 Kissa Kimochiii｜深夜喫茶酒吧",
+      "url": "https://www.google.com/maps/search/?api=1&query=23.947813,120.6878883",
+      "place_id": "93ab81b2b2a8e2531d665ba614fa6580",
+      "description": "",
+      "lat": 23.947813,
+      "lng": 120.6878883,
+      "category": "咖啡",
+      "city": "南投縣"
+    },
+    {
+      "name": "咖丘cafe chill",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.1573589,120.6890557",
+      "place_id": "5acedb2310796f5b6148dbac08e8d1dd",
+      "description": "",
+      "lat": 24.1573589,
+      "lng": 120.6890557,
+      "category": "咖啡",
+      "city": "臺中市"
+    },
+    {
+      "name": "56咖啡",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.2195948,120.6516463",
+      "place_id": "cbffc81e580286ea1b59374167e855e3",
+      "description": "",
+      "lat": 24.2195948,
+      "lng": 120.6516463,
+      "category": "咖啡",
+      "city": "臺中市"
+    },
+    {
+      "name": "台中咖啡｜初咖啡The Origin Coffee Roaster in Shalu",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.2337386,120.5600125",
+      "place_id": "7c1eb6e27e14153b75e78af3b96353eb",
+      "description": "",
+      "lat": 24.2337386,
+      "lng": 120.5600125,
+      "category": "咖啡",
+      "city": "臺中市"
+    },
+    {
+      "name": "拾年咖啡 Coffee Decade（沒有訂位，一組最多接待三人）",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.1464905,120.6582395",
+      "place_id": "e4a8ec2918fad250fe660abb05436bb7",
+      "description": "",
+      "lat": 24.1464905,
+      "lng": 120.6582395,
+      "category": "咖啡",
+      "city": "臺中市"
+    },
+    {
+      "name": "真咖啡 ZANcoffee–人氣推薦★虹吸咖啡 | 沖煮課程 | 口感訓練 (無市話，聯繫請洽粉專私訊或Line@)",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.155075,120.6496012",
+      "place_id": "7b278bda02b8731e4645a31f1440caa3",
+      "description": "",
+      "lat": 24.155075,
+      "lng": 120.6496012,
+      "category": "咖啡",
+      "city": "臺中市"
+    },
+    {
+      "name": "SabiSabi Coffee&Sweets in Tainan",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.9895703,120.2066167",
+      "place_id": "06e4af841bce70df28007128593ee6aa",
+      "description": "",
+      "lat": 22.9895703,
+      "lng": 120.2066167,
+      "category": "咖啡",
+      "city": "臺南市"
+    },
+    {
+      "name": "軍茶-永康華興店",
+      "url": "https://www.google.com/maps/search/?api=1&query=23.000883,120.2359583",
+      "place_id": "ecf440e7cd72810a0319d763bc9dd3c3",
+      "description": "",
+      "lat": 23.000883,
+      "lng": 120.2359583,
+      "category": "咖啡",
+      "city": "臺南市"
+    },
+    {
+      "name": "呼嚕咖啡館x貓中途驛站(請勿拍打貓咪身體）（店休請見IG）",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.9979821,120.2015163",
+      "place_id": "726d67f8583edecfbbba7d1612a376f1",
+      "description": "",
+      "lat": 22.9979821,
+      "lng": 120.2015163,
+      "category": "咖啡",
+      "city": "臺南市"
+    },
+    {
+      "name": "桃花招待所💖｜喫茶 小吃 甜點 酒精",
+      "url": "https://www.google.com/maps/search/?api=1&query=23.9647599,120.580353",
+      "place_id": "a37217100e27ab33a4d057ff814c02c3",
+      "description": "",
+      "lat": 23.9647599,
+      "lng": 120.580353,
+      "category": "咖啡",
+      "city": "彰化縣"
+    },
+    {
+      "name": "綠色奇蹟咖啡 Green miracle Cafe'（請先看內用須知）",
+      "url": "https://www.google.com/maps/search/?api=1&query=23.9645562,120.5774969",
+      "place_id": "144c347a35d958644a5285d8f0f96999",
+      "description": "",
+      "lat": 23.9645562,
+      "lng": 120.5774969,
+      "category": "咖啡",
+      "city": "彰化縣"
+    },
+    {
+      "name": "桃城烹茶「耐喝系」公休請看臉書與IG",
+      "url": "https://www.google.com/maps/search/?api=1&query=23.4792071,120.4498298",
+      "place_id": "ae4605aef66baf0f4d256f0c2224c5ca",
+      "description": "https://www.instagram.com/taocheng.cookingtea/",
+      "lat": 23.4792071,
+      "lng": 120.4498298,
+      "category": "咖啡",
+      "city": "嘉義市"
+    },
+    {
+      "name": "EV café 窩咖啡",
+      "url": "https://www.google.com/maps/search/?api=1&query=23.4758707,120.4604118",
+      "place_id": "967ef314108b20235a58a990db0e568f",
+      "description": "",
+      "lat": 23.4758707,
+      "lng": 120.4604118,
+      "category": "咖啡",
+      "city": "嘉義市"
+    },
+    {
+      "name": "圓珈琲",
+      "url": "https://www.google.com/maps/search/?api=1&query=23.4886114,120.4409793",
+      "place_id": "f85bdcd9fd7fd8b91511f6827ff8916f",
+      "description": "",
+      "lat": 23.4886114,
+      "lng": 120.4409793,
+      "category": "咖啡",
+      "city": "嘉義市"
+    },
+    {
+      "name": "山角鐵茶屋（預約制）",
+      "url": "https://www.google.com/maps/search/?api=1&query=23.5246904,120.7149897",
+      "place_id": "5c6a5c535b3624d34beeb4dc8f0cb037",
+      "description": "",
+      "lat": 23.5246904,
+      "lng": 120.7149897,
+      "category": "咖啡",
+      "city": "嘉義縣"
+    },
+    {
+      "name": "夏至咖啡",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.7456655,121.7544499",
+      "place_id": "8827da0734cb4242a7234743e9031037",
+      "description": "",
+      "lat": 24.7456655,
+      "lng": 121.7544499,
+      "category": "咖啡",
+      "city": "宜蘭縣"
+    },
+    {
+      "name": "散步Cafe Sanpo｜假日6位以上（含6）每人基本消費$250（需包含一杯飲品）｜手沖咖啡、蛋糕、熱壓三明治、水果燕麥優格杯｜",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.750175,121.7549566",
+      "place_id": "947b0d93dd1b1612baf7d2ad73620270",
+      "description": "",
+      "lat": 24.750175,
+      "lng": 121.7549566,
+      "category": "咖啡",
+      "city": "宜蘭縣"
+    },
+    {
+      "name": "大人牛乳",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.8297306,121.771679",
+      "place_id": "92719ea7c2ff8a2648da645b1d932992",
+      "description": "",
+      "lat": 24.8297306,
+      "lng": 121.771679,
+      "category": "咖啡",
+      "city": "宜蘭縣"
+    },
+    {
+      "name": "CABAL Fresh Roasted Coffee",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.6683022,120.4948177",
+      "place_id": "af4fe412bd1baacdbe62ac656e3587af",
+      "description": "",
+      "lat": 22.6683022,
+      "lng": 120.4948177,
+      "category": "咖啡",
+      "city": "屏東縣"
+    },
+    {
+      "name": "EK 烘焙 | 自家烘焙咖啡豆、麵包",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.5450106,120.5682253",
+      "place_id": "32e3aad6d06b8ba02bfd27a33855348a",
+      "description": "",
+      "lat": 22.5450106,
+      "lng": 120.5682253,
+      "category": "咖啡",
+      "city": "屏東縣"
+    },
+    {
+      "name": "植嶼咖啡 Native Gardener &Co. Coffee",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.5509522,120.544584",
+      "place_id": "afbe66c1890b2b11f0bf8949800de094",
+      "description": "",
+      "lat": 22.5509522,
+      "lng": 120.544584,
+      "category": "咖啡",
+      "city": "屏東縣"
+    },
+    {
+      "name": "DeerHer甜點廚坊 和美店｜喜餅禮盒",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.0914594,120.51993",
+      "place_id": "a694d211b6115bdd2d0225c2475a10d0",
+      "description": "",
+      "lat": 24.0914594,
+      "lng": 120.51993,
+      "category": "咖啡",
+      "city": "彰化縣"
+    },
+    {
+      "name": "偑巷咖啡",
+      "url": "https://www.google.com/maps/search/?api=1&query=23.8725761,120.52429",
+      "place_id": "59ef42cdfe30897be78f095aa819fc30",
+      "description": "",
+      "lat": 23.8725761,
+      "lng": 120.52429,
+      "category": "咖啡",
+      "city": "彰化縣"
+    },
+    {
+      "name": "Dr. Paralyze Bar",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.1112918,120.4967928",
+      "place_id": "9ee5a3e9433248dd17e8827098a5152d",
+      "description": "",
+      "lat": 24.1112918,
+      "lng": 120.4967928,
+      "category": "咖啡",
+      "city": "彰化縣"
+    },
+    {
+      "name": "木木商號【Moon Moon Coffee】咖啡專賣。專賣咖啡",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.9974157,121.5186709",
+      "place_id": "9a6f95ccfee57835d3f546be29d08f3a",
+      "description": "",
+      "lat": 24.9974157,
+      "lng": 121.5186709,
+      "category": "咖啡",
+      "city": "新北市"
+    },
+    {
+      "name": "參號倉庫咖啡 No.3 Cafe'",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.9644579,121.539542",
+      "place_id": "a59c979534e91ac8309eb4e87b27ecf4",
+      "description": "",
+      "lat": 24.9644579,
+      "lng": 121.539542,
+      "category": "咖啡",
+      "city": "新北市"
+    },
+    {
+      "name": "街貓喫茶所",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.7365627,121.0867995",
+      "place_id": "2068e00a5e2e955fe7465f50af733aff",
+      "description": "",
+      "lat": 24.7365627,
+      "lng": 121.0867995,
+      "category": "咖啡",
+      "city": "新竹縣"
+    },
+    {
+      "name": "馬.啡 咖啡工作室",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.9572611,121.3011352",
+      "place_id": "5aadc30d55ae4f67f5f837821301d6e2",
+      "description": "",
+      "lat": 24.9572611,
+      "lng": 121.3011352,
+      "category": "咖啡",
+      "city": "桃園市"
+    },
+    {
+      "name": "杏源珈琲Sing yuan coffee",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.9906567,120.1984792",
+      "place_id": "4048a60e42443bf609e023bc8185d304",
+      "description": "",
+      "lat": 22.9906567,
+      "lng": 120.1984792,
+      "category": "咖啡",
+      "city": "臺南市"
+    },
+    {
+      "name": "默沫手作飲品 安平高登店",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.9838133,120.1677743",
+      "place_id": "71f44ea038c55c9f18fb47e92b2a4a4f",
+      "description": "",
+      "lat": 22.9838133,
+      "lng": 120.1677743,
+      "category": "咖啡",
+      "city": "臺南市"
+    },
+    {
+      "name": "磨實 Cafe & Living （營業日請查看粉專置頂公告）",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.6821406,120.8810932",
+      "place_id": "479024d958ef8fb9e5624b28d6fe72a1",
+      "description": "",
+      "lat": 24.6821406,
+      "lng": 120.8810932,
+      "category": "咖啡",
+      "city": "苗栗縣"
+    },
+    {
+      "name": "豆樂咖啡 Dollar Cafe",
+      "url": "https://www.google.com/maps/search/?api=1&query=23.6734461,120.4780158",
+      "place_id": "8cf4a78fd549774d860f65af9a035369",
+      "description": "",
+      "lat": 23.6734461,
+      "lng": 120.4780158,
+      "category": "咖啡",
+      "city": "雲林縣"
+    },
+    {
+      "name": "細絲拉格咖啡 Seaslug Coffee",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.6286041,120.3397157",
+      "place_id": "94a92377f38bee2d2ff65dbbd9e4460d",
+      "description": "",
+      "lat": 22.6286041,
+      "lng": 120.3397157,
+      "category": "咖啡",
+      "city": "高雄市"
+    },
+    {
+      "name": "小倉廚（甜點、咖啡）",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.6147003,120.2982692",
+      "place_id": "925fda2b0b4089b125fffd0e7b1dcc39",
+      "description": "",
+      "lat": 22.6147003,
+      "lng": 120.2982692,
+      "category": "咖啡",
+      "city": "高雄市"
+    },
+    {
+      "name": "Ourson物森咖啡（親子友善寵物友善，營業時間請見IG）",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.6407691,120.3666125",
+      "place_id": "4fb76092a27fe8531bc13477dede76d8",
+      "description": "",
+      "lat": 22.6407691,
+      "lng": 120.3666125,
+      "category": "咖啡",
+      "city": "高雄市"
+    },
+    {
+      "name": "貳拾壹克 21 Grams 咖啡｜酒吧｜選物",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.6318776,120.3025574",
+      "place_id": "f24e657617d796038fd8340c72b7541e",
+      "description": "",
+      "lat": 22.6318776,
+      "lng": 120.3025574,
+      "category": "咖啡",
+      "city": "高雄市"
+    },
+    {
+      "name": "開壺珈琲｜KaiPotCoffee｜",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.6250212,120.2820298",
+      "place_id": "b6ec6044869fcd435425f3f5b6110c93",
+      "description": "",
+      "lat": 22.6250212,
+      "lng": 120.2820298,
+      "category": "咖啡",
+      "city": "高雄市"
+    },
+    {
+      "name": "DasKind頑童主義咖啡",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.9765104,120.1975493",
+      "place_id": "e7feb434e786fb08ba03db873d6cd70f",
+      "description": "",
+      "lat": 22.9765104,
+      "lng": 120.1975493,
+      "category": "咖啡",
+      "city": "臺南市"
+    },
+    {
+      "name": "小獸書屋",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.1279792,121.7439873",
+      "place_id": "34140a4827b2e48dd5949385c7df93c5",
+      "description": "",
+      "lat": 25.1279792,
+      "lng": 121.7439873,
+      "category": "書店",
+      "city": "基隆市"
+    },
+    {
+      "name": "見書店",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.1304161,121.7437776",
+      "place_id": "7ae052fbcd049f04ce44d54762194a38",
+      "description": "",
+      "lat": 25.1304161,
+      "lng": 121.7437776,
+      "category": "書店",
+      "city": "基隆市"
+    },
+    {
+      "name": "小小書房／小寫出版（小小創意有限公司）",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.0162947,121.511061",
+      "place_id": "52cfdb40f2580e96a2ae424c2ef0f030",
+      "description": "",
+      "lat": 25.0162947,
+      "lng": 121.511061,
+      "category": "書店",
+      "city": "新北市"
+    },
+    {
+      "name": "山峸二手書店 Ridgebooks",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.131137,121.5000675",
+      "place_id": "e793f8f33573df0e3b08281b43918ee7",
+      "description": "",
+      "lat": 25.131137,
+      "lng": 121.5000675,
+      "category": "書店",
+      "city": "臺北市"
+    },
+    {
+      "name": "野人讀冊店",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.3556865,120.6318143",
+      "place_id": "b8e89c1298c52f0d678dbb2ffb2e3b44",
+      "description": "",
+      "lat": 24.3556865,
+      "lng": 120.6318143,
+      "category": "書店",
+      "city": "臺中市"
+    },
+    {
+      "name": "一片一頁 piece&page｜閱讀/拼圖/講座/場地出租",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.9354118,121.3710071",
+      "place_id": "515a748c2d1854357fef42b4e7d4978d",
+      "description": "",
+      "lat": 24.9354118,
+      "lng": 121.3710071,
+      "category": "書店",
+      "city": "新北市"
+    },
+    {
+      "name": "一分之一工作室｜文具店",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.1733466,120.68895",
+      "place_id": "7c18385e40a1c66a6ea63f116a591272",
+      "description": "",
+      "lat": 24.1733466,
+      "lng": 120.68895,
+      "category": "書店",
+      "city": "臺中市"
+    },
+    {
+      "name": "有筆x鋼筆工作室 (網購請看ig / fb粉絲專頁)",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.1541424,120.6611408",
+      "place_id": "6d8c53bfe6ec706f6e3b1f72c865244b",
+      "description": "",
+      "lat": 24.1541424,
+      "lng": 120.6611408,
+      "category": "書店",
+      "city": "臺中市"
+    },
+    {
+      "name": "南投文巢獨立書店",
+      "url": "https://www.google.com/maps/search/?api=1&query=23.9084306,120.685614",
+      "place_id": "7046dec64352b8f4310ba00964db006e",
+      "description": "",
+      "lat": 23.9084306,
+      "lng": 120.685614,
+      "category": "書店",
+      "city": "南投縣"
+    },
+    {
+      "name": "美好文具室",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.0579896,121.5538849",
+      "place_id": "709cfb39dcf1a5ebc53939bc89b2a395",
+      "description": "",
+      "lat": 25.0579896,
+      "lng": 121.5538849,
+      "category": "書店",
+      "city": "臺北市"
+    },
+    {
+      "name": "生地｜書店 𓅎 短租 𓅎 活動 𓅎 共創（12/4-12/9 美濃擺攤）",
+      "url": "https://www.google.com/maps/search/?api=1&query=23.1224081,121.2462416",
+      "place_id": "213281e11a9d59ba0aeeaf7dada5015f",
+      "description": "",
+      "lat": 23.1224081,
+      "lng": 121.2462416,
+      "category": "書店",
+      "city": "臺東縣"
+    },
+    {
+      "name": "Legal Girl法律女孩花藝事務所",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.0245091,121.5255997",
+      "place_id": "6a56708bb71039dd33066758b12b45db",
+      "description": "",
+      "lat": 25.0245091,
+      "lng": 121.5255997,
+      "category": "書店",
+      "city": "臺北市"
+    },
+    {
+      "name": "小室花滿 台中花藝工作室（全預約制．為維護品質無法受理七天內急單）",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.1634265,120.7273771",
+      "place_id": "0dd6d5053b72665afbb6c8aff9821261",
+      "description": "",
+      "lat": 24.1634265,
+      "lng": 120.7273771,
+      "category": "書店",
+      "city": "臺中市"
+    },
+    {
+      "name": "光禾花室｜Lumos Flower Lab",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.9827045,120.225725",
+      "place_id": "279f9bcd80636c3eaee5ad7483670f21",
+      "description": "",
+      "lat": 22.9827045,
+      "lng": 120.225725,
+      "category": "書店",
+      "city": "臺南市"
+    },
+    {
+      "name": "風葉鳥-植感之禮｜台中海線名產伴手禮｜年節禮盒、企業彌月喜餅禮盒(預約取貨制)",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.2437429,120.5648565",
+      "place_id": "f2c390f41cf02d286aa5e88c8166ddbf",
+      "description": "",
+      "lat": 24.2437429,
+      "lng": 120.5648565,
+      "category": "書店",
+      "city": "臺中市"
+    },
+    {
+      "name": "果食男子 ｜ 果醬專賣店 ✦ 來店前請先打電話 ◖ 已無販售餐飲刨冰 ◗",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.1372489,120.6595544",
+      "place_id": "fb40260d35b502e256cf36af0bd2f7f6",
+      "description": "",
+      "lat": 24.1372489,
+      "lng": 120.6595544,
+      "category": "書店",
+      "city": "臺中市"
+    },
+    {
+      "name": "農郁 NonreGift｜婚禮小物、喜米",
+      "url": "https://www.google.com/maps/search/?api=1&query=23.9793786,121.5992239",
+      "place_id": "76086ad35ff014221eedce8f80744c34",
+      "description": "",
+      "lat": 23.9793786,
+      "lng": 121.5992239,
+      "category": "書店",
+      "city": "花蓮縣"
+    },
+    {
+      "name": "兜兜轉x幸福時刻｜手工香氛石、擴香石禮品",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.6491658,120.3031589",
+      "place_id": "e56d5da9edfa7591bdf789dffd46d0d6",
+      "description": "",
+      "lat": 22.6491658,
+      "lng": 120.3031589,
+      "category": "書店",
+      "city": "高雄市"
+    },
+    {
+      "name": "裸拾商行｜無包裝｜選物店（公十停車場內第二間店面）",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.8158753,121.0269681",
+      "place_id": "d47ae71e8b054efcd71f587ab06c7231",
+      "description": "「零售裸賣、自備容器」、「需要多少買多少」是裸拾想要提倡的理念。提供客人自備容器購買清潔用品、五穀雜糧及果乾，也販售小農種植、友善環境的新鮮蔬果及相關產品，希望提供消費者另一種新的生活消費選擇。",
+      "lat": 24.8158753,
+      "lng": 121.0269681,
+      "category": "書店",
+      "city": "新竹縣"
+    },
+    {
+      "name": "說說想刺繡：刺繡教學/客製教學/訂製設計/活動合作/材料組 Woyi Embroidery(預約請洽網站或Line)",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.0258272,121.5229869",
+      "place_id": "d05127282afd14b80e0d131e9187b534",
+      "description": "",
+      "lat": 25.0258272,
+      "lng": 121.5229869,
+      "category": "書店",
+      "city": "臺北市"
+    },
+    {
+      "name": "GuGu橡皮章",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.0769772,120.5492382",
+      "place_id": "381147d5ef22d8ea84343b722b87cb9f",
+      "description": "https://www.instagram.com/gugujhen0912/https://www.facebook.com/GuGuStamp/",
+      "lat": 24.0769772,
+      "lng": 120.5492382,
+      "category": "書店",
+      "city": "彰化縣"
+    },
+    {
+      "name": "超群皮鞋－劉一刀 手工鞋",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.0544175,121.5444589",
+      "place_id": "05205b0d152ae04ef16c195a93569cbc",
+      "description": "",
+      "lat": 25.0544175,
+      "lng": 121.5444589,
+      "category": "書店",
+      "city": "臺北市"
+    },
+    {
+      "name": "Berylliumetaleather 鈹工作室",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.0003016,121.540275",
+      "place_id": "ee944f5ff52bc9436a4d708c1c4b4bf7",
+      "description": "",
+      "lat": 25.0003016,
+      "lng": 121.540275,
+      "category": "書店",
+      "city": "臺北市"
+    },
+    {
+      "name": "Mx.Wonders Accessories",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.1629765,120.6746104",
+      "place_id": "26c47915ec8241d358e67d56d561110b",
+      "description": "https://www.instagram.com/mx.wonders/",
+      "lat": 24.1629765,
+      "lng": 120.6746104,
+      "category": "書店",
+      "city": "臺中市"
+    },
+    {
+      "name": "GEORGIA TSAO 中山花布洋裝服飾品牌",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.0534073,121.5195142",
+      "place_id": "101d7ed587bb044463ca43575bede3b4",
+      "description": "",
+      "lat": 25.0534073,
+      "lng": 121.5195142,
+      "category": "書店",
+      "city": "臺北市"
+    },
+    {
+      "name": "台灣製造-Morona茉娜手工內衣-台南工作室（前往前請先聯絡預約）",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.9841014,120.2395281",
+      "place_id": "2a8661e30db81a1a65831eaf55908a23",
+      "description": "",
+      "lat": 22.9841014,
+      "lng": 120.2395281,
+      "category": "書店",
+      "city": "臺南市"
+    },
+    {
+      "name": "娃果製作所｜台灣纖維手作人｜布包｜纖維雜貨｜創意小物",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.0327285,121.4476157",
+      "place_id": "6184906c80848c345a780b535d088dbb",
+      "description": "",
+      "lat": 25.0327285,
+      "lng": 121.4476157,
+      "category": "書店",
+      "city": "新北市"
+    },
+    {
+      "name": "日頭巷仔 jı̍t-thâu hāng-á 二手服飾｜溫暖選物",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.9984895,121.4605795",
+      "place_id": "5032eadb75e9c17ba7469e05f3d77ae9",
+      "description": "",
+      "lat": 24.9984895,
+      "lng": 121.4605795,
+      "category": "書店",
+      "city": "新北市"
+    },
+    {
+      "name": "拓金數位通訊",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.9903285,120.2113661",
+      "place_id": "539bf8989f460511f488b5814d428a35",
+      "description": "",
+      "lat": 22.9903285,
+      "lng": 120.2113661,
+      "category": "書店",
+      "city": "臺南市"
+    },
+    {
+      "name": "拉維諾Lovero｜歐陸食品進口商、葡萄酒進口",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.9898776,121.5344241",
+      "place_id": "30d926865df9318152aa46a2e98812ad",
+      "description": "https://www.instagram.com/loveroasia",
+      "lat": 24.9898776,
+      "lng": 121.5344241,
+      "category": "書店",
+      "city": "新北市"
+    },
+    {
+      "name": "（營業日請洽ig公告或官方line）穩心陪伴工作室｜咖啡・選書・文創・日用",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.99462,121.3136836",
+      "place_id": "8f10e68f564892094d872ef7f94d6cb5",
+      "description": "",
+      "lat": 24.99462,
+      "lng": 121.3136836,
+      "category": "書店",
+      "city": "桃園市"
+    },
+    {
+      "name": "明月溏皇后咖啡｜手作咖啡、觀光農場",
+      "url": "https://www.google.com/maps/search/?api=1&query=23.9339311,121.5801897",
+      "place_id": "a343b4f809dcd22aa1247dfb81d278f4",
+      "description": "https://www.facebook.com/mqueencoffee/",
+      "lat": 23.9339311,
+      "lng": 121.5801897,
+      "category": "書店",
+      "city": "花蓮縣"
+    },
+    {
+      "name": "冠昌洋行",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.6259832,120.2795195",
+      "place_id": "95196937d1877fadd49b64680c2b150b",
+      "description": "",
+      "lat": 22.6259832,
+      "lng": 120.2795195,
+      "category": "書店",
+      "city": "高雄市"
+    },
+    {
+      "name": "逗市集｜市集活動",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.6133816,120.304392",
+      "place_id": "843f18bfc251532893e579329c21f4bf",
+      "description": "https://www.instagram.com/doumarket/https://www.facebook.com/p/%E9%80%97%E5%B8%82%E9%9B%86-61573313602587/",
+      "lat": 22.6133816,
+      "lng": 120.304392,
+      "category": "書店",
+      "city": "高雄市"
+    },
+    {
+      "name": "昨日｜老物、古道具、古著",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.6336447,120.3264987",
+      "place_id": "6f7670fb0def7360e87699736b8f91e4",
+      "description": "https://www.instagram.com/yesterday_sandwich/https://www.facebook.com/yesterdaysandwich",
+      "lat": 22.6336447,
+      "lng": 120.3264987,
+      "category": "書店",
+      "city": "高雄市"
+    },
+    {
+      "name": "麗的樂器(有)｜提琴製作、教學",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.6185209,120.3209674",
+      "place_id": "f556bca43227682e948e5ab819d34658",
+      "description": "https://www.facebook.com/leaderynw/",
+      "lat": 22.6185209,
+      "lng": 120.3209674,
+      "category": "書店",
+      "city": "高雄市"
+    },
+    {
+      "name": "Rhythm Barbershop",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.0320383,121.5445465",
+      "place_id": "dfd16fbddd566977af1a9d4933ba108a",
+      "description": "",
+      "lat": 25.0320383,
+      "lng": 121.5445465,
+      "category": "其他",
+      "city": "臺北市"
+    },
+    {
+      "name": "公館奧創印象店 - 公館髮廊 公館專業染髮 造型燙髮 美髮推薦 男士剪髮 韓式 女生燙髮 頭皮SPA",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.0140544,121.5347622",
+      "place_id": "aa08489ad22abcc6b7735bd7a893d151",
+      "description": "",
+      "lat": 25.0140544,
+      "lng": 121.5347622,
+      "category": "其他",
+      "city": "臺北市"
+    },
+    {
+      "name": "18理髮廳(完全預約制,不接受當天臨時預約,私訊FB粉專預約)",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.0583764,121.4850674",
+      "place_id": "33c0bf05cb0d9a0336d0719c5b40b3ac",
+      "description": "",
+      "lat": 25.0583764,
+      "lng": 121.4850674,
+      "category": "其他",
+      "city": "新北市"
+    },
+    {
+      "name": "Sasalavi莎莎拉比",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.021389,121.5261411",
+      "place_id": "798df2d8e0a41241ec0a9e36d716454d",
+      "description": "https://www.instagram.com/madeline601/",
+      "lat": 25.021389,
+      "lng": 121.5261411,
+      "category": "其他",
+      "city": "臺北市"
+    },
+    {
+      "name": "小5剪髮",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.908264,121.211788",
+      "place_id": "32b77dc5688238cdfe21dbbb4bcf4a17",
+      "description": "",
+      "lat": 24.908264,
+      "lng": 121.211788,
+      "category": "其他",
+      "city": "桃園市"
+    },
+    {
+      "name": "Insight Salon x Barber",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.1483631,120.6592432",
+      "place_id": "f7be83ba9e1b3bac0fece74ba48ef7d0",
+      "description": "",
+      "lat": 24.1483631,
+      "lng": 120.6592432,
+      "category": "其他",
+      "city": "臺中市"
+    },
+    {
+      "name": "DollyNails兜里良甲製所 (美甲)",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.0578226,121.531475",
+      "place_id": "aa3bfec5804960aaa4d4a70d09fca1c4",
+      "description": "",
+      "lat": 25.0578226,
+      "lng": 121.531475,
+      "category": "其他",
+      "city": "臺北市"
+    },
+    {
+      "name": "椛島花島日式美甲專門店-南投美甲 flores nail studio手足保養/凝膠指甲彩繪/美甲教學檢定課程",
+      "url": "https://www.google.com/maps/search/?api=1&query=23.9388651,120.696884",
+      "place_id": "9558457fe57b074d8346250c4cc2b3ce",
+      "description": "",
+      "lat": 23.9388651,
+      "lng": 120.696884,
+      "category": "其他",
+      "city": "南投縣"
+    },
+    {
+      "name": "沐清｜三重夜間皮膚管理｜親子友善｜手清粉刺",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.069412,121.498157",
+      "place_id": "e0971aaed6a5f6566df9c9d0b8012efb",
+      "description": "https://www.instagram.com/muqing.beauty/",
+      "lat": 25.069412,
+      "lng": 121.498157,
+      "category": "其他",
+      "city": "新北市"
+    },
+    {
+      "name": "刺青制作所Zero Tattoo Studio",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.0438569,121.504507",
+      "place_id": "3246e73a0eb24a80b36707e6bdd0790d",
+      "description": "",
+      "lat": 25.0438569,
+      "lng": 121.504507,
+      "category": "其他",
+      "city": "臺北市"
+    },
+    {
+      "name": "Melt Studio 刺青工作室",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.145552,120.6751002",
+      "place_id": "4f9d46ae395f48d296b2bec902fea489",
+      "description": "https://www.instagram.com/meeelt.studio/",
+      "lat": 24.145552,
+      "lng": 120.6751002,
+      "category": "其他",
+      "city": "臺中市"
+    },
+    {
+      "name": "愛柒刺青 Love7Ink Tattoo",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.9619075,120.2302355",
+      "place_id": "0f1ab8d3ad6211191750d3281cbb677c",
+      "description": "",
+      "lat": 22.9619075,
+      "lng": 120.2302355,
+      "category": "其他",
+      "city": "臺南市"
+    },
+    {
+      "name": "C&C 。築夢石境｜晶礦選品｜能量水晶手鍊｜阿卡西紀錄解讀｜天使牌卡聊療諮詢｜金錢靈氣療癒",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.6254014,120.2996096",
+      "place_id": "0678d971cede6c04ed45ccc92870328b",
+      "description": "https://www.instagram.com/c.n.c_222/https://www.facebook.com/p/CC-%E7%AF%89%E5%A4%A2%E7%9F%B3%E5%A2%83-100070532003279/",
+      "lat": 22.6254014,
+      "lng": 120.2996096,
+      "category": "其他",
+      "city": "高雄市"
+    },
+    {
+      "name": "PhysiomotionLab 動作實驗室｜物理治療",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.1479859,120.6545739",
+      "place_id": "5a07210f139ae3331063025d25abdd33",
+      "description": "",
+      "lat": 24.1479859,
+      "lng": 120.6545739,
+      "category": "其他",
+      "city": "臺中市"
+    },
+    {
+      "name": "柒貳捌捌運動按摩工作室丨筋膜放鬆丨台南按摩丨按摩丨肌能貼紮丨張力平衡丨運動丨健身丨放鬆丨專業按摩丨運動按摩丨身體指壓丨肩頸按摩丨肌肉放鬆丨酸痛按摩丨筋膜刀按摩",
+      "url": "https://www.google.com/maps/search/?api=1&query=23.0253873,120.1892734",
+      "place_id": "3a863dce05ecb31b00e2ad9ee877f3b3",
+      "description": "",
+      "lat": 23.0253873,
+      "lng": 120.1892734,
+      "category": "其他",
+      "city": "臺南市"
+    },
+    {
+      "name": "Rogpa 蜻蜓筋膜按摩調理",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.9731052,121.4589048",
+      "place_id": "eaf201516b1b8eafe9d3870fb19156a9",
+      "description": "",
+      "lat": 24.9731052,
+      "lng": 121.4589048,
+      "category": "其他",
+      "city": "新北市"
+    },
+    {
+      "name": "MOONLIFE 專業按摩",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.0005596,121.4320859",
+      "place_id": "d54f966d7f8bbe73d43228f38f117bdf",
+      "description": "",
+      "lat": 25.0005596,
+      "lng": 121.4320859,
+      "category": "其他",
+      "city": "新北市"
+    },
+    {
+      "name": "Holly Pilates 皮拉提斯器械",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.6806483,121.7691786",
+      "place_id": "a0ceade90cd171d5b84ba5e210f8477c",
+      "description": "https://www.fit-book.com.tw/holly/about/491https://www.instagram.com/hollypilatesyo/",
+      "lat": 24.6806483,
+      "lng": 121.7691786,
+      "category": "其他",
+      "city": "宜蘭縣"
+    },
+    {
+      "name": "【MOMO Beauty Salon】 屏東市美容｜ 韓式皮膚管理｜日式角蛋白｜韓式皮膚管理｜ 美睫紋綉",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.6795215,120.5074078",
+      "place_id": "1d2e78fd2c80727cdf83b0f2273714a5",
+      "description": "",
+      "lat": 22.6795215,
+      "lng": 120.5074078,
+      "category": "其他",
+      "city": "屏東縣"
+    },
+    {
+      "name": "今古錐中醫診所",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.62628,120.3144932",
+      "place_id": "e029df34b6b352fc62750f09fa952f53",
+      "description": "",
+      "lat": 22.62628,
+      "lng": 120.3144932,
+      "category": "其他",
+      "city": "高雄市"
+    },
+    {
+      "name": "春·舒壓按摩工作室(請加line預約)",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.8785079,120.3264211",
+      "place_id": "751c0e79976107c5690867a03b138a1c",
+      "description": "",
+      "lat": 22.8785079,
+      "lng": 120.3264211,
+      "category": "其他",
+      "city": "高雄市"
+    },
+    {
+      "name": "馬師傅專業運動按摩",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.0221764,121.4659666",
+      "place_id": "02ffb3c3e987f7b5d39192f4a62dfc90",
+      "description": "",
+      "lat": 25.0221764,
+      "lng": 121.4659666,
+      "category": "其他",
+      "city": "新北市"
+    },
+    {
+      "name": "療玉美學｜美容保養、身體按摩、塔羅牌占卜、頌缽-聲波療癒",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.6482094,120.3033033",
+      "place_id": "f5599394e86a5559aacec51c13295f75",
+      "description": "https://www.instagram.com/qayu170/",
+      "lat": 22.6482094,
+      "lng": 120.3033033,
+      "category": "其他",
+      "city": "高雄市"
+    },
+    {
+      "name": "呼加悉瑜伽香氣工作室",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.6206712,120.3015426",
+      "place_id": "98ec05bd31034cbaa5f424a876c91b25",
+      "description": "",
+      "lat": 22.6206712,
+      "lng": 120.3015426,
+      "category": "其他",
+      "city": "高雄市"
+    },
+    {
+      "name": "開心鍛鍊",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.0801618,121.4780371",
+      "place_id": "7f9db93d2f164b22d75fd40ce72072ce",
+      "description": "",
+      "lat": 25.0801618,
+      "lng": 121.4780371,
+      "category": "其他",
+      "city": "新北市"
+    },
+    {
+      "name": "剪標聊欲實驗室｜多元族群友善空間 | 課程、活動、一對一引導",
+      "url": "https://www.google.com/maps/search/?api=1&query=23.0020664,120.1953971",
+      "place_id": "748078b40e02ae020f99c40cdc4e62b5",
+      "description": "https://www.facebook.com/HealingOurself1125/https://www.instagram.com/healingourself/",
+      "lat": 23.0020664,
+      "lng": 120.1953971,
+      "category": "其他",
+      "city": "臺南市"
+    },
+    {
+      "name": "合鹿工作室 (占卜｜雷諾曼｜水晶礦石｜五行手環)",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.0573313,121.5189534",
+      "place_id": "412edb63f7e9e9fbab09801fa3be31a8",
+      "description": "",
+      "lat": 25.0573313,
+      "lng": 121.5189534,
+      "category": "其他",
+      "city": "臺北市"
+    },
+    {
+      "name": "香棲沙龍 Roost salon｜按摩",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.810109,120.9681844",
+      "place_id": "b16ac4191eb99ecd074b38afe3976700",
+      "description": "芳療肌肉按摩台式指壓按摩泰式伸展按摩臉部保養按摩",
+      "lat": 24.810109,
+      "lng": 120.9681844,
+      "category": "其他",
+      "city": "新竹市"
+    },
+    {
+      "name": "小菁美容美體個人工作室",
+      "url": "https://www.google.com/maps/search/?api=1&query=23.9695745,121.600478",
+      "place_id": "d904cd651398b341103e4890f6799a8a",
+      "description": "",
+      "lat": 23.9695745,
+      "lng": 121.600478,
+      "category": "其他",
+      "city": "花蓮縣"
+    },
+    {
+      "name": "聊聊心理治療所",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.0447403,121.5544658",
+      "place_id": "ab65fb76ac290d744978b5c35ea8e745",
+      "description": "",
+      "lat": 25.0447403,
+      "lng": 121.5544658,
+      "category": "其他",
+      "city": "臺北市"
+    },
+    {
+      "name": "維康動物診所",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.1826947,121.4388798",
+      "place_id": "1a009c09b2e2cb50c6da743c41ceb462",
+      "description": "",
+      "lat": 25.1826947,
+      "lng": 121.4388798,
+      "category": "生活",
+      "city": "新北市"
+    },
+    {
+      "name": "夠好選物丨寵物用品專賣",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.8306811,121.0171601",
+      "place_id": "7699651abc6bd9ae5a6f71713d41fb4e",
+      "description": "",
+      "lat": 24.8306811,
+      "lng": 121.0171601,
+      "category": "生活",
+      "city": "新竹縣"
+    },
+    {
+      "name": "關門放狗｜線上商店｜寵物用品",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.1623391,120.6748992",
+      "place_id": "3c5ab795f5d22cde561a8d0ad0d802fc",
+      "description": "https://linktr.ee/oh_fungohttps://www.instagram.com/oh_fungo/",
+      "lat": 24.1623391,
+      "lng": 120.6748992,
+      "category": "生活",
+      "city": "臺中市"
+    },
+    {
+      "name": "犬藝匠-寵物美容沙龍",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.1166668,120.6701874",
+      "place_id": "5a8f8c485e579f17710faf62692e768f",
+      "description": "",
+      "lat": 24.1166668,
+      "lng": 120.6701874,
+      "category": "生活",
+      "city": "臺中市"
+    },
+    {
+      "name": "Orlor 和樂。貓。生活｜貓砂｜線上商店",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.1485412,121.0800366",
+      "place_id": "0490310809d9952b5fe88bcaebeade7d",
+      "description": "INE訂購: 加入Orlor貓生活 LINE官方帳號https://lin.ee/VE8TppChttps://www.facebook.com/profile.php?id=100057355243576",
+      "lat": 25.1485412,
+      "lng": 121.0800366,
+      "category": "生活",
+      "city": ""
+    },
+    {
+      "name": "Go go station 寵物美容",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.0461533,121.5876554",
+      "place_id": "108a6ee6ef41e150803ceeadc0f7a48e",
+      "description": "",
+      "lat": 25.0461533,
+      "lng": 121.5876554,
+      "category": "生活",
+      "city": "臺北市"
+    },
+    {
+      "name": "漁鄉魚香民宿",
+      "url": "https://www.google.com/maps/search/?api=1&query=23.6482485,119.5963096",
+      "place_id": "e6da22194ff3028a62271f2c93c68558",
+      "description": "",
+      "lat": 23.6482485,
+      "lng": 119.5963096,
+      "category": "生活",
+      "city": "澎湖縣"
+    },
+    {
+      "name": "Sapientia Guest House 夏比安民宿",
+      "url": "https://www.google.com/maps/search/?api=1&query=23.6349134,121.4221336",
+      "place_id": "2aa1429353f6dc4c32b6b8daf7f4efbf",
+      "description": "",
+      "lat": 23.6349134,
+      "lng": 121.4221336,
+      "category": "生活",
+      "city": "花蓮縣"
+    },
+    {
+      "name": "時苑｜Dwell In Quemoy｜民宿",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.4075031,118.3308879",
+      "place_id": "57ce06098620f1c3904c87e5a64f29c7",
+      "description": "",
+      "lat": 24.4075031,
+      "lng": 118.3308879,
+      "category": "生活",
+      "city": "金門縣"
+    },
+    {
+      "name": "德仁車坊",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.1013402,121.4894506",
+      "place_id": "c8d30e4a1584e736525deeaf8cbb55ee",
+      "description": "",
+      "lat": 25.1013402,
+      "lng": 121.4894506,
+      "category": "生活",
+      "city": "臺北市"
+    },
+    {
+      "name": "建來誠商行",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.1465621,121.397802",
+      "place_id": "db55c122b5a48ac3c02c5bf4754a3bb0",
+      "description": "",
+      "lat": 25.1465621,
+      "lng": 121.397802,
+      "category": "生活",
+      "city": "新北市"
+    },
+    {
+      "name": "沐亘室內設計 Extend Interior Design Co.,Ltd",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.0483697,121.5241144",
+      "place_id": "abbd3f140f7d6be0da40da0f430ebb2d",
+      "description": "",
+      "lat": 25.0483697,
+      "lng": 121.5241144,
+      "category": "生活",
+      "city": "臺北市"
+    },
+    {
+      "name": "沐沐園藝設計（預約制/小班園藝教學/原生植物）",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.7245093,121.7259848",
+      "place_id": "afe398b01037e44af90c217d25d572d9",
+      "description": "",
+      "lat": 24.7245093,
+      "lng": 121.7259848,
+      "category": "生活",
+      "city": "宜蘭縣"
+    },
+    {
+      "name": "影心影像工作室《精緻證件照 非韓式證件照 專業形象照 學士照 全家福 親子照 寵物照 婚紗照 閨蜜照 情侶照 各式紀念寫真 活動記錄 商業拍攝 商品攝影 攝影教學 老照片修復 照片沖印 照相館》休息日另行公告(FB粉絲專頁公告)",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.0264105,121.545712",
+      "place_id": "da9b8641c378d6914b336cc2bf3df4de",
+      "description": "",
+      "lat": 25.0264105,
+      "lng": 121.545712,
+      "category": "生活",
+      "city": "臺北市"
+    },
+    {
+      "name": "紅色焦點商業影像｜台南商業攝影・商品攝影・形象照攝影・空間建築攝影",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.9926503,120.2158449",
+      "place_id": "81d4d653aa7b4ffd3215f7511aa799b8",
+      "description": "",
+      "lat": 22.9926503,
+      "lng": 120.2158449,
+      "category": "生活",
+      "city": "臺南市"
+    },
+    {
+      "name": "Howard Guitar Studio 好樂吉他工作室",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.1060222,121.5328567",
+      "place_id": "d6abe4b34c4ddf2d6d087b301b550f41",
+      "description": "",
+      "lat": 25.1060222,
+      "lng": 121.5328567,
+      "category": "生活",
+      "city": "臺北市"
+    },
+    {
+      "name": "Sleepark Book Gallery 睡公園 音畫書廊",
+      "url": "https://www.google.com/maps/search/?api=1&query=23.0681695,120.1941449",
+      "place_id": "79c194de7780bfea461be7389ade777c",
+      "description": "",
+      "lat": 23.0681695,
+      "lng": 120.1941449,
+      "category": "生活",
+      "city": "臺南市"
+    },
+    {
+      "name": "Coca’s Art Studio｜私人工作室",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.9910276,121.5167719",
+      "place_id": "ef793ec26c0ce21cb08cd01a74360877",
+      "description": "https://www.facebook.com/cocasartstudio/https://www.instagram.com/cocasartstudio/?hl=en",
+      "lat": 24.9910276,
+      "lng": 121.5167719,
+      "category": "生活",
+      "city": "新北市"
+    },
+    {
+      "name": "不厝｜\n藝文音樂展演空間｜在地服務｜場地出租",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.0811089,120.5413767",
+      "place_id": "955d483160bcfb7f7507d6eb6fe895df",
+      "description": "https://www.facebook.com/p/%E4%B8%8D%E5%8E%9D-61566622141283/https://www.instagram.com/nice.h0use247/",
+      "lat": 24.0811089,
+      "lng": 120.5413767,
+      "category": "生活",
+      "city": "彰化縣"
+    },
+    {
+      "name": "社團法人臺灣基地協會",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.1586584,120.6914256",
+      "place_id": "0d51ce084b8a733760134fa784b66390",
+      "description": "",
+      "lat": 24.1586584,
+      "lng": 120.6914256,
+      "category": "生活",
+      "city": "臺中市"
+    },
+    {
+      "name": "綠靖永續｜綠色永續推廣",
+      "url": "https://www.google.com/maps/search/?api=1&query=23.9277572,120.5042514",
+      "place_id": "99b5d4e58d3f79ce0d832cb25b1bfee0",
+      "description": "彰化縣永靖鄉竹後巷34-9號",
+      "lat": 23.9277572,
+      "lng": 120.5042514,
+      "category": "生活",
+      "city": "彰化縣"
+    },
+    {
+      "name": "幸福蛋 Happinessegg｜果醬、果乾｜線上商店",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.0970659,120.9143905",
+      "place_id": "966688517846453e400633eafca5205b",
+      "description": "https://www.happinessegg.com.tw/https://linktr.ee/happinessegghttps://www.facebook.com/Happinessegg/photos/",
+      "lat": 25.0970659,
+      "lng": 120.9143905,
+      "category": "其他",
+      "city": ""
+    },
+    {
+      "name": "娜娜愛吃馬林糖丨婚禮・生日・應援·節慶·日常點心",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.0290479,121.4799067",
+      "place_id": "e8d6e6f9759add8ed3e689a3d54f47e1",
+      "description": "https://www.instagram.com/nana_eats_sweets/",
+      "lat": 25.0290479,
+      "lng": 121.4799067,
+      "category": "其他",
+      "city": "新北市"
+    },
+    {
+      "name": "二五八茶莊｜線上商店",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.4682442,120.2579574",
+      "place_id": "ed0d6e104fe4c7d26d876142c8c024ef",
+      "description": "https://www.twtea258.com/https://www.instagram.com/258_tea/https://www.facebook.com/profile.php?id=100064179424251",
+      "lat": 22.4682442,
+      "lng": 120.2579574,
+      "category": "其他",
+      "city": ""
+    },
+    {
+      "name": "激進工作室｜線上商店",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.0420776,121.5485104",
+      "place_id": "e9ddfcd3658cc236765456e1a3e4e5be",
+      "description": "",
+      "lat": 25.0420776,
+      "lng": 121.5485104,
+      "category": "其他",
+      "city": "臺北市"
+    },
+    {
+      "name": "暄徐手作｜銀飾、銅飾、皮革配件訂製｜線上商店",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.2111716,120.9610824",
+      "place_id": "f9cb062efe96da77b85242f770551d60",
+      "description": "（非店面）https://www.facebook.com/hsuanhsu42/https://www.instagram.com/hsuanhsu.tw/",
+      "lat": 25.2111716,
+      "lng": 120.9610824,
+      "category": "其他",
+      "city": ""
+    },
+    {
+      "name": "sadako手作｜鉤針編織｜韓國材料包｜娃衣",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.0896795,120.9902432",
+      "place_id": "f5b224b6047e3c49c31bbac3344c29fe",
+      "description": "https://www.instagram.com/sadako_handmade/https://portaly.cc/sadako_handmade",
+      "lat": 25.0896795,
+      "lng": 120.9902432,
+      "category": "其他",
+      "city": ""
+    },
+    {
+      "name": "邊走邊瞧工作室｜皮革製品｜線上商店",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.0576642,120.8594589",
+      "place_id": "10b168b599ddd5b8fa9beffe9707266c",
+      "description": "https://www.instagram.com/yun_walknwatch/",
+      "lat": 25.0576642,
+      "lng": 120.8594589,
+      "category": "其他",
+      "city": ""
+    },
+    {
+      "name": "左手作｜皮革製品｜線上商店",
+      "url": "https://www.google.com/maps/search/?api=1&query=22.6044923,120.2567398",
+      "place_id": "011f1de2b7af3ed98028f81e0a4e1748",
+      "description": "https://www.facebook.com/L.H.crafstudio/",
+      "lat": 22.6044923,
+      "lng": 120.2567398,
+      "category": "其他",
+      "city": "高雄市"
+    },
+    {
+      "name": "K&Mi-T 米銻童裝｜線上商店",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.2815814,120.3211288",
+      "place_id": "8a84c7a1f8c3090d72b982331902cc50",
+      "description": "https://www.instagram.com/kolababy666/https://www.facebook.com/p/KMi-T-%E7%B1%B3%E9%8A%BB%E7%AB%A5%E8%A3%9D-100091473262117/",
+      "lat": 24.2815814,
+      "lng": 120.3211288,
+      "category": "其他",
+      "city": ""
+    },
+    {
+      "name": "Aveko艾唯可｜天然清潔劑",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.1626958,121.0289106",
+      "place_id": "5fa0a7627111386d91cd0689dec4ca40",
+      "description": "https://www.instagram.com/aveko_2022https://linkgoods.com/aveko",
+      "lat": 25.1626958,
+      "lng": 121.0289106,
+      "category": "其他",
+      "city": ""
+    },
+    {
+      "name": "雲仔烘焙坊｜線上商店",
+      "url": "https://www.google.com/maps/search/?api=1&query=25.1698426,120.9377756",
+      "place_id": "f4b46b93d6c1cbfcd072b1050e105f9d",
+      "description": "https://www.instagram.com/yunzibakery2023",
+      "lat": 25.1698426,
+      "lng": 120.9377756,
+      "category": "其他",
+      "city": ""
+    },
+    {
+      "name": "荷蘭｜Wanderwoods Jewelry｜銀飾品牌｜線上商店",
+      "url": "https://www.google.com/maps/search/?api=1&query=52.5428644,5.2491578",
+      "place_id": "2726d0802362c842db0c214989571560",
+      "description": "https://www.wanderwoodsjewelry.com/https://www.facebook.com/wanderwoods.jewelryhttps://www.instagram.com/wanderwoods_jewelry",
+      "lat": 52.5428644,
+      "lng": 5.2491578,
+      "category": "其他",
+      "city": "Lelystad"
+    },
+    {
+      "name": "花系女子 Hana Syoujo｜新竹線上花店",
+      "url": "https://www.google.com/maps/search/?api=1&query=24.8583879,120.8817373",
+      "place_id": "92831fa744fd97b60ccfe8c80db26d0a",
+      "description": "花藝訂製、花藝課程https://www.instagram.com/hana_syoujo/📍近新竹好市多/園區/清交 採預約制📍台北信義安和/台中后里 假日可面交（需預約）",
+      "lat": 24.8583879,
+      "lng": 120.8817373,
+      "category": "其他",
+      "city": ""
+    }
+  ]
+}

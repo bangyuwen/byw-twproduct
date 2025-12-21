@@ -35,11 +35,7 @@ import '../styles/global.css';
         <div class="flex-none">
             <span class="text-xl font-bold">✨ 優質店家護照</span>
         </div>
-        <div class="flex-1 w-full sm:w-auto overflow-x-auto">
-            <div role="tablist" class="tabs tabs-bordered justify-start sm:justify-center w-full">
-                <a role="tab" class="tab tab-active h-12 whitespace-nowrap" id="tab-passport" onclick="switchTab('passport')">踩點護照</a>
-            </div>
-        </div>
+
     </div>
 </div>
 
@@ -679,7 +675,7 @@ import '../styles/global.css';
     }
 
     window.showVisited = function() {
-        window.switchTab('passport');
+
         window.setFilter('visited', null);
     }
 
@@ -935,8 +931,6 @@ import '../styles/global.css';
                     if (mapRenderer) mapRenderer.openPopup(id);
                  }, 300);
              }
-             // Always show passport view when sorting/panning
-             window.switchTab('passport');
              // Scroll to map for better UX, center it
              document.getElementById('map')?.scrollIntoView({ behavior: 'smooth', block: 'center' });
         }
@@ -963,49 +957,11 @@ import '../styles/global.css';
         renderRecommendations();
     }
 
-    // Toggle map visibility based on tab
-    window.toggleMap = function(show: boolean) {
-        const mapContainer = document.getElementById('map-container');
-        if(mapContainer) {
-            mapContainer.style.display = show ? 'block' : 'none';
-            if (show && mapRenderer) {
-                mapRenderer.invalidateSize();
-            }
-        }
-    }
+
 
     // Override switchTab to handle map visibility
-    const originalSwitchTab = window.switchTab; // We don't have this, it's defined in inline onclick mostly or valid in global scope??
-    // Actually we need to implement switchTab logic since it was likely inline or global somewhere not visible in snippet?
-    // Wait, the previous code had `switchTab` declared in Window but not implemented in the snippet provided in view_file 130... 
-    // Ah, it WAS NOT IMPLEMENTED in the previous snippet I viewed (lines 1-800).
-    // It must be further down or I missed it.
-    // I will check lines 800+ before assuming. 
-    // BUT, I can see `onclick="switchTab('passport')"` in HTML.
-    // I should implement or locate it.
-    // Let me wrap it to be safe or define it if missing.
-    
-    // START CHECK: Previous view stopped at 800. Let's assume it's there. 
-    window.switchTab = function(tabName: string) {
-        // Hide all views
-        document.getElementById('passport-view')?.classList.add('hidden');
-        document.getElementById('progress-view')?.classList.add('hidden');
-        
-        // Remove active class from tabs
-        document.getElementById('tab-passport')?.classList.remove('tab-active');
-        document.getElementById('tab-progress')?.classList.remove('tab-active');
-        
-        // Show target view
-        document.getElementById(`${tabName}-view`)?.classList.remove('hidden');
-        document.getElementById(`tab-${tabName}`)?.classList.add('tab-active');
-        
-        // Handle Map Visibility
-        if (tabName === 'passport') {
-            window.toggleMap(true);
-        } else {
-            window.toggleMap(false);
-        }
-    }
+
+
 
     function renderRecommendations() {
         const container = document.getElementById('recommendation-list');

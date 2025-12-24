@@ -1,6 +1,6 @@
 {
   "title": "貪吃小隊",
-  "count": 122,
+  "count": 123,
   "extracted_at": "2025-12-17T00:43:32.302178",
   "places": [
     {
@@ -1343,6 +1343,17 @@
       "lng": 121.49577040000001,
       "city": "臺北市",
       "popular_product": "現燙溫體牛肉湯"
+    },
+    {
+      "name": "heaven徒手撥筋",
+      "category": "其他",
+      "place_id": "heaven_tushou_bojin_manual",
+      "description": "專業徒手撥筋服務",
+      "url": "https://www.google.com/maps/search/?api=1&query=heaven徒手撥筋+新竹",
+      "lat": null,
+      "lng": null,
+      "city": "新竹市",
+      "popular_product": "沒有"
     }
   ]
 }

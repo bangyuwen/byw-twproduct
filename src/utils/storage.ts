@@ -6,6 +6,7 @@ export type ShopStatusMap = Record<string, ShopStatus>;
 export const STORAGE_KEYS = {
     STATUS_MAP: 'shop_status_map',
     USER_NAME: 'user_name',
+    FILTER_STATE: 'passport_filter_state',
     // Legacy keys kept for reference or one-time read
     LEGACY_VISITED: 'visited_shops',
     LEGACY_FAVORITE: 'favorite_shops',
@@ -159,8 +160,34 @@ export function initUserName(): void {
 
 export function resetAllData(): void {
     localStorage.removeItem(STORAGE_KEYS.STATUS_MAP);
+    localStorage.removeItem(STORAGE_KEYS.FILTER_STATE);
     // Also clear legacy to be sure
     localStorage.removeItem('visited_shops');
     localStorage.removeItem('favorite_shops');
     localStorage.removeItem('disliked_shops');
+}
+
+// Filter State Interface
+export interface FilterState {
+    mode: string;
+    selectedCategories: string[];
+    locationFilter: string;
+    searchQuery: string;
+    visibleStatuses: string[];
+}
+
+// Save filter state
+export function saveFilterState(state: FilterState): void {
+    localStorage.setItem(STORAGE_KEYS.FILTER_STATE, JSON.stringify(state));
+}
+
+// Load filter state
+export function getFilterState(): FilterState | null {
+    try {
+        const stored = localStorage.getItem(STORAGE_KEYS.FILTER_STATE);
+        if (stored) return JSON.parse(stored);
+    } catch (e) {
+        console.error('Failed to parse filter state', e);
+    }
+    return null;
 }

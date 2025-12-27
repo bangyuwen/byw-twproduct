@@ -185,7 +185,7 @@ import '../styles/global.css';
 
         <div class="modal-action">
             <form method="dialog">
-                <button class="btn btn-primary" onclick="renderShops(); updateMapMarkers();">確定</button>
+                <button class="btn btn-primary" onclick="persistFilterState(); renderShops(); updateMapMarkers();">確定</button>
             </form>
         </div>
     </div>
@@ -211,7 +211,7 @@ import '../styles/global.css';
 
         <div class="modal-action">
             <form method="dialog">
-                <button class="btn btn-primary" onclick="renderShops(); updateMapMarkers();">確定</button>
+                <button class="btn btn-primary" onclick="persistFilterState(); renderShops(); updateMapMarkers();">確定</button>
             </form>
         </div>
     </div>
@@ -266,7 +266,10 @@ import '../styles/global.css';
         getUserName,
         saveUserName,
         initUserName,
-        resetAllData
+        resetAllData,
+        type FilterState,
+        saveFilterState,
+        getFilterState
     } from "../utils/storage";
 
 
@@ -299,6 +302,7 @@ import '../styles/global.css';
             closeSearchDialog: () => void;
             applySearch: () => void;
             clearSearch: () => void;
+            persistFilterState: () => void;
         }
     }
 
@@ -338,6 +342,18 @@ import '../styles/global.css';
     let visibleStatuses = new Set<string>(['none', 'want', 'visited', 'like']);
     let selectedCategories = new Set<string>(); // If empty, effectively all (init in renderFilters) // Default: Dislike hidden
 
+    // Helper function to save current filter state
+    window.persistFilterState = function() {
+        const state: FilterState = {
+            mode: currentFilter,
+            selectedCategories: Array.from(selectedCategories),
+            locationFilter: currentLocationFilter,
+            searchQuery: currentSearchQuery,
+            visibleStatuses: Array.from(visibleStatuses)
+        };
+        saveFilterState(state);
+    }
+
     // Function to toggle status visibility
     window.toggleStatusFilter = function(status: string) {
         if (visibleStatuses.has(status)) {
@@ -345,7 +361,7 @@ import '../styles/global.css';
         } else {
             visibleStatuses.add(status);
         }
-        // Save preference could be added here if desired
+        window.persistFilterState();
     }
     
     window.openSettingsDialog = function() {
@@ -355,15 +371,61 @@ import '../styles/global.css';
 
     document.addEventListener('DOMContentLoaded', () => {
         initUserName();
-        // Sync local variable just in case, though getUserName() already handled it
-        userName = getUserName(); 
-        fetchData();
+        userName = getUserName();
 
-        userName = getUserName(); 
+        // Load saved filter state
+        const savedState = getFilterState();
+        if (savedState) {
+            currentFilter = savedState.mode || 'all';
+            currentLocationFilter = savedState.locationFilter || 'all';
+            currentSearchQuery = savedState.searchQuery || '';
+            selectedCategories = new Set(savedState.selectedCategories || []);
+            visibleStatuses = new Set(savedState.visibleStatuses || ['none', 'want', 'visited', 'like']);
+        }
+
         fetchData();
     });
 
-    // ... (fetchData remains mostly unchanged, just variables) ...
+    // Sync UI elements with loaded filter state
+    function syncUIWithFilterState() {
+        // Update mode buttons
+        document.querySelectorAll('#filter-categories .btn').forEach(b => {
+            b.classList.remove('btn-primary');
+            b.classList.add('btn-ghost');
+        });
+        const modeBtn = document.getElementById(`btn-mode-${currentFilter}`);
+        if (modeBtn) {
+            modeBtn.classList.remove('btn-ghost');
+            modeBtn.classList.add('btn-primary');
+        }
+
+        // Update location dropdown
+        const locationSelect = document.getElementById('location-filter') as HTMLSelectElement;
+        if (locationSelect) {
+            locationSelect.value = currentLocationFilter;
+        }
+
+        // Update search button styling
+        const searchBtn = document.getElementById('search-btn');
+        if (searchBtn) {
+            if (currentSearchQuery) {
+                searchBtn.classList.remove('btn-ghost');
+                searchBtn.classList.add('btn-primary');
+            } else {
+                searchBtn.classList.remove('btn-primary');
+                searchBtn.classList.add('btn-ghost');
+            }
+        }
+
+        // Update settings dialog checkboxes
+        const statusFilters = ['none', 'want', 'visited', 'like', 'dislike'];
+        statusFilters.forEach(status => {
+            const checkbox = document.getElementById(`filter-status-${status}`) as HTMLInputElement;
+            if (checkbox) {
+                checkbox.checked = visibleStatuses.has(status);
+            }
+        });
+    }
 
     async function fetchData() {
         try {
@@ -412,6 +474,7 @@ import '../styles/global.css';
 
             initMap();
             renderFilters();
+            syncUIWithFilterState();
             renderShops();
             updateProgress();
         } catch (err) {
@@ -504,7 +567,7 @@ import '../styles/global.css';
             selectedCategories.add(cat);
         }
         // UI is checkbox, so it updates itself visually.
-        // Logic updates Set. "OK" button will render.
+        // Logic updates Set. "OK" button will render and save.
     }
     
     window.toggleAllCategories = function(select: boolean) {
@@ -530,26 +593,27 @@ import '../styles/global.css';
 
     window.setLocationFilter = function(location: string) {
         currentLocationFilter = location;
-        
+        window.persistFilterState();
+
         // We need to re-run filtering logic similar to renderShops but we want the result to use for map.
         // Actually renderShops calls getFilteredShops internally.
-        // But we want to call updateMapMarkers with the NEW filtered list. 
+        // But we want to call updateMapMarkers with the NEW filtered list.
         // And we want to bounds check on THAT list.
-        
-        // Let's refactor slightly: 
-        // 1. Get filtered shops 
+
+        // Let's refactor slightly:
+        // 1. Get filtered shops
         const filtered = getFilteredShops(currentFilter, allShops, visitedShops, null, null, currentLocationFilter, currentSearchQuery);
-        
+
         // 2. Render list
-        renderShops(); // renderShops recalculates filtered internally if we don't pass it. 
-                       // Wait, renderShops implementation (lines 394+) likely calls getFilteredShops? 
+        renderShops(); // renderShops recalculates filtered internally if we don't pass it.
+                       // Wait, renderShops implementation (lines 394+) likely calls getFilteredShops?
                        // Let's check view_file 360-400. Yes line 399/400 suggests it rebuilds list or we should pass it.
                        // Looking at current implementation of renderShops (not fully visible but implied), it likely gets filtered shops itself.
                        // However, updateMapMarkers ALSO likely gets filtered shops itself or expects them.
-                       
-        // To be SAFE and efficient, let's look at `renderShops` signature or logic. 
+
+        // To be SAFE and efficient, let's look at `renderShops` signature or logic.
         // Actually, let's just use `filtered` for map syncing since that's independent of rendering.
-        
+
         renderShops();
         updateMapMarkers();
         
@@ -597,13 +661,14 @@ import '../styles/global.css';
     window.setFilter = function(category: string, btnElement: HTMLElement | null) {
         currentFilter = category;
         selectedShopId = null; // Reset selection on filter change
-        
+        window.persistFilterState();
+
         // Reset Category Buttons
         document.querySelectorAll('#filter-categories .btn').forEach(b => {
              b.classList.remove('btn-primary');
              b.classList.add('btn-ghost');
         });
-        
+
         // Reset Toolbar Buttons
         const favBtn = document.getElementById('btn-filter-favorite');
         const dislikeBtn = document.getElementById('btn-filter-disliked');
@@ -615,7 +680,7 @@ import '../styles/global.css';
             btnElement.classList.remove('btn-ghost');
             btnElement.classList.add('btn-primary');
         }
-        
+
         // Highlight Toolbar Buttons based on currentFilter
         if (currentFilter === 'favorite' && favBtn) {
             favBtn.classList.remove('btn-ghost');
@@ -641,6 +706,7 @@ import '../styles/global.css';
 
     window.setSearchQuery = function(query: string) {
         currentSearchQuery = query.trim().toLowerCase();
+        window.persistFilterState();
         // Update button style to indicate active search
         const btn = document.getElementById('search-btn');
         if (btn) {

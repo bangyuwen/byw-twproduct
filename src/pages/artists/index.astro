@@ -1,5 +1,6 @@
 ---
 import Layout from '../../layouts/Layout.astro';
+import EntityList from '../../components/EntityList.astro';
 import type { Artist } from '../../types';
 import artistsData from '../../data/artists.json';
 
@@ -7,111 +8,10 @@ const artists: Artist[] = artistsData;
 ---
 
 <Layout title="藝術家 - 台灣支持名錄">
-  <div class="page-header">
-    <h1>藝術家</h1>
-    <p class="intro">支持台灣的藝術家，共 {artists.length} 位。</p>
-  </div>
-
-  {artists.length > 0 ? (
-    <div class="card-grid">
-      {artists.map((item) => (
-        <div class="card artist-card">
-          <h3>{item.name}</h3>
-          
-          <div class="card-content">
-            {item.notes && item.notes.startsWith('http') ? (
-              <a href={item.notes} target="_blank" rel="noopener noreferrer" class="link-btn">
-                相關連結 ↗
-              </a>
-            ) : item.notes ? (
-              <p class="notes">{item.notes}</p>
-            ) : null}
-          </div>
-        </div>
-      ))}
-    </div>
-  ) : (
-    <p class="empty">目前沒有資料，歡迎貢獻！</p>
-  )}
+  <EntityList
+    title="藝術家"
+    subtitle={`支持台灣的藝術家，共 ${artists.length} 位。`}
+    items={artists}
+    cardClass="artist-card"
+  />
 </Layout>
-
-<style>
-  .page-header {
-    text-align: center;
-    margin-bottom: 4rem;
-  }
-
-  .intro {
-    font-size: 1.1rem;
-    color: var(--text-muted);
-    margin-top: 1rem;
-    font-family: 'Noto Serif TC', serif;
-  }
-
-  .card-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-    gap: 2rem;
-  }
-
-  .artist-card {
-    background: var(--bg-surface);
-    border: none;
-    border-radius: var(--radius);
-    padding: 2.5rem 2rem;
-    transition: all 0.3s ease;
-    box-shadow: var(--shadow);
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-  }
-
-  .artist-card:hover {
-    box-shadow: var(--shadow-lg);
-    transform: translateY(-4px);
-  }
-
-  .artist-card h3 {
-    font-size: 1.5rem;
-    color: var(--primary);
-    margin-bottom: 1.5rem;
-  }
-
-  .card-content {
-    margin-top: auto;
-    width: 100%;
-  }
-
-  .notes {
-    font-size: 1rem;
-    color: var(--text-muted);
-    line-height: 1.6;
-    font-family: 'Noto Serif TC', serif;
-    font-style: italic;
-  }
-
-  .link-btn {
-    display: inline-block;
-    padding: 0.5rem 1rem;
-    background: transparent;
-    border: 1px solid var(--border);
-    color: var(--text-muted);
-    border-radius: var(--radius-full);
-    text-decoration: none;
-    font-size: 0.9rem;
-    font-weight: 500;
-    transition: all 0.3s ease;
-  }
-
-  .link-btn:hover {
-    border-color: var(--secondary);
-    color: var(--secondary);
-  }
-
-  .empty {
-    text-align: center;
-    color: var(--text-muted);
-    padding: 3rem;
-  }
-</style>

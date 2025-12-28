@@ -41,16 +41,8 @@ export interface MiscCreator {
   is_recommender?: boolean;
 }
 
-export interface Place {
-  name: string;
-  url: string;
-  place_id: string;
-  image_url: string | null;
-  description: string | null;
-  category: string;
-  lat: number | null;
-  lng: number | null;
-}
+// Re-export Place from types/place.ts (canonical source)
+export type { Place } from './types/place';
 
 export interface GluttonyData {
   title: string;

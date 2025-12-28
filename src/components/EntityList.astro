@@ -1,0 +1,122 @@
+---
+interface Props {
+  title: string;
+  subtitle: string;
+  items: Array<{
+    name: string;
+    notes?: string;
+    is_recommender?: boolean;
+  }>;
+  cardClass?: string;
+}
+
+const { title, subtitle, items, cardClass = 'entity-card' } = Astro.props;
+---
+
+<div class="page-header">
+  <h1>{title}</h1>
+  <p class="intro">{subtitle}</p>
+</div>
+
+{items.length > 0 ? (
+  <div class="card-grid">
+    {items.map((item) => (
+      <div class:list={['card', cardClass]}>
+        <h3>{item.name}</h3>
+
+        <div class="card-content">
+          {item.notes && item.notes.startsWith('http') ? (
+            <a href={item.notes} target="_blank" rel="noopener noreferrer" class="link-btn">
+              相關連結 ↗
+            </a>
+          ) : item.notes && item.notes !== 'Ｘ' && item.notes !== 'X' ? (
+            <p class="notes">{item.notes}</p>
+          ) : null}
+        </div>
+      </div>
+    ))}
+  </div>
+) : (
+  <p class="empty">目前沒有資料，歡迎貢獻！</p>
+)}
+
+<style>
+  .page-header {
+    text-align: center;
+    margin-bottom: 4rem;
+  }
+
+  .intro {
+    font-size: 1.1rem;
+    color: var(--text-muted);
+    margin-top: 1rem;
+    font-family: 'Noto Serif TC', serif;
+  }
+
+  .card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 2rem;
+  }
+
+  .card {
+    background: var(--bg-surface);
+    border: none;
+    border-radius: var(--radius);
+    padding: 2.5rem 2rem;
+    transition: all 0.3s ease;
+    box-shadow: var(--shadow);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .card:hover {
+    box-shadow: var(--shadow-lg);
+    transform: translateY(-4px);
+  }
+
+  .card h3 {
+    font-size: 1.5rem;
+    color: var(--primary);
+    margin-bottom: 1.5rem;
+  }
+
+  .card-content {
+    margin-top: auto;
+    width: 100%;
+  }
+
+  .notes {
+    font-size: 1rem;
+    color: var(--text-muted);
+    line-height: 1.6;
+    font-family: 'Noto Serif TC', serif;
+    font-style: italic;
+  }
+
+  .link-btn {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background: transparent;
+    border: 1px solid var(--border);
+    color: var(--text-muted);
+    border-radius: var(--radius-full);
+    text-decoration: none;
+    font-size: 0.9rem;
+    font-weight: 500;
+    transition: all 0.3s ease;
+  }
+
+  .link-btn:hover {
+    border-color: var(--secondary);
+    color: var(--secondary);
+  }
+
+  .empty {
+    text-align: center;
+    color: var(--text-muted);
+    padding: 3rem;
+  }
+</style>

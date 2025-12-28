@@ -8,6 +8,7 @@
     "preview": "astro preview",
     "astro": "astro",
     "refresh-data": "node scripts/refresh-data.js",
+    "update-place": "npx tsx scripts/update_place.ts",
     "test": "vitest"
   },
   "dependencies": {

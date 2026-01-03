@@ -1,4 +1,6 @@
 {
+  "title": "派圖",
+  "extracted_at": "2025-12-17T00:43:32.302178",
   "places": [
     {
       "name": "ANNIES HAIR",
@@ -133,83 +135,6 @@
       "popular_product": "處女蟳、鹽酥小卷、烤大蛤"
     },
     {
-      "name": "良方藥局",
-      "url": "https://www.google.com/maps/place/%E8%89%AF%E6%96%B9%E8%97%A5%E5%B1%80/@23.0273579,120.2566879,17z/data=!3m1!4b1!4m6!3m5!1s0x346e70cc03870c53:0xd013243c33ada109!8m2!3d23.0273579!4d120.2566879!16s%2Fg%2F1td7wv0k",
-      "place_id": "0x346e7f2268b8e0a1:0xb0a8c2791d261e4b",
-      "description": "位於台南市永康區的健保特約藥局。",
-      "lat": 23.0273579,
-      "lng": 120.2566879,
-      "category": "醫療",
-      "city": "台南市",
-      "popular_product": "藥品調劑、醫藥諮詢"
-    },
-    {
-      "name": "玉春花拌飯館",
-      "url": "https://www.google.com/maps/place/%E7%8E%89%E6%98%A5%E8%8A%B1%E6%8B%8C%E9%A3%AF%E9%A4%A8/@22.6411725,120.303127,17z/data=!3m1!4b1!4m6!3m5!1s0x346e04f1b938c18b:0x73887c094151fcea!8m2!3d22.6411676!4d120.3057019!16s%2Fg%2F11g8c8m0yx",
-      "place_id": "0x346e04f1b938c18b:0x73887c094151fcea",
-      "description": "位於高雄市三民區的韓式/台式拌飯專賣店，以無油煙、清爽健康的料理方式聞名，內用提供免費湯品飲料。",
-      "lat": 22.6411676,
-      "lng": 120.3057019,
-      "category": "美食",
-      "city": "高雄市",
-      "popular_product": "油封嫩雞+塔香牛肉雙拼、辣蘿蔔"
-    },
-    {
-      "name": "散步舖傢具 高雄門市",
-      "url": "https://www.google.com/maps/place/%E6%95%A3%E6%AD%A5%E8%88%96%E5%82%A2%E5%85%B7+%E9%AB%98%E9%9B%84%E9%96%80%E5%B8%82/@22.6335645,120.2857197,17z/data=!3m1!4b1!4m6!3m5!1s0x346e052d04270135:0xe4ad16e7e55edb9!8m2!3d22.6335596!4d120.2882946!16s%2Fg%2F11rcwf6yhf",
-      "place_id": "0x346e052d04270135:0xe4ad16e7e55edb9",
-      "description": "位於高雄市的質感家具店，代理Karimoku、Herman Miller等知名品牌，提供北歐老家具與燈飾，營造如家般的展示空間。",
-      "lat": 22.6335596,
-      "lng": 120.2882946,
-      "category": "購物",
-      "city": "高雄市",
-      "popular_product": "北歐老家具、單椅、Karimoku60沙發"
-    },
-    {
-      "name": "肉粽泰Tai",
-      "url": "https://www.google.com/maps/place/%E8%82%89%E7%B2%BD%E6%B3%B0Tai/@22.6316702,120.2816555,17z/data=!3m1!4b1!4m6!3m5!1s0x346e046fbf0cc401:0xa2ff8687aa2c8372!8m2!3d22.6316653!4d120.2842304!16s%2Fg%2F11b6ch1qcq",
-      "place_id": "0x346e046fbf0cc401:0xa2ff8687aa2c8372",
-      "description": "原為70年老店郭家肉粽，位於高雄鹽埕區，由徒弟接手經營。提供道地的南部軟糯口感肉粽。",
-      "lat": 22.6316653,
-      "lng": 120.2842304,
-      "category": "美食",
-      "city": "高雄市",
-      "popular_product": "肉粽、四神湯、碗粿"
-    },
-    {
-      "name": "赤山黃鴨肉麵",
-      "url": "https://www.google.com/maps/place/%E8%B5%A4%E5%B1%B1%E9%BB%83%E9%B4%A8%E8%82%89%E9%BA%B5/@22.6401185,120.3504144,17z/data=!3m1!4b1!4m6!3m5!1s0x346e1b8627d31a9f:0xa66ac54028d1ec5a!8m2!3d22.6401136!4d120.3529893!16s%2Fg%2F11rql6kwn5",
-      "place_id": "0x346e1b8627d31a9f:0xa66ac54028d1ec5a",
-      "description": "位於高雄鳳山區的低調人氣麵店，無招牌無菜單，以軟嫩入味的燻鴨肉和鴨肉麵聞名。",
-      "lat": 22.6401136,
-      "lng": 120.3529893,
-      "category": "美食",
-      "city": "高雄市",
-      "popular_product": "鴨肉乾麵、清湯、煙燻鴨肉"
-    },
-    {
-      "name": "法果子小串烤 凱龍星店 新興區宵夜/寵物友善/I人獨食首選/塔羅紫微洞悉卡",
-      "url": "https://www.google.com/maps/place/%E6%B3%95%E6%9E%9C%E5%AD%90%E5%B0%8F%E4%B8%B2%E7%83%A4+%E5%87%B1%E9%BE%8D%E6%98%9F%E5%BA%97+%E6%96%B0%E8%88%88%E5%8D%80%E5%AE%B5%E5%A4%9C%2F%E5%AF%B5%E7%89%A9%E5%8F%8B%E5%96%84%2FI%E4%BA%BA%E7%8D%A8%E9%A3%9F%E9%A6%96%E9%81%B8%2F%E5%A1%94%E7%BE%85%E7%B4%AB%E5%BE%AE%E6%B4%9E%E6%82%89%E5%8D%A1/@22.6239198,120.3038383,17z/data=!3m1!4b1!4m6!3m5!1s0x346e1bebfb50d9bd:0x6997736758c8a717!8m2!3d22.6239149!4d120.3064132!16s%2Fg%2F11tw_mhqy2",
-       "place_id": "0x346e1bebfb50d9bd:0x6997736758c8a717",
-      "description": "位於高雄新興區的平價串燒攤，提供椒鹽與焦糖兩種獨特風味的串烤，寵物友善且適合一人獨食。",
-      "lat": 22.6239149,
-      "lng": 120.3064132,
-      "category": "美食",
-      "city": "高雄市",
-      "popular_product": "焦糖串烤、蒜香蛤蠣湯、椒鹽黑輪片"
-    },
-    {
-      "name": "眷鳥咖啡商行",
-      "url": "https://www.google.com/maps/place/Nostalgia+Coffee+Roastery/@22.6205224,120.2928438,17z/data=!3m1!4b1!4m6!3m5!1s0x346e055022de4c7f:0xd8c974869421475f!8m2!3d22.6205175!4d120.2954187!16s%2Fg%2F11tdxxdnlp",
-      "place_id": "0x346e055022de4c7f:0xd8c974869421475f",
-      "description": "位於高雄市的復古風格咖啡廳，保留老屋氛圍，提供精緻的戚風蛋糕與手沖咖啡。",
-      "lat": 22.6205175,
-      "lng": 120.2954187,
-      "category": "咖啡廳",
-      "city": "高雄市",
-      "popular_product": "戚風蛋糕、布丁、鹹派"
-    },
-    {
       "name": "岸等",
       "url": "https://www.google.com/maps/place/%E5%B2%B8%E7%AD%89/@22.6212853,120.2841885,17z/data=!3m1!4b1!4m6!3m5!1s0x346e054406e5083b:0xb464895f4ed6172d!8m2!3d22.6212804!4d120.2867634!16s%2Fg%2F11kr_gm2mk",
       "place_id": "0x346e054406e5083b:0xb464895f4ed6172d",
@@ -241,6 +166,193 @@
       "category": "其他",
       "city": "新北市",
       "popular_product": "文化導覽、文史出版"
+    },
+    {
+      "name": "摩斯漢堡 小碧潭店",
+      "url": "https://www.google.com/maps/place/MOS+BURGER+Xiaobitan+Shop/@24.9733334,121.5297852,17z/data=!3m1!4b1!4m6!3m5!1s0x34680218e0d69105:0x4857f9399d6238f2!8m2!3d24.9733334!4d121.5297852!16s%2Fg%2F11bw8m4v9t?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoASAFQAw%3D%3D",
+      "place_id": "0x34680218e0d69105:0x4857f9399d6238f2",
+      "description": "位於新北市新店區的知名連鎖速食店，提供現點現做的米漢堡與經典紅茶。",
+      "lat": 24.9733334,
+      "lng": 121.5297852,
+      "category": "美食",
+      "city": "新北市",
+      "popular_product": "超級大麦燒肉米漢堡, 海鮮珍珠堡, 肉醬薯條, 米漢堡, 紅茶"
+    },
+    {
+      "name": "良方藥局",
+      "url": "https://www.google.com/maps/place/%E8%89%AF%E6%96%B9%E8%97%A5%E5%B1%80/@23.023243,120.258045,17z/data=code ~/.claudem1source /Users/bangyuwen/Github/byw-auto-notes/.venv/bin/activateb1source /Users/bangyuwen/Github/byw-auto-notes/.venv/bin/activatem6code ~/.claudem5claude /usages0x346e7f2268b8e0a1:0xb0a8c2791d261e4bgit push -fm2code ~/.clauded23.023243source /Users/bangyuwen/Github/byw-auto-notes/.venv/bin/activated120.258045",
+      "place_id": "0x346e7f2268b8e0a1:0xb0a8c2791d261e4b",
+      "description": "位於台南市永康區的健保特約藥局。",
+      "lat": 23.0273579,
+      "lng": 120.2566879,
+      "category": "醫療",
+      "city": "台南市",
+      "popular_product": "藥品調劑、醫藥諮詢"
+    },
+    {
+      "name": "玉春花拌飯館",
+      "url": "https://www.google.com/maps/place/%E7%8E%89%E6%98%A5%E8%8A%B1%E6%8B%8C%E9%A3%AF%E9%A4%A8/@22.6411676,120.3057019,17z/data=!3m1!4b1!4m6!3m5!1s0x346e04f1b938c18b:0x73887c094151fcea!8m2!3d22.6411676!4d120.3057019!16s%2Fg%2F11g8c8m0yx?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoASAFQAw%3D%3D",
+      "place_id": "0x346e04f1b938c18b:0x73887c094151fcea",
+      "description": "位於高雄市三民區的韓式/台式拌飯專賣店，主打健康拌飯，提供油封嫩雞腿、塔香牛肉及蒸鱸魚等菜色。無油煙、清爽健康。",
+      "lat": 22.6411676,
+      "lng": 120.3057019,
+      "category": "美食",
+      "city": "高雄市",
+      "popular_product": "辣蘿蔔、油封雞、油封嫩雞腿加蜜汁滷雞腿拌飯、塔香牛肉"
+    },
+    {
+      "name": "散步舖傢具 高雄門市",
+      "url": "https://www.google.com/maps/place/%E6%95%A3%E6%AD%A5%E8%88%96%E5%82%A2%E5%85%B7+%E9%AB%98%E9%9B%84%E9%96%80%E5%B8%82/@22.6335596,120.2882946,17z/data=!3m1!4b1!4m6!3m5!1s0x346e052d04270135:0xe4ad16e7e55edb9!8m2!3d22.6335596!4d120.2882946!16s%2Fg%2F11rcwf6yhf?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoASAFQAw%3D%3D",
+      "place_id": "0x346e052d04270135:0xe4ad16e7e55edb9",
+      "description": "位於高雄市三民區的傢俬店，以質感北歐老家具、單椅、燈飾聞名，代理Karimoku、Herman Miller等品牌，提供店內取貨與當日配送服務。",
+      "lat": 22.6335596,
+      "lng": 120.2882946,
+      "category": "購物",
+      "city": "高雄市",
+      "popular_product": "北歐老家具、Karimoku60沙發、單椅"
+    },
+    {
+      "name": "肉粽泰Tai",
+      "url": "https://www.google.com/maps/place/%E8%82%89%E7%B2%BD%E6%B3%B0Tai/@22.6316653,120.2842304,17z/data=!4m7!3m6!1s0x346e046fbf0cc401:0xa2ff8687aa2c8372!8m2!3d22.6316653!4d120.2842304!10e9!16s%2Fg%2F11b6ch1qcq?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoASAFQAw%3D%3D",
+      "place_id": "0x346e046fbf0cc401:0xa2ff8687aa2c8372",
+      "description": "位於高雄鹽埕區的老字號肉粽店，提供南部口味的紮實手工肉粽、四神湯與碗粿。環境簡單，保留傳統風味。",
+      "lat": 22.6316653,
+      "lng": 120.2842304,
+      "category": "美食",
+      "city": "高雄市",
+      "popular_product": "郭家肉粽、肉粽、四神湯、碗粿、辣椒醬"
+    },
+    {
+      "name": "赤山黃鴨肉麵",
+      "url": "https://www.google.com/maps/place/%E8%B5%A4%E5%B1%B1%E9%BB%83%E9%B4%A8%E8%82%89%E9%BA%B5/@22.6401136,120.3529893,17z/data=!3m1!4b1!4m6!3m5!1s0x346e1b8627d31a9f:0xa66ac54028d1ec5a!8m2!3d22.6401136!4d120.3529893!16s%2Fg%2F11rql6kwn5?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoASAFQAw%3D%3D",
+      "place_id": "0x346e1b8627d31a9f:0xa66ac54028d1ec5a",
+      "description": "位於高雄鳳山區的低調人氣麵店，無招牌無菜單，以軟嫩入味的燻鴨肉和鴨肉麵聞名。",
+      "lat": 22.6401136,
+      "lng": 120.3529893,
+      "category": "美食",
+      "city": "高雄市",
+      "popular_product": "鴨肉乾麵、清湯、燻鴨肉、滷味"
+    },
+    {
+      "name": "法果子小串烤 凱龍星店",
+      "url": "https://www.google.com/maps/place/%E6%B3%95%E6%9E%9C%E5%AD%90%E5%B0%8F%E4%B8%B2%E7%83%A4+%E5%87%B1%E9%BE%8D%E6%98%9F%E5%BA%97+%E6%96%B0%E8%88%88%E5%8D%80%E5%AE%B5%E5%A4%9C%2F%E5%AF%B5%E7%89%A9%E5%8F%8B%E5%96%84%2FI%E4%BA%BA%E7%8D%A8%E9%A3%9F%E9%A6%96%E9%81%B8%2F%E5%A1%94%E7%BE%85%E7%B4%AB%E5%BE%AE%E6%B4%9E%E6%82%89%E5%8D%A1/@22.6239149,120.3064132,17z/data=!4m7!3m6!1s0x346e1bebfb50d9bd:0x6997736758c8a717!8m2!3d22.6239149!4d120.3064132!10e9!16s%2Fg%2F11tw_mhqy2?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoASAFQAw%3D%3D",
+      "place_id": "0x346e1bebfb50d9bd:0x6997736758c8a717",
+      "description": "位於高雄新興區的日式串燒店，提供各式美味串燒和炸物，還有獨特的塔羅占卜服務，是宵夜聚餐的好去處。",
+      "lat": 22.6239149,
+      "lng": 120.3064132,
+      "category": "美食",
+      "city": "高雄市",
+      "popular_product": "椒鹽剝皮辣椒牛肉捲、酒蒸蛤蜊、烤玉米、各式串燒、炸物、塔羅占卜"
+    },
+    {
+      "name": "Nostalgia Coffee Roastery (眷鳥咖啡商行)",
+      "url": "https://www.google.com/maps/place/Nostalgia+Coffee+Roastery/@22.6205175,120.2954187,17z/data=!3m1!4b1!4m6!3m5!1s0x346e055022de4c7f:0xd8c974869421475f!8m2!3d22.6205175!4d120.2954187!16s%2Fg%2F11tdxxdnlp?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoASAFQAw%3D%3D",
+      "place_id": "0x346e055022de4c7f:0xd8c974869421475f",
+      "description": "位於高雄市的復古風格咖啡廳，保留老屋氛圍，提供精緻的戚風蛋糕與手沖咖啡。",
+      "lat": 22.6205175,
+      "lng": 120.2954187,
+      "category": "咖啡廳",
+      "city": "高雄市",
+      "popular_product": "宇治金時麻糬戚風、焦糖布丁、手沖咖啡"
+    },
+    {
+      "name": "Rhythm Barbershop",
+      "url": "https://www.google.com/maps/place/Rhythm+Barbershop/@25.033961,121.5358524,15z/data=!4m11!1m2!2m1!1sRhythm+BarberRhythm+Barbershop+Taipeishop+!3m7!1s0x3442ab286cf12b09:0x35fd3e8fca2d13e8!8m2!3d25.0320383!4d121.5445465!10e1!15sCilSaHl0aG0gQmFyYmVyUmh5dGhtIEJhcmJlcnNob3AgVGFpcGVpc2hvcForIilyaHl0aG0gYmFyYmVycmh5dGhtIGJhcmJlcnNob3AgdGFpcGVpc2hvcJIBC2JhcmJlcl9zaG9wmgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVU5RZDJOSVMwWjNFQUXgAQD6AQQIABA6!16s%2Fg%2F11j8_c_rr_?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoASAFQAw%3D%3D",
+      "place_id": "0x3442ab286cf12b09:0x35fd3e8fca2d13e8",
+      "description": "位於台北市的男士理髮廳，以黑膠唱片、真空管音響的復古氛圍聞名。提供專業男士剪髮、修容服務，店內還有柴犬陪伴，並提供咖啡。",
+      "lat": 25.033961,
+      "lng": 121.5358524,
+      "category": "購物",
+      "city": "台北市",
+      "popular_product": "男士理髮、修容、咖啡"
+    },
+    {
+      "name": "開飯川食堂 永和店",
+      "url": "https://www.google.com/maps/place/Kaifun/@25.0080005,121.5076013,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a9db4ced522b:0x908c799b59ef6e00!8m2!3d25.0080005!4d121.5076013!16s%2Fg%2F11b634q19f",
+      "place_id": "0x3442a9db4ced522b:0x908c799b59ef6e00",
+      "description": "川蔡料理連鎖名店，提供流口水雞、麻婆燒豆腐等經典川菜，是家庭聚餐的好選擇。",
+      "lat": 25.0080005,
+      "lng": 121.5076013,
+      "category": "餐廳",
+      "city": "新北市",
+      "popular_product": "流口水雞、麻婆燒豆腐、催淚蛋"
+    },
+    {
+      "name": "開飯川食堂 中和環球店",
+      "url": "https://www.google.com/maps/place/Kaifun/@25.0066732,121.4747785,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a9b20edb1aed:0x7bd07b7ac932517c!8m2!3d25.0066732!4d121.4747785!16s%2Fg%2F11nh4fclhf",
+      "place_id": "0x3442a9b20edb1aed:0x7bd07b7ac932517c",
+      "description": "川蔡料理連鎖名店，提供流口水雞、麻婆燒豆腐等經典川菜，是家庭聚餐的好選擇。",
+      "lat": 25.0066732,
+      "lng": 121.4747785,
+      "category": "餐廳",
+      "city": "新北市",
+      "popular_product": "流口水雞、麻婆燒豆腐、催淚蛋"
+    },
+    {
+      "name": "開飯川食堂 微風廣場店",
+      "url": "https://www.google.com/maps/place/Kaifun/@25.0461561,121.5444105,15z/data=!4m10!1m2!2m1!1z6ZaL6aOv5bed6aOf5aCCIOW-rumiqOW7o-WgtOW6lw!3m6!1s0x3442ab006e59f465:0x81f0e341a8ae5f1!8m2!3d25.0461561!4d121.5444105!15sCh_plovpo6_lt53po5_loIIg5b6u6aKo5buj5aC05bqXIgOIAQFaJSIj6ZaL6aOvIOW3nSDpo5_loIIg5b6u6aKoIOW7o-WgtCDlupeSARJzaWNodWFuX3Jlc3RhdXJhbnTgAQA!16s%2Fg%2F11w1pxy_7r",
+      "place_id": "0x3442ab006e59f465:0x81f0e341a8ae5f1",
+      "description": "精緻川菜料理，位於微風廣場，環境優雅，適合商務聚餐與家庭聚會。",
+      "lat": 25.0461561,
+      "lng": 121.5444105,
+      "category": "餐廳",
+      "city": "台北市",
+      "popular_product": "流口水雞、麻婆燒豆腐、催淚蛋"
+    },
+    {
+      "name": "開飯川食堂 板橋店",
+      "url": "https://www.google.com/maps/place/Kaifun/@25.0109601,121.4644536,17z/data=!3m2!4b1!5s0x3442a81eec27c0a9:0xa2d37b5761c01c6e!4m6!3m5!1s0x3442a81eec765801:0x56fbde6dd1dbaba4!8m2!3d25.0109601!4d121.4644536!16s%2Fg%2F11c2lc6pnd",
+      "place_id": "0x3442a81eec765801:0x56fbde6dd1dbaba4",
+      "description": "位於新北市板橋區，交通便利，適合家庭聚餐，提供道地川菜。",
+      "lat": 25.0109601,
+      "lng": 121.4644536,
+      "category": "餐廳",
+      "city": "新北市",
+      "popular_product": "流口水雞、麻婆燒豆腐、催淚蛋"
+    },
+    {
+      "name": "開飯川食堂 台茂店",
+      "url": "https://www.google.com/maps/place/Kaifun+Taimall+Branch/@25.0536603,121.2885645,17z/data=!3m2!4b1!5s0x3442a074874fa837:0x23d5b066e6371b0b!4m6!3m5!1s0x3442a074f7910651:0xf9bc9ae1350cf7f5!8m2!3d25.0536603!4d121.2885645",
+      "place_id": "0x3442a074f7910651:0xf9bc9ae1350cf7f5",
+      "description": "位於桃園台茂購物中心，寬敞明亮，適合親子用餐，提供美味川菜。",
+      "lat": 25.0536603,
+      "lng": 121.2885645,
+      "category": "餐廳",
+      "city": "桃園市",
+      "popular_product": "流口水雞、麻婆燒豆腐、催淚蛋"
+    },
+    {
+      "name": "開飯川食堂 微風南山店",
+      "url": "https://www.google.com/maps/place/Kaifun+Breeze+NanShan+Branch/@25.0343726,121.566371,17z/data=!3m2!4b1!5s0x3442abefe94582a9:0xc0d7276197fa2133!4m6!3m5!1s0x3442ab095d9a02fb:0x65c0ad76e019bf41!8m2!3d25.0343726!4d121.566371",
+      "place_id": "0x3442ab095d9a02fb:0x65c0ad76e019bf41",
+      "description": "位於微風南山，坐擁台北信義區美景，時尚舒適的川菜體驗。",
+      "lat": 25.0343726,
+      "lng": 121.566371,
+      "category": "餐廳",
+      "city": "台北市",
+      "popular_product": "流口水雞、麻婆燒豆腐、催淚蛋"
+    },
+    {
+      "name": "開飯川食堂 宏匯店",
+      "url": "https://www.google.com/maps/place/Kaifun+Honhui+Plaza/@25.060194,121.4494237,17z/data=!4m15!1m8!3m7!1s0x3442a9766dae49d5:0xcfe4f51c91e9e8c2!2sKaifun+Honhui+Plaza!8m2!3d25.0596005!4d121.4495833!10e5!16s%2Fg%2F11jk48xfmb!3m5!1s0x3442a9766dae49d5:0xcfe4f51c91e9e8c2!8m2!3d25.0596005!4d121.4495833",
+      "place_id": "0x3442a9766dae49d5:0xcfe4f51c91e9e8c2",
+      "description": "位於新莊宏匯廣場，寬敞舒適，適合家庭聚餐，提供美味川菜。",
+      "lat": 25.0596005,
+      "lng": 121.4495833,
+      "category": "餐廳",
+      "city": "新北市",
+      "popular_product": "流口水雞、麻婆燒豆腐、催淚蛋"
+    },
+    {
+      "name": "開飯川食堂 南港店",
+      "url": "https://www.google.com/maps/place/KaiFun+Together+Sichuan+Restaurant+-+Nangang/@25.0585798,121.6147947,17z/data=!3m2!4b1!5s0x3442aca7ca7a1fe1:0x13a2480b98cc41df!4m6!3m5!1s0x3442aca649b6d3e3:0x6d295414d26ca771!8m2!3d25.0585798!4d121.6147947!16s%2Fg%2F11cn12s6gm",
+      "place_id": "0x3442aca649b6d3e3:0x6d295414d26ca771",
+      "description": "位於南港中國信託金融園區，寬敞舒適，交通便利，適合商務宴請或家庭聚餐。",
+      "lat": 25.0585798,
+      "lng": 121.6147947,
+      "category": "餐廳",
+      "city": "台北市",
+      "popular_product": "流口水雞、麻婆燒豆腐、催淚蛋"
     }
   ]
 }

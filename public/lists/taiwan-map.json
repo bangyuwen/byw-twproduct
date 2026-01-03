@@ -1,11 +1,8 @@
 {
-  "title": "台派地圖",
-  "count": 12,
-  "extracted_at": "2025-12-29T09:22:39.000Z",
   "places": [
     {
       "name": "ANNIES HAIR",
-      "url": "https://www.google.com/maps/place/ANNIES+HAIR/@25.0420353,121.5676011,17z/data=!4m7!3m6!1s0x3442ab0cea992d17:0xcf3d27cd00c82992!8m2!3d25.0420353!4d121.5676011!10e1!16s%2Fg%2F11h06bdtz_",
+      "url": "https://www.google.com/maps/place/ANNIES+HAIR/@25.0420353,121.5676011,17z/data=!4m16!1m9!3m8!1s0x3442ab0cea992d17:0xcf3d27cd00c82992!2sANNIES+HAIR!8m2!3d25.0420353!4d121.5676011!9m1!1b1!16s%2Fg%2F11h06bdtz_!3m5!1s0x3442ab0cea992d17:0xcf3d27cd00c82992!8m2!3d25.0420353!4d121.5676011!16s%2Fg%2F11h06bdtz_",
       "place_id": "0x3442ab0cea992d17:0xcf3d27cd00c82992",
       "description": "位於台北市信義區的專業髮廊，提供剪髮、染髮、燙髮及頭皮護理服務。",
       "lat": 25.0420353,
@@ -27,7 +24,7 @@
     },
     {
       "name": "悠遊美甲工作室 Yu Nail It | 中永和美甲",
-      "url": "https://www.google.com/maps/place/%E6%82%A0%E9%81%8A%E7%BE%8E%E7%94%B2%E5%B7%A5%E4%BD%9C%E5%AE%A4+Yu+Nail+It/@24.9979193,121.5246754,17z",
+      "url": "https://www.google.com/maps/place/%E6%82%A0%E9%81%8A%E7%BE%8E%E7%94%B2%E5%B7%A5%E4%BD%9C%E5%AE%A4+Yu+Nail+It+%7C+%E4%B8%AD%E6%B0%B8%E5%92%8C%E7%BE%8E%E7%94%B2/@24.9979193,121.5156632,16z/data=!4m10!1m2!2m1!1z5oKg6YGK576O55Sy5bel5L2c5a6kIFl1IE5haWwgSXQg5Lit5rC45ZKM!3m6!1s0x3442a933285152bf:0xa9e8b784bba5a79b!8m2!3d24.9979193!4d121.5246754!15sCirmgqDpgYrnvo7nlLLlt6XkvZzlrqQgWXUgTmFpbCBJdCDkuK3msLjlkoxaMCIu5oKg6YGKIOe-jueUsiDlt6XkvZwg5a6kIHl1IG5haWwgaXQg5LitIOawuOWSjJIBCm5haWxfc2Fsb26aASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTjRjemMzWDJKUkVBReABAPoBBAgAECA!16s%2Fg%2F11ss65vtmw",
       "place_id": "0x3442a933285152bf:0xa9e8b784bba5a79b",
       "description": "位於新北市永和區的居家美甲工作室，環境放鬆舒適，有貓咪陪伴。提供專業凝膠美甲及手足保養服務。",
       "lat": 24.9979193,
@@ -60,7 +57,7 @@
     },
     {
       "name": "當用模型店",
-      "url": "https://www.google.com/maps/place/%E7%95%B6%E7%94%A8%E6%A8%A1%E5%9E%8B%E5%BA%97/@22.6384449,120.2960292,17z",
+      "url": "https://www.google.com/maps/place/%E7%95%B6%E7%94%A8%E6%A8%A1%E5%9E%8B%E5%BA%97/@22.6384449,120.2960292,17z/data=!3m1!4b1!4m6!3m5!1s0x346e04600a96ff07:0x9271c96d5c92131a!8m2!3d22.6384449!4d120.2960292!16s%2Fg%2F1pzxrk7wr",
       "place_id": "0x346e04600a96ff07:0x9271c96d5c92131a",
       "description": "位於高雄市三民區的老字號模型店，提供各式模型、工具及顏料，是模型愛好者的好去處。",
       "lat": 22.6384449,
@@ -71,7 +68,7 @@
     },
     {
       "name": "觀心圓養生餐廳",
-      "url": "https://www.google.com/maps/place/Guan+Xin+Yuan+Macrobiotic+Restaurant/@22.6344716,120.308946,17z",
+      "url": "https://www.google.com/maps/place/Guan+Xin+Yuan+Macrobiotic+Restaurant/@22.6344716,120.308946,17z/data=!3m1!4b1!4m6!3m5!1s0x346e0492a13b7bef:0x87db850a45140b17!8m2!3d22.6344716!4d120.308946!16s%2Fg%2F1pztnmwvb",
       "place_id": "0x346e0492a13b7bef:0x87db850a45140b17",
       "description": "位於高雄市新興區的養生餐廳，以獨特的「黑鍋」（養生藥膳鍋）聞名，深受老饕喜愛。",
       "lat": 22.6344716,
@@ -82,7 +79,7 @@
     },
     {
       "name": "逍遙園",
-      "url": "https://www.google.com/maps/place/Shoyoen/@22.6317765,120.3097146,17z",
+      "url": "https://www.google.com/maps/place/Shoyoen/@22.6317765,120.3097146,17z/data=!3m1!4b1!4m6!3m5!1s0x346e049274c2da1d:0x10a81748b88817ec!8m2!3d22.6317765!4d120.3097146!16s%2Fg%2F155pf3v4",
       "place_id": "0x346e049274c2da1d:0x10a81748b88817ec",
       "description": "建於1940年的日治時期歷史建築，融合了日式與西式建築風格。原為大谷光瑞的別邸，現為高雄市區熱門的文化景點。",
       "lat": 22.6317765,
@@ -93,7 +90,7 @@
     },
     {
       "name": "猜心泡芙 泰順店",
-      "url": "https://www.google.com/maps/place/%E7%8C%9C%E5%BF%83%E6%B3%A1%E8%8A%99/@22.6258079,120.3184852,17z",
+      "url": "https://www.google.com/maps/place/%E7%8C%9C%E5%BF%83%E6%B3%A1%E8%8A%99+%E6%B3%B0%E9%A0%86%E5%BA%97/@22.6314535,120.3179784,17z/data=!3m1!4b1!4m6!3m5!1s0x346e04928252a5d9:0x583b0eb5a0664190!8m2!3d22.6314535!4d120.3179784!16s%2Fg%2F11cm02pfcg",
       "place_id": "0x346e04b4074b620b:0x85f3a0279a11f26a",
       "description": "位於高雄市苓雅區的人氣甜點店，以烘烤至酥脆的外皮搭配飽滿內餡的酥皮泡芙聞名，每天下午營業三小時。",
       "lat": 22.6314535,
@@ -115,7 +112,7 @@
     },
     {
       "name": "冬粉王",
-      "url": "https://www.google.com/maps/place/%E5%86%AC%E7%B2%89%E7%8E%8B/@22.6271961,120.2829129,17z/data=!3m1!4b1!4m6!3m5!1s0x346e047102b7fab5:0xf1e6a11993ea2dd6!8m2!3d22.6271961!4d120.2829129",
+      "url": "https://www.google.com/maps/place/%E5%86%AC%E7%B2%89%E7%8E%8B/@22.6271961,120.2829129,17z/data=!3m1!4b1!4m6!3m5!1s0x346e047102b7fab5:0xf1e6a11993ea2dd6!8m2!3d22.6271961!4d120.2829129!16s%2Fg%2F11c296838m",
       "place_id": "0x346e047102b7fab5:0xf1e6a11993ea2dd6",
       "description": "位於高雄鹽埕區的50年老店，提供以大骨熬製湯頭的清爽冬粉及新鮮的鴨肉、內臟切盤。",
       "lat": 22.6271961,
@@ -126,7 +123,7 @@
     },
     {
       "name": "菜包李小吃部",
-      "url": "https://www.google.com/maps/place/%E8%8F%9C%E5%8C%85%E6%9D%8E%E5%B0%8F%E5%90%83%E9%83%A8/@22.628886,120.297495,17z",
+      "url": "https://www.google.com/maps/place/%E8%8F%9C%E5%8C%85%E6%9D%8E%E5%B0%8F%E5%90%83%E9%83%A8/@22.6341714,120.2922505,17z/data=!3m1!4b1!4m6!3m5!1s0x346e056649b537f1:0x5ee09a601106380e!8m2!3d22.6341714!4d120.2922505!16s%2Fg%2F11h1z_n19s",
       "place_id": "0x346e096f2a3a5d8d:0x3977e5e31c890177",
       "description": "位於高雄市區的低調海鮮餐廳，無固定菜單，以新鮮現點的高品質海鮮料理聞名。",
       "lat": 22.6341714,
@@ -134,6 +131,116 @@
       "category": "美食",
       "city": "高雄市",
       "popular_product": "處女蟳、鹽酥小卷、烤大蛤"
+    },
+    {
+      "name": "良方藥局",
+      "url": "https://www.google.com/maps/place/%E8%89%AF%E6%96%B9%E8%97%A5%E5%B1%80/@23.0273579,120.2566879,17z/data=!3m1!4b1!4m6!3m5!1s0x346e70cc03870c53:0xd013243c33ada109!8m2!3d23.0273579!4d120.2566879!16s%2Fg%2F1td7wv0k",
+      "place_id": "0x346e7f2268b8e0a1:0xb0a8c2791d261e4b",
+      "description": "位於台南市永康區的健保特約藥局。",
+      "lat": 23.0273579,
+      "lng": 120.2566879,
+      "category": "醫療",
+      "city": "台南市",
+      "popular_product": "藥品調劑、醫藥諮詢"
+    },
+    {
+      "name": "玉春花拌飯館",
+      "url": "https://www.google.com/maps/place/%E7%8E%89%E6%98%A5%E8%8A%B1%E6%8B%8C%E9%A3%AF%E9%A4%A8/@22.6411725,120.303127,17z/data=!3m1!4b1!4m6!3m5!1s0x346e04f1b938c18b:0x73887c094151fcea!8m2!3d22.6411676!4d120.3057019!16s%2Fg%2F11g8c8m0yx",
+      "place_id": "0x346e04f1b938c18b:0x73887c094151fcea",
+      "description": "位於高雄市三民區的韓式/台式拌飯專賣店，以無油煙、清爽健康的料理方式聞名，內用提供免費湯品飲料。",
+      "lat": 22.6411676,
+      "lng": 120.3057019,
+      "category": "美食",
+      "city": "高雄市",
+      "popular_product": "油封嫩雞+塔香牛肉雙拼、辣蘿蔔"
+    },
+    {
+      "name": "散步舖傢具 高雄門市",
+      "url": "https://www.google.com/maps/place/%E6%95%A3%E6%AD%A5%E8%88%96%E5%82%A2%E5%85%B7+%E9%AB%98%E9%9B%84%E9%96%80%E5%B8%82/@22.6335645,120.2857197,17z/data=!3m1!4b1!4m6!3m5!1s0x346e052d04270135:0xe4ad16e7e55edb9!8m2!3d22.6335596!4d120.2882946!16s%2Fg%2F11rcwf6yhf",
+      "place_id": "0x346e052d04270135:0xe4ad16e7e55edb9",
+      "description": "位於高雄市的質感家具店，代理Karimoku、Herman Miller等知名品牌，提供北歐老家具與燈飾，營造如家般的展示空間。",
+      "lat": 22.6335596,
+      "lng": 120.2882946,
+      "category": "購物",
+      "city": "高雄市",
+      "popular_product": "北歐老家具、單椅、Karimoku60沙發"
+    },
+    {
+      "name": "肉粽泰Tai",
+      "url": "https://www.google.com/maps/place/%E8%82%89%E7%B2%BD%E6%B3%B0Tai/@22.6316702,120.2816555,17z/data=!3m1!4b1!4m6!3m5!1s0x346e046fbf0cc401:0xa2ff8687aa2c8372!8m2!3d22.6316653!4d120.2842304!16s%2Fg%2F11b6ch1qcq",
+      "place_id": "0x346e046fbf0cc401:0xa2ff8687aa2c8372",
+      "description": "原為70年老店郭家肉粽，位於高雄鹽埕區，由徒弟接手經營。提供道地的南部軟糯口感肉粽。",
+      "lat": 22.6316653,
+      "lng": 120.2842304,
+      "category": "美食",
+      "city": "高雄市",
+      "popular_product": "肉粽、四神湯、碗粿"
+    },
+    {
+      "name": "赤山黃鴨肉麵",
+      "url": "https://www.google.com/maps/place/%E8%B5%A4%E5%B1%B1%E9%BB%83%E9%B4%A8%E8%82%89%E9%BA%B5/@22.6401185,120.3504144,17z/data=!3m1!4b1!4m6!3m5!1s0x346e1b8627d31a9f:0xa66ac54028d1ec5a!8m2!3d22.6401136!4d120.3529893!16s%2Fg%2F11rql6kwn5",
+      "place_id": "0x346e1b8627d31a9f:0xa66ac54028d1ec5a",
+      "description": "位於高雄鳳山區的低調人氣麵店，無招牌無菜單，以軟嫩入味的燻鴨肉和鴨肉麵聞名。",
+      "lat": 22.6401136,
+      "lng": 120.3529893,
+      "category": "美食",
+      "city": "高雄市",
+      "popular_product": "鴨肉乾麵、清湯、煙燻鴨肉"
+    },
+    {
+      "name": "法果子小串烤 凱龍星店 新興區宵夜/寵物友善/I人獨食首選/塔羅紫微洞悉卡",
+      "url": "https://www.google.com/maps/place/%E6%B3%95%E6%9E%9C%E5%AD%90%E5%B0%8F%E4%B8%B2%E7%83%A4+%E5%87%B1%E9%BE%8D%E6%98%9F%E5%BA%97+%E6%96%B0%E8%88%88%E5%8D%80%E5%AE%B5%E5%A4%9C%2F%E5%AF%B5%E7%89%A9%E5%8F%8B%E5%96%84%2FI%E4%BA%BA%E7%8D%A8%E9%A3%9F%E9%A6%96%E9%81%B8%2F%E5%A1%94%E7%BE%85%E7%B4%AB%E5%BE%AE%E6%B4%9E%E6%82%89%E5%8D%A1/@22.6239198,120.3038383,17z/data=!3m1!4b1!4m6!3m5!1s0x346e1bebfb50d9bd:0x6997736758c8a717!8m2!3d22.6239149!4d120.3064132!16s%2Fg%2F11tw_mhqy2",
+       "place_id": "0x346e1bebfb50d9bd:0x6997736758c8a717",
+      "description": "位於高雄新興區的平價串燒攤，提供椒鹽與焦糖兩種獨特風味的串烤，寵物友善且適合一人獨食。",
+      "lat": 22.6239149,
+      "lng": 120.3064132,
+      "category": "美食",
+      "city": "高雄市",
+      "popular_product": "焦糖串烤、蒜香蛤蠣湯、椒鹽黑輪片"
+    },
+    {
+      "name": "眷鳥咖啡商行",
+      "url": "https://www.google.com/maps/place/Nostalgia+Coffee+Roastery/@22.6205224,120.2928438,17z/data=!3m1!4b1!4m6!3m5!1s0x346e055022de4c7f:0xd8c974869421475f!8m2!3d22.6205175!4d120.2954187!16s%2Fg%2F11tdxxdnlp",
+      "place_id": "0x346e055022de4c7f:0xd8c974869421475f",
+      "description": "位於高雄市的復古風格咖啡廳，保留老屋氛圍，提供精緻的戚風蛋糕與手沖咖啡。",
+      "lat": 22.6205175,
+      "lng": 120.2954187,
+      "category": "咖啡廳",
+      "city": "高雄市",
+      "popular_product": "戚風蛋糕、布丁、鹹派"
+    },
+    {
+      "name": "岸等",
+      "url": "https://www.google.com/maps/place/%E5%B2%B8%E7%AD%89/@22.6212853,120.2841885,17z/data=!3m1!4b1!4m6!3m5!1s0x346e054406e5083b:0xb464895f4ed6172d!8m2!3d22.6212804!4d120.2867634!16s%2Fg%2F11kr_gm2mk",
+      "place_id": "0x346e054406e5083b:0xb464895f4ed6172d",
+      "description": "岸等是位於高雄市鹽埕區的亞洲料理餐廳。",
+      "lat": 22.6212804,
+      "lng": 120.2867634,
+      "category": "美食",
+      "city": "高雄市",
+      "popular_product": "紅酒燉牛肉、開胃小菜"
+    },
+    {
+      "name": "六木咖啡（只有六日營業）",
+      "url": "https://www.google.com/maps/place/%E5%85%AD%E6%9C%A8%E5%92%96%E5%95%A1%EF%BC%88%E5%8F%AA%E6%9C%89%E5%85%AD%E6%97%A5%E7%87%9F%E6%A5%AD%EF%BC%89/@22.614091,120.3245178,17z/data=!3m1!4b1!4m6!3m5!1s0x346e0556d6462b77:0x217f28884037e16c!8m2!3d22.6140861!4d120.3270927!16s%2Fg%2F11ld13tq6q",
+      "place_id": "0x346e0556d6462b77:0x217f28884037e16c",
+      "description": "位於高雄市苓雅區的咖啡麵包店，提供自家烘焙咖啡與新鮮出爐的台式麵包，六日營業。",
+      "lat": 22.6140861,
+      "lng": 120.3270927,
+      "category": "咖啡廳",
+      "city": "高雄市",
+      "popular_product": "台式麵包、紅豆麵包、肉鬆麵包"
+    },
+    {
+      "name": "暗坑文化工作室",
+      "url": "https://www.google.com/maps/place/%E6%9A%97%E5%9D%91%E6%96%87%E5%8C%96%E5%B7%A5%E4%BD%9C%E5%AE%A4/@24.9484157,121.4921472,17z/data=!3m1!4b1!4m6!3m5!1s0x34680365edebff3f:0x64b3adc87aed8023!8m2!3d24.9484109!4d121.4947221!16s%2Fg%2F11k6n6fvq_",
+      "place_id": "0x34680365edebff3f:0x64b3adc87aed8023",
+      "description": "位於新北市新店區的文化工作室，致力於安坑地區的文史研究與文化推廣，舉辦導覽與出版刊物。",
+      "lat": 24.9484109,
+      "lng": 121.4947221,
+      "category": "其他",
+      "city": "新北市",
+      "popular_product": "文化導覽、文史出版"
     }
   ]
 }
